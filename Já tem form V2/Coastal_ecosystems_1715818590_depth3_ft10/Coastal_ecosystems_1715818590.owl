@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <owl:Class rdf:about="#Restoration%20efforts">
+    <rdfs:label>Restoration efforts</rdfs:label>
+    <rdfs:comment>Initiatives focused on restoring degraded or lost mangrove habitats.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Mangrove%20conservation"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Mudflats">
+    <rdfs:label>Mudflats</rdfs:label>
+    <rdfs:comment>Coastal habitats characterized by soft, muddy substrates that are exposed at low tide and submerged at high tide.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Intertidal%20zones"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Obligate%20halophytes">
+    <rdfs:label>Obligate halophytes</rdfs:label>
+    <rdfs:comment>Plants that require saline conditions to survive and thrive.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Halophytes"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Fisheries%20support">
+    <rdfs:label>Fisheries support</rdfs:label>
+    <rdfs:comment>Mangroves serve as nurseries and feeding grounds for many fish and shellfish species, supporting local fisheries and livelihoods.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Mangrove%20ecosystem%20services"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Sandy%20intertidal">
+    <rdfs:label>Sandy intertidal</rdfs:label>
+    <rdfs:comment>Coastal habitats characterized by sandy substrates that are exposed at low tide and submerged at high tide.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Intertidal%20zones"/>
+    <rdfs:subClassOf rdf:resource="#Sandy%20beaches"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Succulent%20halophytes">
+    <rdfs:label>Succulent halophytes</rdfs:label>
+    <rdfs:comment>Plants that store water in their tissues to survive in saline environments.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Halophytes"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Mollusks">
+    <rdfs:label>Mollusks</rdfs:label>
+    <rdfs:comment>Invertebrates with soft bodies, often protected by a hard shell, such as snails, clams, and octopuses.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Beach%20fauna"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Rocky%20intertidal">
+    <rdfs:label>Rocky intertidal</rdfs:label>
+    <rdfs:comment>Coastal habitats characterized by solid rock surfaces exposed to the action of waves and tides.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Intertidal%20zones"/>
+  </owl:Class>
+  <owl:Ontology rdf:about="file:///Coastal_ecosystems.owl"/>
+  <owl:Class rdf:about="#Coastal%20ecosystems">
+    <rdfs:label>Coastal ecosystems</rdfs:label>
+    <rdfs:comment>Coastal ecosystems refer to the diverse habitats and communities of plants and animals that exist along the shoreline where land meets the sea.</rdfs:comment>
+  </owl:Class>
+  <owl:Class rdf:about="#Salt%20marshes">
+    <rdfs:label>Salt marshes</rdfs:label>
+    <rdfs:comment>Coastal wetlands with salt-tolerant plants that are flooded and drained by the tides.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Coastal%20ecosystems"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Mangrove%20conservation">
+    <rdfs:label>Mangrove conservation</rdfs:label>
+    <rdfs:comment>Activities and initiatives aimed at protecting and preserving mangrove forests and their associated biodiversity.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Mangrove%20forests"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Intertidal%20zones">
+    <rdfs:label>Intertidal zones</rdfs:label>
+    <rdfs:comment>Intertidal zones is a subcategory of Rocky shores. Coastal habitats characterized by solid rock surfaces exposed to the action of waves and tides.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Rocky%20shores"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Rocky%20shores">
+    <rdfs:label>Rocky shores</rdfs:label>
+    <rdfs:comment>Coastal habitats characterized by solid rock surfaces exposed to the action of waves and tides.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Coastal%20ecosystems"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Halophytes">
+    <rdfs:label>Halophytes</rdfs:label>
+    <rdfs:comment>Plants that are adapted to thrive in saline environments.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Salt%20marshes"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Beach%20fauna">
+    <rdfs:label>Beach fauna</rdfs:label>
+    <rdfs:comment>The diverse array of animal species that inhabit sandy beach environments.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Sandy%20beaches"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Sandy%20beaches">
+    <rdfs:label>Sandy beaches</rdfs:label>
+    <rdfs:comment>Coastal habitats with sandy substrates that are constantly shaped by wave action.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Coastal%20ecosystems"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Mangrove%20ecosystem%20services">
+    <rdfs:label>Mangrove ecosystem services</rdfs:label>
+    <rdfs:comment>The benefits that mangrove forests provide to both the environment and human communities.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Mangrove%20conservation"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Mangrove%20forests">
+    <rdfs:label>Mangrove forests</rdfs:label>
+    <rdfs:comment>Coastal wetlands dominated by salt-tolerant trees and shrubs.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Coastal%20ecosystems"/>
+  </owl:Class>
+</rdf:RDF>

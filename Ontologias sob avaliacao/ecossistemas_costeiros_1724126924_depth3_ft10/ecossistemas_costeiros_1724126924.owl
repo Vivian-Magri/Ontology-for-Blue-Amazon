@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <owl:Class rdf:about="#Lodaçais">
+    <rdfs:label>Lodaçais</rdfs:label>
+    <rdfs:comment>Mudflats exposed at low tide and submerged at high tide, often rich in nutrients and biodiversity.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Estuários"/>
+    <rdfs:subClassOf rdf:resource="#Zonas%20de%20maré%20média"/>
+    <rdfs:subClassOf rdf:resource="#Marismas%20de%20água%20salobra"/>
+    <rdfs:subClassOf rdf:resource="#Marismas%20de%20maré%20alta"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Colonização%20biológica%20de%20recifes%20artificiais">
+    <rdfs:label>Colonização biológica de recifes artificiais</rdfs:label>
+    <rdfs:comment>Refers to the settlement and growth of marine organisms on the artificial reef.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Impacto%20ambiental%20dos%20recifes%20de%20coral%20artificiais"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Baías%20de%20recife%20de%20coral">
+    <rdfs:label>Baías de recife de coral</rdfs:label>
+    <rdfs:comment>These are bays that are characterized by the presence of coral reefs.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Baías"/>
+    <rdfs:subClassOf rdf:resource="#Recifes%20de%20coral"/>
+    <rdfs:subClassOf rdf:resource="#Baías%20e%20enseadas"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Hidrologia%20de%20dunas%20fixas">
+    <rdfs:label>Hidrologia de dunas fixas</rdfs:label>
+    <rdfs:comment>This refers to the study of water movement, distribution, and properties in stabilized dunes.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Dunas%20fixas"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Recifes%20de%20plataforma">
+    <rdfs:label>Recifes de plataforma</rdfs:label>
+    <rdfs:comment>These are extensive, relatively flat coral formations that can stretch out for many kilometers.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Recifes%20de%20coral"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Zonas%20de%20maré%20submersas">
+    <rdfs:label>Zonas de maré submersas</rdfs:label>
+    <rdfs:comment>These are areas that are always submerged, even during low tide.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Zonas%20de%20maré"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Enseadas%20rochosas">
+    <rdfs:label>Enseadas rochosas</rdfs:label>
+    <rdfs:comment>Rocky coves, typically characterized by rocky shores.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Baías%20e%20enseadas"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Zonas%20de%20vegetação%20de%20maré%20alta">
+    <rdfs:label>Zonas de vegetação de maré alta</rdfs:label>
+    <rdfs:comment>Areas with vegetation that can survive regular submersion during high tide.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Estuários"/>
+    <rdfs:subClassOf rdf:resource="#Halophytic%20marshes"/>
+    <rdfs:subClassOf rdf:resource="#Marismas%20de%20maré%20alta"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Enseadas%20arenosas">
+    <rdfs:label>Enseadas arenosas</rdfs:label>
+    <rdfs:comment>Sandy coves, typically small, sheltered bays with sandy beaches.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Baías%20e%20enseadas"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Atóis">
+    <rdfs:label>Atóis</rdfs:label>
+    <rdfs:comment>These are ring-shaped coral reefs, islands, or a series of coral rims that encircle a lagoon partially or completely.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Recifes%20de%20coral"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Zonas%20de%20upwelling%20costeiras">
+    <rdfs:label>Zonas de upwelling costeiras</rdfs:label>
+    <rdfs:comment>Areas where deep, nutrient-rich water rises to the surface, often leading to high productivity.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#ecossistemas%20costeiros"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Baías%20de%20mangue">
+    <rdfs:label>Baías de mangue</rdfs:label>
+    <rdfs:comment>These are bays characterized by the presence of mangrove trees and the unique ecosystems they support.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Baías"/>
+    <rdfs:subClassOf rdf:resource="#Manguezais"/>
+    <rdfs:subClassOf rdf:resource="#Baías%20e%20enseadas"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Solo%20de%20dunas%20fixas">
+    <rdfs:label>Solo de dunas fixas</rdfs:label>
+    <rdfs:comment>This refers to the soil characteristics of stabilized dunes, typically sandy and well-drained.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Dunas%20fixas"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Baías%20de%20fiordes">
+    <rdfs:label>Baías de fiordes</rdfs:label>
+    <rdfs:comment>These are long, narrow bays with steep sides, created by glacial activity.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Baías"/>
+    <rdfs:subClassOf rdf:resource="#Baías%20e%20enseadas"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Fauna%20do%20recife%20artificial">
+    <rdfs:label>Fauna do recife artificial</rdfs:label>
+    <rdfs:comment>Refers to the different species of marine life that inhabit and colonize the artificial reef.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Recifes%20de%20coral%20artificiais"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Fauna%20de%20dunas%20fixas">
+    <rdfs:label>Fauna de dunas fixas</rdfs:label>
+    <rdfs:comment>This refers to the animal species that inhabit stabilized dunes, adapted to the specific conditions of this environment.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Dunas%20fixas"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Manguezais%20de%20água%20salobra">
+    <rdfs:label>Manguezais de água salobra</rdfs:label>
+    <rdfs:comment>Brackish marshes dominated by mangroves, which are trees and shrubs that grow in saline coastal habitats.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Marismas%20de%20água%20salobra"/>
+    <rdfs:subClassOf rdf:resource="#Manguezais"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Zonas%20de%20maré%20de%20florestas%20de%20kelp">
+    <rdfs:label>Zonas de maré de florestas de kelp</rdfs:label>
+    <rdfs:comment>These are areas where kelp forests are exposed during low tide. The kelp in these areas is often more delicate and susceptible to drying out.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Florestas%20de%20kelp"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Dunas%20de%20cobertura%20vegetal">
+    <rdfs:label>Dunas de cobertura vegetal</rdfs:label>
+    <rdfs:comment>These are dunes that have a layer of vegetation growing on them, which helps to stabilize the sand.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Dunas%20de%20praia"/>
+    <rdfs:subClassOf rdf:resource="#Dunas%20fixas"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Baías%20de%20mar%20fechado">
+    <rdfs:label>Baías de mar fechado</rdfs:label>
+    <rdfs:comment>Bodies of water partially surrounded by land, but largely closed off from the sea.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Baías"/>
+    <rdfs:subClassOf rdf:resource="#Baías%20e%20enseadas"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Canais%20de%20maré">
+    <rdfs:label>Canais de maré</rdfs:label>
+    <rdfs:comment>Deep water areas within an estuary.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Estuários"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Microclima%20de%20dunas%20fixas">
+    <rdfs:label>Microclima de dunas fixas</rdfs:label>
+    <rdfs:comment>This refers to the specific climatic conditions within the stabilized dune environment, influenced by factors such as wind, temperature, and humidity.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Dunas%20fixas"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Estrutura%20dos%20recifes%20de%20coral%20artificiais">
+    <rdfs:label>Estrutura dos recifes de coral artificiais</rdfs:label>
+    <rdfs:comment>Refers to the physical shape, size, and arrangement of the artificial reef.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Planejamento%20e%20design%20de%20recifes%20de%20coral%20artificiais"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Marismas%20de%20spartina">
+    <rdfs:label>Marismas de spartina</rdfs:label>
+    <rdfs:comment>These are marshes that are dominated by cordgrasses, a type of salt-tolerant grass.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Marismas%20de%20água%20salobra%20de%20sapais"/>
+    <rdfs:subClassOf rdf:resource="#Marismas%20de%20gramíneas%20salobras"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Zonas%20de%20desova%20de%20tartarugas%20marinhas">
+    <rdfs:label>Zonas de desova de tartarugas marinhas</rdfs:label>
+    <rdfs:comment>Areas where sea turtles lay their eggs.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Praias%20arenosas"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Zonas%20de%20maré%20de%20recifes%20de%20coral">
+    <rdfs:label>Zonas de maré de recifes de coral</rdfs:label>
+    <rdfs:comment>These are areas where coral reefs are exposed during low tide and submerged during high tide.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Recifes%20de%20coral"/>
+    <rdfs:subClassOf rdf:resource="#Zonas%20de%20maré"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Praias%20arenosas%20intermares">
+    <rdfs:label>Praias arenosas intermares</rdfs:label>
+    <rdfs:comment>These are sandy areas that are exposed during low tide and submerged during high tide.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Zonas%20de%20maré%20média"/>
+    <rdfs:subClassOf rdf:resource="#Praias%20arenosas"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Dunas%20móveis">
+    <rdfs:label>Dunas móveis</rdfs:label>
+    <rdfs:comment>These are dunes that are actively shifting and changing shape due to wind or wave action.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Dunas%20de%20praia"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Zonas%20de%20maré%20com%20pradarias%20marinhas">
+    <rdfs:label>Zonas de maré com pradarias marinhas</rdfs:label>
+    <rdfs:comment>These are areas where seagrass beds are found, influenced by the tidal movements.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Zonas%20de%20maré"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Zonas%20de%20arrebentação">
+    <rdfs:label>Zonas de arrebentação</rdfs:label>
+    <rdfs:comment>Areas where waves break, typically where the sea meets the shore.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Praias%20arenosas"/>
+  </owl:Class>
+  <owl:Ontology rdf:about="file:///ecossistemas_costeiros.owl"/>
+  <owl:Class rdf:about="#Zonas%20de%20maré%20baixa">
+    <rdfs:label>Zonas de maré baixa</rdfs:label>
+    <rdfs:comment>These are areas of the reef that are typically submerged, even during low tide.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Recifes%20de%20coral"/>
+    <rdfs:subClassOf rdf:resource="#Zonas%20de%20maré"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Florestas%20de%20kelp%20intertidais">
+    <rdfs:label>Florestas de kelp intertidais</rdfs:label>
+    <rdfs:comment>These are areas where kelp forests are exposed during high tide. The kelp in these areas is often more robust to withstand the force of the waves.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Florestas%20de%20kelp"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Marismas%20de%20água%20salobra%20de%20baixa%20salinidade">
+    <rdfs:label>Marismas de água salobra de baixa salinidade</rdfs:label>
+    <rdfs:comment>Brackish marshes with low salinity levels, typically found in areas with high freshwater input.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Marismas%20de%20água%20salobra"/>
+    <rdfs:subClassOf rdf:resource="#Marismas%20salgadas"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Marismas%20de%20água%20salobra%20hipersalinas">
+    <rdfs:label>Marismas de água salobra hipersalinas</rdfs:label>
+    <rdfs:comment>Brackish marshes with high salinity levels, typically found in areas with high evaporation rates.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Halophytic%20salt%20marshes"/>
+    <rdfs:subClassOf rdf:resource="#Marismas%20de%20água%20salobra"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Recifes%20de%20patch">
+    <rdfs:label>Recifes de patch</rdfs:label>
+    <rdfs:comment>These are isolated, outlying coral formations found within the lagoon or between a fringing reef and a barrier reef.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Recifes%20de%20coral"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Enseadas%20de%20pradaria%20marinha">
+    <rdfs:label>Enseadas de pradaria marinha</rdfs:label>
+    <rdfs:comment>Coves where seagrass meadows are found.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Pradarias%20marinhas"/>
+    <rdfs:subClassOf rdf:resource="#Baías%20e%20enseadas"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Vegetação%20de%20dunas%20fixas">
+    <rdfs:label>Vegetação de dunas fixas</rdfs:label>
+    <rdfs:comment>This refers to the plant species that grow on stabilized dunes, adapted to survive in sandy, nutrient-poor soil and harsh climatic conditions.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Dunas%20fixas"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Zonas%20de%20surgência%20costeira">
+    <rdfs:label>Zonas de surgência costeira</rdfs:label>
+    <rdfs:comment>Coastal areas where deep, cold, nutrient-rich water rises to the surface.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#ecossistemas%20costeiros"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Marés%20rochosas">
+    <rdfs:label>Marés rochosas</rdfs:label>
+    <rdfs:comment>These are rocky areas that are exposed during low tide and submerged during high tide.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Zonas%20de%20maré"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Baías%20fechadas">
+    <rdfs:label>Baías fechadas</rdfs:label>
+    <rdfs:comment>These are bays that are largely enclosed by land, with only a narrow opening to the sea or ocean.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Baías"/>
+    <rdfs:subClassOf rdf:resource="#Baías%20e%20enseadas"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Zonas%20de%20florestas%20de%20kelp%20profundas">
+    <rdfs:label>Zonas de florestas de kelp profundas</rdfs:label>
+    <rdfs:comment>These are areas where kelp forests grow in deeper waters, typically where sunlight can still penetrate.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Florestas%20de%20kelp"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Enseadas%20de%20mangue">
+    <rdfs:label>Enseadas de mangue</rdfs:label>
+    <rdfs:comment>Coves characterized by the presence of mangrove trees.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Baías%20e%20enseadas"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Zonas%20de%20arrecifes%20de%20ostras">
+    <rdfs:label>Zonas de arrecifes de ostras</rdfs:label>
+    <rdfs:comment>Areas in the ocean where oysters form reef-like structures.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#ecossistemas%20costeiros"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Recifes%20de%20barreira%20submersos">
+    <rdfs:label>Recifes de barreira submersos</rdfs:label>
+    <rdfs:comment>These are reefs that are separated from the mainland or island shore and are usually located on the continental shelf, with their upper parts below sea level.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Recifes%20de%20barreira"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Marés%20de%20mangue">
+    <rdfs:label>Marés de mangue</rdfs:label>
+    <rdfs:comment>These are areas where mangrove trees grow, influenced by the tidal movements.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Zonas%20de%20maré"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Lagoas%20costeiras">
+    <rdfs:label>Lagoas costeiras</rdfs:label>
+    <rdfs:comment>Shallow bodies of salt or brackish water, separated from the sea by a barrier such as a sandbar or coral reef.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#ecossistemas%20costeiros"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Recifes%20de%20franja">
+    <rdfs:label>Recifes de franja</rdfs:label>
+    <rdfs:comment>These are coral formations that are directly attached to a shore or border a shore without an intervening lagoon.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Recifes%20de%20coral"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Florestas%20de%20kelp%20subtidais">
+    <rdfs:label>Florestas de kelp subtidais</rdfs:label>
+    <rdfs:comment>These are areas in the subtidal zone, which is the area of the seafloor that is always submerged, even at low tide. Kelp forests in these areas can grow quite large due to the constant availability of water.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Florestas%20de%20kelp"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Zonas%20de%20maré%20média">
+    <rdfs:label>Zonas de maré média</rdfs:label>
+    <rdfs:comment>These are areas that are partially exposed and submerged during the transition between high and low tide.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Zonas%20de%20maré"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Halophytic%20marshes">
+    <rdfs:label>Halophytic marshes</rdfs:label>
+    <rdfs:comment>These are marshes that are characterized by the presence of halophytic (salt-tolerant) vegetation.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Zonas%20de%20maré"/>
+    <rdfs:subClassOf rdf:resource="#Marismas%20salgadas"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Impacto%20ambiental%20dos%20recifes%20de%20coral%20artificiais">
+    <rdfs:label>Impacto ambiental dos recifes de coral artificiais</rdfs:label>
+    <rdfs:comment>Refers to the effect of the artificial reef on the surrounding environment and ecosystem.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Recifes%20de%20coral%20artificiais"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Baías%20e%20enseadas">
+    <rdfs:label>Baías e enseadas</rdfs:label>
+    <rdfs:comment>Small to large coastal indentations that provide a calm area for marine life.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#ecossistemas%20costeiros"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Marismas%20de%20água%20salobra%20de%20sapais">
+    <rdfs:label>Marismas de água salobra de sapais</rdfs:label>
+    <rdfs:comment>Brackish marshes dominated by salt-tolerant plants, typically found in the upper coastal intertidal zone.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Marismas%20de%20maré"/>
+    <rdfs:subClassOf rdf:resource="#Sapais"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Foz%20de%20rios">
+    <rdfs:label>Foz de rios</rdfs:label>
+    <rdfs:comment>The mouth of a river where it flows into a larger body of water, such as a sea or ocean.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#ecossistemas%20costeiros"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Recifes%20de%20coral%20artificiais">
+    <rdfs:label>Recifes de coral artificiais</rdfs:label>
+    <rdfs:comment>These are man-made underwater structures, typically built for the purpose of promoting marine life.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Recifes%20de%20coral"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Marismas%20de%20maré%20alta">
+    <rdfs:label>Marismas de maré alta</rdfs:label>
+    <rdfs:comment>Areas that are regularly flooded during high tide.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Marismas"/>
+    <rdfs:subClassOf rdf:resource="#Zonas%20de%20maré"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Manguezais">
+    <rdfs:label>Manguezais</rdfs:label>
+    <rdfs:comment>Coastal wetlands dominated by mangrove trees, which are adapted to survive in salty and brackish waters.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#ecossistemas%20costeiros"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Halophytic%20salt%20marshes">
+    <rdfs:label>Halophytic salt marshes</rdfs:label>
+    <rdfs:comment>These are salt marshes that are characterized by the presence of halophytic vegetation.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Marismas%20salgadas"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Marismas%20de%20gramíneas%20salobras">
+    <rdfs:label>Marismas de gramíneas salobras</rdfs:label>
+    <rdfs:comment>Brackish marshes dominated by grasses, which are adapted to the saline conditions.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Halophytic%20salt%20marshes"/>
+    <rdfs:subClassOf rdf:resource="#Marismas%20de%20água%20salobra"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Marismas%20salgadas">
+    <rdfs:label>Marismas salgadas</rdfs:label>
+    <rdfs:comment>Coastal wetlands that are flooded and drained by salt water brought in by the tides.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Marismas"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Marismas%20de%20maré">
+    <rdfs:label>Marismas de maré</rdfs:label>
+    <rdfs:comment>These are marshes that are exposed during low tides and flooded during high tides.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Halophytic%20salt%20marshes"/>
+    <rdfs:subClassOf rdf:resource="#Zonas%20de%20maré"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Dunas%20costeiras">
+    <rdfs:label>Dunas costeiras</rdfs:label>
+    <rdfs:comment>Areas of sand dunes found along the coastline, shaped by the action of wind and waves.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#ecossistemas%20costeiros"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Recifes%20de%20coral">
+    <rdfs:label>Recifes de coral</rdfs:label>
+    <rdfs:comment>Underwater ecosystems characterized by coral formations, which provide habitats for a diverse range of marine species.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#ecossistemas%20costeiros"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Estuários">
+    <rdfs:label>Estuários</rdfs:label>
+    <rdfs:comment>Areas where a river meets the sea, characterized by brackish water.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Foz%20de%20rios"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Praias%20arenosas">
+    <rdfs:label>Praias arenosas</rdfs:label>
+    <rdfs:comment>Sandy areas along the coastline, often used for recreational activities.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#ecossistemas%20costeiros"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Pradarias%20marinhas">
+    <rdfs:label>Pradarias marinhas</rdfs:label>
+    <rdfs:comment>Underwater areas dominated by seagrasses, which are flowering plants that grow in marine environments.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#ecossistemas%20costeiros"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Dunas%20fixas">
+    <rdfs:label>Dunas fixas</rdfs:label>
+    <rdfs:comment>These are dunes that have become stabilized by vegetation and are no longer shifting or changing shape due to wind or wave action.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Dunas%20costeiras"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Baías">
+    <rdfs:label>Baías</rdfs:label>
+    <rdfs:comment>Bodies of water partially enclosed by land but with a wide mouth, providing access to the sea.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#ecossistemas%20costeiros"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Florestas%20de%20kelp">
+    <rdfs:label>Florestas de kelp</rdfs:label>
+    <rdfs:comment>Underwater areas dominated by large brown algae known as kelp.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#ecossistemas%20costeiros"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Dunas%20de%20praia">
+    <rdfs:label>Dunas de praia</rdfs:label>
+    <rdfs:comment>These are dunes that form directly on the beach, often at the back of the beach where wind-blown sand begins to accumulate.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Dunas%20costeiras"/>
+    <rdfs:subClassOf rdf:resource="#Praias%20arenosas"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Planejamento%20e%20design%20de%20recifes%20de%20coral%20artificiais">
+    <rdfs:label>Planejamento e design de recifes de coral artificiais</rdfs:label>
+    <rdfs:comment>Refers to the planning and layout of the artificial coral reef.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Recifes%20de%20coral%20artificiais"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Recifes%20de%20barreira">
+    <rdfs:label>Recifes de barreira</rdfs:label>
+    <rdfs:comment>These are long, narrow coral formations that run parallel to the coastline, separated from it by a lagoon or other body of water.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Recifes%20de%20coral"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Marismas%20de%20água%20salobra">
+    <rdfs:label>Marismas de água salobra</rdfs:label>
+    <rdfs:comment>Brackish marshes that contain water with more salinity than fresh water, but not as much as seawater.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Marismas"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Sapais">
+    <rdfs:label>Sapais</rdfs:label>
+    <rdfs:comment>Salt marshes that are flooded and drained by salt water brought in by the tides.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Halophytic%20salt%20marshes"/>
+    <rdfs:subClassOf rdf:resource="#Zonas%20de%20maré%20média"/>
+    <rdfs:subClassOf rdf:resource="#Halophytic%20marshes"/>
+    <rdfs:subClassOf rdf:resource="#Marismas%20de%20água%20salobra"/>
+  </owl:Class>
+  <owl:Class rdf:about="#ecossistemas%20costeiros">
+    <rdfs:label>ecossistemas costeiros</rdfs:label>
+    <rdfs:comment>"Ecossistemas costeiros" is a Portuguese term that refers to the ecological systems found along coastal areas. These systems are characterized by a unique interaction of land, sea, and air elements, hosting a diverse range of plant and animal species. They are influenced by factors such as tides, waves, and salt concentration.</rdfs:comment>
+  </owl:Class>
+  <owl:Class rdf:about="#Zonas%20de%20maré">
+    <rdfs:label>Zonas de maré</rdfs:label>
+    <rdfs:comment>Areas that are alternately covered and exposed by the sea, depending on the tide.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#ecossistemas%20costeiros"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Marismas">
+    <rdfs:label>Marismas</rdfs:label>
+    <rdfs:comment>Wetlands found along the coastlines, often flooded by tides and rich in vegetation.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#ecossistemas%20costeiros"/>
+  </owl:Class>
+</rdf:RDF>

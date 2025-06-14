@@ -1,0 +1,168 @@
+{
+    "model": "gpt-4-0613",
+    "start": "2024-05-17 01:08:21",
+    "end": "2024-05-17 01:50:23",
+    "duration (seconds)": 2522,
+    "timestamp": 1715918901,
+    "seed concept": "Coastal ecosystems",
+    "prompts": 2934,
+    "duplicates": 81,
+    "tokens (total)": 423835,
+    "tokens (responses)": 14891,
+    "tokens (requests)": 408944,
+    "parameters": {
+        "temperature (sampling)": 2.0,
+        "top_p (sampling)": 0.99,
+        "number of completions (sampling)": 100,
+        "frequency threshold for sampling": 10,
+        "exploration depth": 3
+    },
+    "statistics": {
+        "Concepts in ontology": 94,
+        "Accepted after renaming": 7,
+        "Dismissed terms": 147,
+        "Dismissed as instance": 13,
+        "Dismissed as partOf": 60,
+        "Dismissed as no subconcept of seed": 41,
+        "Dismissed as no subconcept of parent": 33,
+        "Synonyms": 1,
+        "Concepts without subconcept": 55,
+        "Subsumptions (transitive reduction)": 133,
+        "Subsumptions (found by KRIS)": 40,
+        "Cost of ontology in dollar": 0.64,
+        "Cost per concept in cent": 0.68,
+        "Prompts": 2934,
+        "Prompts per concept": 31.21,
+        "Tokens": 423835,
+        "Tokens per concept": 4509,
+        "Maximal depth": 5,
+        "Maximal indegree": 4,
+        "Maximal outdegree": 11,
+        "Average degree": 1.41,
+        "Depth 0": {
+            "Concepts": 1,
+            "Concepts without subconcept": 0,
+            "Maximal indegree": 0,
+            "Maximal outdegree": 10,
+            "Average indegree": 0.0,
+            "Average outdegree": 10.0
+        },
+        "Depth 1": {
+            "Concepts": 10,
+            "Concepts without subconcept": 4,
+            "Maximal indegree": 1,
+            "Maximal outdegree": 7,
+            "Average indegree": 1.0,
+            "Average outdegree": 3.0
+        },
+        "Depth 2": {
+            "Concepts": 25,
+            "Concepts without subconcept": 11,
+            "Maximal indegree": 3,
+            "Maximal outdegree": 11,
+            "Average indegree": 1.36,
+            "Average outdegree": 1.8
+        },
+        "Depth 3": {
+            "Concepts": 30,
+            "Concepts without subconcept": 23,
+            "Maximal indegree": 3,
+            "Maximal outdegree": 9,
+            "Average indegree": 1.7,
+            "Average outdegree": 0.93
+        },
+        "Depth 4": {
+            "Concepts": 23,
+            "Concepts without subconcept": 14,
+            "Maximal indegree": 4,
+            "Maximal outdegree": 4,
+            "Average indegree": 1.3,
+            "Average outdegree": 0.78
+        },
+        "Depth 5": {
+            "Concepts": 5,
+            "Concepts without subconcept": 3,
+            "Maximal indegree": 3,
+            "Maximal outdegree": 1,
+            "Average indegree": 1.6,
+            "Average outdegree": 0.4
+        },
+        "Outdegree 0": {
+            "Concepts": 55,
+            "Minimal depth": 1,
+            "Maximal depth": 5,
+            "Average depth": 3,
+            "Median depth": 3
+        },
+        "Outdegree 1": {
+            "Concepts": 12,
+            "Minimal depth": 2,
+            "Maximal depth": 5,
+            "Average depth": 4,
+            "Median depth": 4.0
+        },
+        "Outdegree 2": {
+            "Concepts": 6,
+            "Minimal depth": 2,
+            "Maximal depth": 4,
+            "Average depth": 2,
+            "Median depth": 2.0
+        },
+        "Outdegree 3": {
+            "Concepts": 6,
+            "Minimal depth": 1,
+            "Maximal depth": 4,
+            "Average depth": 2,
+            "Median depth": 2.0
+        },
+        "Outdegree 4": {
+            "Concepts": 4,
+            "Minimal depth": 2,
+            "Maximal depth": 4,
+            "Average depth": 3,
+            "Median depth": 3.5
+        },
+        "Outdegree 5": {
+            "Concepts": 4,
+            "Minimal depth": 1,
+            "Maximal depth": 3,
+            "Average depth": 2,
+            "Median depth": 2.5
+        },
+        "Outdegree 6": {
+            "Concepts": 3,
+            "Minimal depth": 1,
+            "Maximal depth": 2,
+            "Average depth": 1,
+            "Median depth": 1
+        },
+        "Outdegree 7": {
+            "Concepts": 1,
+            "Minimal depth": 1,
+            "Maximal depth": 1,
+            "Average depth": 1,
+            "Median depth": 1
+        },
+        "Outdegree 9": {
+            "Concepts": 1,
+            "Minimal depth": 3,
+            "Maximal depth": 3,
+            "Average depth": 3,
+            "Median depth": 3
+        },
+        "Outdegree 10": {
+            "Concepts": 1,
+            "Minimal depth": 0,
+            "Maximal depth": 0,
+            "Average depth": 0,
+            "Median depth": 0
+        },
+        "Outdegree 11": {
+            "Concepts": 1,
+            "Minimal depth": 2,
+            "Maximal depth": 2,
+            "Average depth": 2,
+            "Median depth": 2
+        }
+    }
+}

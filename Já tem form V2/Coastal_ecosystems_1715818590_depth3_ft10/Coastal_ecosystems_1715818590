@@ -1,0 +1,45 @@
+digraph {
+  rankdir=LR;
+ "Coastal ecosystems" [shape = rect];
+  "Coastal ecosystems" -> "Mangrove forests";
+  "Coastal ecosystems" -> "Rocky shores";
+  "Coastal ecosystems" -> "Salt marshes";
+  "Coastal ecosystems" -> "Sandy beaches";
+ "Mangrove forests" [shape = rect];
+  "Mangrove forests" -> "Mangrove conservation";
+ "Rocky shores" [shape = rect];
+  "Rocky shores" -> "Intertidal zones";
+ "Salt marshes" [shape = rect];
+  "Salt marshes" -> "Halophytes";
+ "Sandy beaches" [shape = rect];
+  "Sandy beaches" -> "Beach fauna";
+  "Sandy beaches" -> "Sandy intertidal";
+ "Mangrove ecosystem services" [shape = rect];
+  "Mangrove ecosystem services" -> "Fisheries support";
+ "Mangrove conservation" [shape = rect];
+  "Mangrove conservation" -> "Mangrove ecosystem services";
+  "Mangrove conservation" -> "Restoration efforts";
+ "Intertidal zones" [shape = rect];
+  "Intertidal zones" -> "Mudflats";
+  "Intertidal zones" -> "Rocky intertidal";
+  "Intertidal zones" -> "Sandy intertidal";
+ "Halophytes" [shape = rect];
+  "Halophytes" -> "Obligate halophytes";
+  "Halophytes" -> "Succulent halophytes";
+ "Beach fauna" [shape = rect];
+  "Beach fauna" -> "Mollusks";
+  "Beach fauna" -> "Beach animals"[color=blue, dir=both];
+ "Fisheries support" [shape = rect];
+ "Restoration efforts" [shape = rect];
+ "Mudflats" [shape = rect];
+ "Rocky intertidal" [shape = rect];
+  "Rocky intertidal" -> "Rocky intertidal zones"[color=blue, dir=both];
+ "Sandy intertidal" [shape = rect];
+  "Sandy intertidal" -> "Sandy intertidal zones"[color=blue, dir=both];
+ "Obligate halophytes" [shape = rect];
+ "Succulent halophytes" [shape = rect];
+ "Mollusks" [shape = rect];
+subgraph cluster_metadata {
+metadata_node [label="Concepts: 18\l Subsumptions: 18\l Exploration Depth: 3\l Frequency Threshold: 10\l" shape=none];
+}
+}

@@ -1,0 +1,872 @@
+{
+    "Thing": {
+        "superconcepts": [],
+        "levels": [
+            -1
+        ],
+        "subconcepts": [
+            "Ecossistemas costeiros brasileiros"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "state": "explored",
+        "definition": "top concept"
+    },
+    "Ecossistemas costeiros brasileiros": {
+        "superconcepts": [
+            "Thing"
+        ],
+        "levels": [
+            0
+        ],
+        "subconcepts": [
+            "Beaches",
+            "Coastal forests",
+            "Coastal savannas",
+            "Coral reefs",
+            "Rocky shores",
+            "Tidal flats"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "\"Ecossistemas costeiros brasileiros\" is a Portuguese term that refers to the various ecosystems found along the coastline of Brazil. These ecosystems include a diverse range of habitats such as mangroves, sand dunes, lagoons, and coral reefs, each with its unique flora and fauna.",
+        "state": "explored"
+    },
+    "No subconcept": {
+        "superconcepts": [
+            "Coastal savannas",
+            "Tidal flats",
+            "Fishing beaches",
+            "Amazon coastal forest",
+            "Coastal pine forests",
+            "Coastal scrub forests",
+            "Maritime forests",
+            "Seasonal deciduous coastal forests",
+            "Atoll reefs",
+            "Barrier reefs",
+            "Microatolls",
+            "Patch reefs",
+            "Mangrove fauna",
+            "Mangrove flora",
+            "Mangrove restoration",
+            "Mangrove wildlife",
+            "Cliffs",
+            "Sea caves",
+            "Tidal pools",
+            "Wave-cut platforms",
+            "Boulder shores",
+            "Beach flora",
+            "Dune systems",
+            "Remote sandy beaches",
+            "Shell sandy beaches",
+            "Urban sandy beaches",
+            "Fauna of sandy beaches"
+        ],
+        "levels": [
+            99
+        ],
+        "subconcepts": [],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "state": "explored",
+        "definition": "bottom concept"
+    },
+    "Beaches": {
+        "superconcepts": [
+            "Ecossistemas costeiros brasileiros"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "Fishing beaches",
+            "Rocky beaches",
+            "Urban beaches",
+            "Untouched beaches",
+            "Foreshore areas"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Sandy or pebbly shores washed by the sea or a lake.",
+        "state": "explored"
+    },
+    "Coastal forests": {
+        "superconcepts": [
+            "Ecossistemas costeiros brasileiros"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "Mangroves",
+            "Coastal pine forests",
+            "Coastal rainforests",
+            "Coastal scrub forests",
+            "Maritime forests",
+            "Deciduous coastal forests"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Wooded areas located near the coast, often influenced by the marine environment.",
+        "state": "explored"
+    },
+    "Coastal savannas": {
+        "superconcepts": [
+            "Ecossistemas costeiros brasileiros"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Grasslands located near the coast, characterized by the presence of scattered trees and shrubs.",
+        "state": "explored_empty"
+    },
+    "Coral reefs": {
+        "superconcepts": [
+            "Ecossistemas costeiros brasileiros"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "Atoll reefs",
+            "Barrier reefs",
+            "Microatolls",
+            "Patch reefs"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Underwater ecosystems characterized by reef-building corals.",
+        "state": "explored"
+    },
+    "Mangroves": {
+        "superconcepts": [
+            "Coastal forests"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "Mangrove forest",
+            "Mangrove forests",
+            "Mangrove conservation"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Trees and shrubs that grow in saline coastal habitats in the tropics and subtropics.",
+        "state": "explored"
+    },
+    "Rocky shores": {
+        "superconcepts": [
+            "Ecossistemas costeiros brasileiros"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "Cliffs",
+            "Sea caves",
+            "Tidal pools",
+            "Wave-cut platforms",
+            "Boulder shores"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Coastal areas where solid rock predominates.",
+        "state": "explored"
+    },
+    "Tidal flats": {
+        "superconcepts": [
+            "Ecossistemas costeiros brasileiros"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Coastal wetlands that form when mud is deposited by the tides or rivers, seas, and oceans.",
+        "state": "explored_empty"
+    },
+    "Fishing beaches": {
+        "superconcepts": [
+            "Beaches"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are beaches where fishing is allowed and the conditions are suitable for catching fish.",
+        "state": "explored_empty"
+    },
+    "Rocky beaches": {
+        "superconcepts": [
+            "Beaches"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "Tidal pools"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are beaches characterized by rocky terrain rather than sand.",
+        "state": "explored_empty"
+    },
+    "Sandy beaches": {
+        "superconcepts": [
+            "Foreshore areas"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "Accreting sandy beaches",
+            "Remote sandy beaches",
+            "Shell sandy beaches",
+            "Tropical sandy beaches",
+            "Urban sandy beaches"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are beaches with a surface primarily composed of sand.",
+        "state": "explored"
+    },
+    "Urban beaches": {
+        "superconcepts": [
+            "Beaches"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "Urban sandy beaches"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are man-made beaches, often created in urban areas for recreational purposes.",
+        "state": "explored_empty"
+    },
+    "Untouched beaches": {
+        "superconcepts": [
+            "Beaches"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "Remote sandy beaches"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are beaches that have not been significantly altered by human activity.",
+        "state": "explored_empty"
+    },
+    "Amazon coastal forest": {
+        "superconcepts": [
+            "Coastal rainforests"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "A type of forest ecosystem located along the coast of the Amazon region.",
+        "state": "explored_empty"
+    },
+    "Mangrove forest": {
+        "superconcepts": [
+            "Mangroves"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "Mangrove ecology"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "A type of forest ecosystem characterized by the presence of mangrove tree species, typically found in tidal areas along the coast.",
+        "state": "explored_empty"
+    },
+    "Coastal pine forests": {
+        "superconcepts": [
+            "Coastal forests"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "A type of forest ecosystem dominated by pine tree species, typically found in coastal regions.",
+        "state": "explored_empty"
+    },
+    "Coastal rainforests": {
+        "superconcepts": [
+            "Coastal forests"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "Amazon coastal forest"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "A type of tropical and subtropical forest ecosystem located along the coast, characterized by high rainfall.",
+        "state": "explored_empty"
+    },
+    "Coastal scrub forests": {
+        "superconcepts": [
+            "Coastal forests"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "A type of forest ecosystem characterized by shrubby vegetation, typically found in coastal regions with poor soil conditions.",
+        "state": "explored_empty"
+    },
+    "Mangrove forests": {
+        "superconcepts": [
+            "Mangroves"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "Mangrove ecology"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "A type of forest ecosystem characterized by the presence of mangrove tree species, typically found in tidal areas along the coast.",
+        "state": "explored_empty"
+    },
+    "Maritime forests": {
+        "superconcepts": [
+            "Coastal forests"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "A type of forest ecosystem located in coastal regions, typically characterized by the presence of tree species adapted to salt spray and wind.",
+        "state": "explored_empty"
+    },
+    "Seasonal deciduous coastal forests": {
+        "superconcepts": [
+            "Deciduous coastal forests"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "A type of forest ecosystem where the majority of trees lose their leaves seasonally, typically found in coastal regions with distinct wet and dry seasons.",
+        "state": "explored_empty"
+    },
+    "Deciduous coastal forests": {
+        "superconcepts": [
+            "Coastal forests"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "Seasonal deciduous coastal forests"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "A type of forest ecosystem where some trees lose their leaves seasonally, typically found in coastal regions with less distinct wet and dry seasons.",
+        "state": "explored_empty"
+    },
+    "Atoll reefs": {
+        "superconcepts": [
+            "Coral reefs"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are circular or oval coral reefs that enclose a central lagoon.",
+        "state": "explored_empty"
+    },
+    "Barrier reefs": {
+        "superconcepts": [
+            "Coral reefs"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are extensive linear coral reefs that run parallel to the coast but are separated from it by a wide, deep lagoon.",
+        "state": "explored_empty"
+    },
+    "Microatolls": {
+        "superconcepts": [
+            "Coral reefs"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are small circular outcrops of coral that are often found in very shallow water.",
+        "state": "explored_empty"
+    },
+    "Patch reefs": {
+        "superconcepts": [
+            "Coral reefs"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are isolated, relatively small reefs that occur in the lagoon between a barrier reef and a fringing reef or land.",
+        "state": "explored_empty"
+    },
+    "Mangrove conservation": {
+        "superconcepts": [
+            "Mangroves"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "Mangrove restoration"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "The practice of protecting and preserving mangrove ecosystems.",
+        "state": "unexplored"
+    },
+    "Mangrove ecology": {
+        "superconcepts": [
+            "Mangrove forests",
+            "Mangrove forest"
+        ],
+        "levels": [
+            4,
+            4
+        ],
+        "subconcepts": [
+            "Basin mangroves",
+            "Hammock mangroves",
+            "Overwash mangroves",
+            "Riverine mangroves"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "The study of the interactions between organisms and their mangrove environment.",
+        "state": "unexplored"
+    },
+    "Mangrove fauna": {
+        "superconcepts": [
+            "Riverine mangroves"
+        ],
+        "levels": [
+            6
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "The animal species that inhabit mangrove ecosystems.",
+        "state": "unexplored"
+    },
+    "Mangrove flora": {
+        "superconcepts": [
+            "Basin mangroves",
+            "Hammock mangroves",
+            "Overwash mangroves",
+            "Riverine mangroves"
+        ],
+        "levels": [
+            6,
+            6,
+            6,
+            6
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "The plant species that inhabit mangrove ecosystems.",
+        "state": "unexplored"
+    },
+    "Mangrove restoration": {
+        "superconcepts": [
+            "Mangrove conservation"
+        ],
+        "levels": [
+            4
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "The process of reestablishing degraded mangrove ecosystems.",
+        "state": "unexplored"
+    },
+    "Mangrove wildlife": {
+        "superconcepts": [
+            "Basin mangroves",
+            "Riverine mangroves"
+        ],
+        "levels": [
+            6,
+            6
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "All animal life within a mangrove ecosystem.",
+        "state": "unexplored"
+    },
+    "Basin mangroves": {
+        "superconcepts": [
+            "Mangrove ecology"
+        ],
+        "levels": [
+            5
+        ],
+        "subconcepts": [
+            "Mangrove wildlife",
+            "Mangrove flora"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Mangroves that grow in areas with less tidal action, often forming dense forests.",
+        "state": "unexplored"
+    },
+    "Hammock mangroves": {
+        "superconcepts": [
+            "Mangrove ecology"
+        ],
+        "levels": [
+            5
+        ],
+        "subconcepts": [
+            "Mangrove flora"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Mangroves that grow on slightly elevated areas, often forming small islands.",
+        "state": "unexplored"
+    },
+    "Overwash mangroves": {
+        "superconcepts": [
+            "Mangrove ecology"
+        ],
+        "levels": [
+            5
+        ],
+        "subconcepts": [
+            "Mangrove flora"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Mangroves that grow in areas frequently inundated by tides or waves.",
+        "state": "unexplored"
+    },
+    "Riverine mangroves": {
+        "superconcepts": [
+            "Mangrove ecology"
+        ],
+        "levels": [
+            5
+        ],
+        "subconcepts": [
+            "Mangrove fauna",
+            "Mangrove wildlife",
+            "Mangrove flora"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Mangroves that grow along river banks, often in brackish water.",
+        "state": "unexplored"
+    },
+    "Cliffs": {
+        "superconcepts": [
+            "Rocky shores"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are steep or vertical rock faces at the edge of the coast.",
+        "state": "explored_empty"
+    },
+    "Sea caves": {
+        "superconcepts": [
+            "Rocky shores"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are types of caves formed primarily by the wave action of the sea.",
+        "state": "explored_empty"
+    },
+    "Tidal pools": {
+        "superconcepts": [
+            "Rocky shores",
+            "Rocky beaches"
+        ],
+        "levels": [
+            2,
+            3
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are pools of water that are left behind after the tide recedes.",
+        "state": "explored_empty"
+    },
+    "Wave-cut platforms": {
+        "superconcepts": [
+            "Rocky shores"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are narrow, flat areas often found at the base of a sea cliff, formed by the erosion of waves.",
+        "state": "explored_empty"
+    },
+    "Boulder shores": {
+        "superconcepts": [
+            "Rocky shores"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are areas where the shore is covered with large, rounded rocks or boulders.",
+        "state": "explored_empty"
+    },
+    "Beach flora": {
+        "superconcepts": [
+            "Vegetated sandy beaches"
+        ],
+        "levels": [
+            6
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "This refers to the various plant species that grow on sandy beaches.",
+        "state": "unexplored"
+    },
+    "Dune systems": {
+        "superconcepts": [
+            "Accreting sandy beaches",
+            "Vegetated sandy beaches"
+        ],
+        "levels": [
+            5,
+            6
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are hills of sand built by wind or water flow found on sandy beaches.",
+        "state": "unexplored"
+    },
+    "Foreshore areas": {
+        "superconcepts": [
+            "Beaches"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "Sandy beaches"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are parts of a beach that lie between the high and low tide lines.",
+        "state": "unexplored"
+    },
+    "Accreting sandy beaches": {
+        "superconcepts": [
+            "Sandy beaches"
+        ],
+        "levels": [
+            4
+        ],
+        "subconcepts": [
+            "Dune systems"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are sandy beaches that are growing in size due to sediment deposition.",
+        "state": "unexplored"
+    },
+    "Remote sandy beaches": {
+        "superconcepts": [
+            "Untouched beaches",
+            "Sandy beaches"
+        ],
+        "levels": [
+            3,
+            4
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are sandy beaches that are located in isolated or less accessible areas.",
+        "state": "unexplored"
+    },
+    "Shell sandy beaches": {
+        "superconcepts": [
+            "Sandy beaches"
+        ],
+        "levels": [
+            4
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are sandy beaches that have a significant presence of shell fragments.",
+        "state": "unexplored"
+    },
+    "Tropical sandy beaches": {
+        "superconcepts": [
+            "Sandy beaches"
+        ],
+        "levels": [
+            4
+        ],
+        "subconcepts": [
+            "Vegetated sandy beaches",
+            "Fauna of sandy beaches"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are sandy beaches located in tropical climates.",
+        "state": "unexplored"
+    },
+    "Urban sandy beaches": {
+        "superconcepts": [
+            "Urban beaches",
+            "Sandy beaches"
+        ],
+        "levels": [
+            3,
+            4
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are sandy beaches located in or near urban areas.",
+        "state": "unexplored"
+    },
+    "Vegetated sandy beaches": {
+        "superconcepts": [
+            "Tropical sandy beaches"
+        ],
+        "levels": [
+            5
+        ],
+        "subconcepts": [
+            "Dune systems",
+            "Beach flora"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are sandy beaches where vegetation is able to grow, often in dune systems.",
+        "state": "unexplored"
+    },
+    "Fauna of sandy beaches": {
+        "superconcepts": [
+            "Tropical sandy beaches"
+        ],
+        "levels": [
+            5
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "This refers to the various animal species that inhabit sandy beaches.",
+        "state": "unexplored"
+    }
+}

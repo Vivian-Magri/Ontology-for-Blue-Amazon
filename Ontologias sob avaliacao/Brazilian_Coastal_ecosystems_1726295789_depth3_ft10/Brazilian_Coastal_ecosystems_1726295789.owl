@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <owl:Class rdf:about="#Mangrove%20shrubs">
+    <rdfs:label>Mangrove shrubs</rdfs:label>
+    <rdfs:comment>Shrubs that are adapted to live in the conditions of mangrove swamps.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Saltwater%20mangroves"/>
+    <rdfs:subClassOf rdf:resource="#Mangrove%20forest%20structure"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Mangrove%20restoration">
+    <rdfs:label>Mangrove restoration</rdfs:label>
+    <rdfs:comment>This involves efforts to restore degraded mangrove habitats and rehabilitate damaged areas.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Sustainable%20mangrove%20management"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Coral%20fish">
+    <rdfs:label>Coral fish</rdfs:label>
+    <rdfs:comment>These are fish species that live in and around coral reefs.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Barrier%20reefs"/>
+    <rdfs:subClassOf rdf:resource="#Fringing%20reefs"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Brain%20corals">
+    <rdfs:label>Brain corals</rdfs:label>
+    <rdfs:comment>These are large, round corals that have a grooved surface that looks like a brain.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Reef-building%20corals"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Mangrove%20palms">
+    <rdfs:label>Mangrove palms</rdfs:label>
+    <rdfs:comment>Palms that are adapted to live in the conditions of mangrove swamps.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Mangrove%20flora"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Mangrove%20orchids">
+    <rdfs:label>Mangrove orchids</rdfs:label>
+    <rdfs:comment>Orchids that are adapted to live in the conditions of mangrove swamps.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Mangrove%20flora"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Encrusting%20corals">
+    <rdfs:label>Encrusting corals</rdfs:label>
+    <rdfs:comment>These corals grow as a thin layer that covers the surface of rocks or dead corals.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Reef-building%20corals"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Climate%20resilience%20of%20mangroves">
+    <rdfs:label>Climate resilience of mangroves</rdfs:label>
+    <rdfs:comment>This refers to the ability of mangroves to adapt to changing climate conditions.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Mangrove%20research%20and%20monitoring"/>
+    <rdfs:subClassOf rdf:resource="#Sustainable%20mangrove%20management"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Crescentic%20dunes">
+    <rdfs:label>Crescentic dunes</rdfs:label>
+    <rdfs:comment>These are dunes shaped like a crescent moon, with the tips of the crescent pointing downwind.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Barchan%20dunes"/>
+    <rdfs:subClassOf rdf:resource="#Dune%20complexes"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Mangrove%20vines">
+    <rdfs:label>Mangrove vines</rdfs:label>
+    <rdfs:comment>Vines that are adapted to live in the conditions of mangrove swamps.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Saltwater%20mangroves"/>
+    <rdfs:subClassOf rdf:resource="#Mangrove%20forest%20structure"/>
+  </owl:Class>
+  <owl:Class rdf:about="#River%20mangroves">
+    <rdfs:label>River mangroves</rdfs:label>
+    <rdfs:comment>This is a type of mangrove tree typically found along riverbanks.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Mangrove%20flora"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Transverse%20dunes">
+    <rdfs:label>Transverse dunes</rdfs:label>
+    <rdfs:comment>These are dunes that form perpendicular to the prevailing wind direction, typically with a gentle slope on the windward side and a steep slip face on the leeward side.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Dune%20complexes"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Parabolic%20dunes">
+    <rdfs:label>Parabolic dunes</rdfs:label>
+    <rdfs:comment>These are U-shaped mounds of sand with convex noses trailed by elongated arms that point upwind.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Dune%20complexes"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Mangrove%20water%20quality">
+    <rdfs:label>Mangrove water quality</rdfs:label>
+    <rdfs:comment>This refers to the condition of water within a mangrove ecosystem, including its temperature, salinity, and levels of dissolved oxygen and nutrients.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Mangrove%20monitoring"/>
+    <rdfs:subClassOf rdf:resource="#Pollution%20control%20in%20mangrove%20conservation"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Reef%20echinoderms">
+    <rdfs:label>Reef echinoderms</rdfs:label>
+    <rdfs:comment>Echinoderms (such as starfish and sea urchins) is a subcategory of Reef invertebrates. These are a diverse group of invertebrates, including snails and clams, that live in coral reefs.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Reef%20invertebrates"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Corals">
+    <rdfs:label>Corals</rdfs:label>
+    <rdfs:comment>These are marine invertebrates that typically live in compact colonies and build hard skeletons.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Reef%20invertebrates"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Crustaceans%20(such%20as%20crabs%20and%20shrimp)">
+    <rdfs:label>Crustaceans (such as crabs and shrimp)</rdfs:label>
+    <rdfs:comment>Crustaceans (such as crabs and shrimp) is a subcategory of Reef invertebrates. These are a diverse group of invertebrates, including snails and clams, that live in coral reefs.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Reef%20invertebrates"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Red%20mangrove">
+    <rdfs:label>Red mangrove</rdfs:label>
+    <rdfs:comment>A common name for Rhizophora mangle, a species of mangrove.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Mangrove%20trees"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Coral%20algae">
+    <rdfs:label>Coral algae</rdfs:label>
+    <rdfs:comment>These are primary producers in coral reef ecosystems, providing food and habitat for other organisms.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Coral%20reefs"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Eastern%20mangrove">
+    <rdfs:label>Eastern mangrove</rdfs:label>
+    <rdfs:comment>This is a type of mangrove tree found in the eastern regions of the world.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Mangrove%20flora"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Buttonwood%20mangroves">
+    <rdfs:label>Buttonwood mangroves</rdfs:label>
+    <rdfs:comment>This is a type of mangrove tree characterized by its button-like fruits.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Mangrove%20trees"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Mangrove%20wildlife%20protection">
+    <rdfs:label>Mangrove wildlife protection</rdfs:label>
+    <rdfs:comment>This involves efforts to protect the wildlife that lives in mangrove ecosystems.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Mangrove%20conservation"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Longitudinal%20dunes">
+    <rdfs:label>Longitudinal dunes</rdfs:label>
+    <rdfs:comment>These are large dune forms that are longer than they are wide, often found in areas with a large sand supply.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Linear%20dunes"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Mangrove%20ferns">
+    <rdfs:label>Mangrove ferns</rdfs:label>
+    <rdfs:comment>Ferns that are adapted to live in the harsh conditions of mangrove swamps.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Mangrove%20flora"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Stony%20corals">
+    <rdfs:label>Stony corals</rdfs:label>
+    <rdfs:comment>These are also known as hard corals, they form the structural foundation for coral reefs.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Fringing%20reefs"/>
+    <rdfs:subClassOf rdf:resource="#Reef-building%20corals"/>
+  </owl:Class>
+  <owl:Ontology rdf:about="file:///Brazilian_Coastal_ecosystems.owl"/>
+  <owl:Class rdf:about="#Atolls">
+    <rdfs:label>Atolls</rdfs:label>
+    <rdfs:comment>These are ring-shaped coral reefs, islands, or a series of islets that encircle a lagoon.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Coral%20reefs"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Mangrove%20grasses">
+    <rdfs:label>Mangrove grasses</rdfs:label>
+    <rdfs:comment>Grasses that are adapted to live in the saline conditions of mangrove swamps.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Mangrove%20flora"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Complex%20dunes">
+    <rdfs:label>Complex dunes</rdfs:label>
+    <rdfs:comment>These are dunes that feature more than one type of dune form, resulting from varying wind directions.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Coastal%20sand%20dunes"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Coral%20reefs">
+    <rdfs:label>Coral reefs</rdfs:label>
+    <rdfs:comment>These are underwater ecosystems characterized by reef-building corals. They provide habitat and shelter for a large variety of marine life.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Brazilian%20Coastal%20ecosystems"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Mangroves">
+    <rdfs:label>Mangroves</rdfs:label>
+    <rdfs:comment>These are trees or shrubs that grow in saline coastal sediment habitats in the tropics and subtropics. They are known for their ability to withstand harsh coastal conditions.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Brazilian%20Coastal%20ecosystems"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Barrier%20reefs">
+    <rdfs:label>Barrier reefs</rdfs:label>
+    <rdfs:comment>These are coral reefs that run parallel to the shore but are separated by a deep channel or lagoon.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Coral%20reefs"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Fringing%20reefs">
+    <rdfs:label>Fringing reefs</rdfs:label>
+    <rdfs:comment>These are coral reefs that are directly attached to the shore of an island or continent.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Coral%20reefs"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Climate%20change%20adaptation%20strategies%20for%20mangroves">
+    <rdfs:label>Climate change adaptation strategies for mangroves</rdfs:label>
+    <rdfs:comment>This refers to strategies aimed at helping mangrove ecosystems cope with the impacts of climate change.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Mangrove%20conservation"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Mangrove%20flora">
+    <rdfs:label>Mangrove flora</rdfs:label>
+    <rdfs:comment>This refers to the plant species that grow in mangrove ecosystems.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Mangroves"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Reef%20invertebrates">
+    <rdfs:label>Reef invertebrates</rdfs:label>
+    <rdfs:comment>These are a diverse group of invertebrates, including snails and clams, that live in coral reefs.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Barrier%20reefs"/>
+    <rdfs:subClassOf rdf:resource="#Fringing%20reefs"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Climate%20change%20adaptation%20for%20mangroves">
+    <rdfs:label>Climate change adaptation for mangroves</rdfs:label>
+    <rdfs:comment>This involves strategies to help mangrove ecosystems cope with the impacts of climate change.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Mangrove%20conservation"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Reef-building%20corals">
+    <rdfs:label>Reef-building corals</rdfs:label>
+    <rdfs:comment>These are coral species that build reefs by secreting a hard skeleton of calcium carbonate.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Coral%20reefs"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Mangrove%20forest%20structure">
+    <rdfs:label>Mangrove forest structure</rdfs:label>
+    <rdfs:comment>This refers to the physical arrangement and organization of trees and other vegetation in a mangrove forest.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Mangroves"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Coastal%20sand%20dunes">
+    <rdfs:label>Coastal sand dunes</rdfs:label>
+    <rdfs:comment>These are dunes found along the coastline, formed by the action of sea waves and wind.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Sand%20dunes"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Brazilian%20Coastal%20ecosystems">
+    <rdfs:label>Brazilian Coastal ecosystems</rdfs:label>
+    <rdfs:comment>Brazilian Coastal ecosystems refer to the diverse range of biological communities and their environments found along the coastline of Brazil. These ecosystems include various habitats such as mangroves, sand dunes, lagoons, coral reefs, and tropical rainforests, each hosting a unique array of flora and fauna. They play crucial roles in climate regulation, nutrient cycling, and providing resources and services for human livelihoods.</rdfs:comment>
+  </owl:Class>
+  <owl:Class rdf:about="#Pollution%20control%20in%20mangrove%20conservation">
+    <rdfs:label>Pollution control in mangrove conservation</rdfs:label>
+    <rdfs:comment>This involves measures to reduce or eliminate the pollution affecting mangrove ecosystems.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Mangrove%20conservation"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Sustainable%20mangrove%20management">
+    <rdfs:label>Sustainable mangrove management</rdfs:label>
+    <rdfs:comment>This refers to the practice of using and managing mangrove resources in a way that does not deplete them.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Climate%20change%20adaptation%20for%20mangroves"/>
+    <rdfs:subClassOf rdf:resource="#Climate%20change%20adaptation%20strategies%20for%20mangroves"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Linear%20dunes">
+    <rdfs:label>Linear dunes</rdfs:label>
+    <rdfs:comment>These are long, straight or slightly sinuous sand ridges typically formed by wind.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Dune%20complexes"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Mangrove%20conservation">
+    <rdfs:label>Mangrove conservation</rdfs:label>
+    <rdfs:comment>This involves the protection and preservation of mangrove ecosystems from destruction and degradation.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Mangroves"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Saltwater%20mangroves">
+    <rdfs:label>Saltwater mangroves</rdfs:label>
+    <rdfs:comment>This is a type of mangrove tree that thrives in high-salinity environments.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Mangrove%20flora"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Barchan%20dunes">
+    <rdfs:label>Barchan dunes</rdfs:label>
+    <rdfs:comment>These are crescent-shaped dunes formed by wind, typically in desert regions.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Sand%20dunes"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Mangrove%20trees">
+    <rdfs:label>Mangrove trees</rdfs:label>
+    <rdfs:comment>A common name for several species of halophytic (salt-tolerant) plants.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Saltwater%20mangroves"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Mangrove%20monitoring">
+    <rdfs:label>Mangrove monitoring</rdfs:label>
+    <rdfs:comment>This involves studying mangroves and tracking changes in their health and biodiversity over time.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Mangrove%20research%20and%20monitoring"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Dune%20complexes">
+    <rdfs:label>Dune complexes</rdfs:label>
+    <rdfs:comment>These are large dunes that consist of smaller dunes of similar type and orientation.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Coastal%20sand%20dunes"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Mangrove%20research%20and%20monitoring">
+    <rdfs:label>Mangrove research and monitoring</rdfs:label>
+    <rdfs:comment>This involves studying mangroves and tracking changes in their health and biodiversity over time.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Mangrove%20conservation"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Sand%20dunes">
+    <rdfs:label>Sand dunes</rdfs:label>
+    <rdfs:comment>These are hills of sand built by wind or water flow. They are found in deserts and coastal areas.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Brazilian%20Coastal%20ecosystems"/>
+  </owl:Class>
+</rdf:RDF>
