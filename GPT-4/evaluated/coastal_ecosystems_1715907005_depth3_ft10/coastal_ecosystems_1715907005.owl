@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <owl:Class rdf:about="#Deep%20lagoons">
+    <rdfs:label>Deep lagoons</rdfs:label>
+    <rdfs:comment>These are lagoons that are significantly deeper than the surrounding land or water.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Lagoons"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Dune%20systems">
+    <rdfs:label>Dune systems</rdfs:label>
+    <rdfs:comment>A large area covered by sand dunes.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Dry%20sand%20zones"/>
+    <rdfs:subClassOf rdf:resource="#Sand%20dunes"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Coastal%20tundra">
+    <rdfs:label>Coastal tundra</rdfs:label>
+    <rdfs:comment>This is a type of ecosystem found in the coastal regions of high latitudes, characterized by low temperatures, short growing seasons, and a lack of trees.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#coastal%20ecosystems"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Fringing%20reefs">
+    <rdfs:label>Fringing reefs</rdfs:label>
+    <rdfs:comment>These are coral reefs that are directly attached to the shore of an island or continent.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Coral%20reefs"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Coastal%20shrublands">
+    <rdfs:label>Coastal shrublands</rdfs:label>
+    <rdfs:comment>These are ecosystems dominated by shrubs and located near the coast.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#coastal%20ecosystems"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Patch%20reefs">
+    <rdfs:label>Patch reefs</rdfs:label>
+    <rdfs:comment>These are isolated, often circular reefs, usually within a lagoon or embayment.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Coral%20reefs"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Tide%20pools">
+    <rdfs:label>Tide pools</rdfs:label>
+    <rdfs:comment>Pools of seawater that form on the rocky shoreline during low tide.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Rock%20platforms"/>
+    <rdfs:subClassOf rdf:resource="#Middle%20intertidal%20zone"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Tidal%20pools">
+    <rdfs:label>Tidal pools</rdfs:label>
+    <rdfs:comment>Pools of water left on a beach after a tide has fallen.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Rocky%20beaches"/>
+    <rdfs:subClassOf rdf:resource="#Middle%20tide%20zone"/>
+    <rdfs:subClassOf rdf:resource="#Rock%20platforms"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Delta">
+    <rdfs:label>Delta</rdfs:label>
+    <rdfs:comment>Landform that forms from deposition of sediment carried by a river as the flow leaves its mouth and enters slower-moving or stagnant water.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#coastal%20ecosystems"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Submerged%20reefs">
+    <rdfs:label>Submerged reefs</rdfs:label>
+    <rdfs:comment>These are coral reefs that do not reach the water's surface at any point during the tide, making navigation over them easier.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Coral%20reefs"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Barrier%20lagoons">
+    <rdfs:label>Barrier lagoons</rdfs:label>
+    <rdfs:comment>These are lagoons that are separated from the sea or a larger body of water by a barrier such as a sandbar or coral reef.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Lagoons"/>
+    <rdfs:subClassOf rdf:resource="#Coastal%20wetlands"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Barrier%20estuary">
+    <rdfs:label>Barrier estuary</rdfs:label>
+    <rdfs:comment>These are estuaries formed when a barrier such as a sandbar or barrier island separates a section of the sea or ocean.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Estuary"/>
+    <rdfs:subClassOf rdf:resource="#Estuaries"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Spartina%20marshes">
+    <rdfs:label>Spartina marshes</rdfs:label>
+    <rdfs:comment>These are marshes dominated by Spartina grass, a salt-tolerant grass species.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Low%20marshes"/>
+    <rdfs:subClassOf rdf:resource="#Brackish%20marshes"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Partially%20mixed%20estuary">
+    <rdfs:label>Partially mixed estuary</rdfs:label>
+    <rdfs:comment>These are estuaries where the freshwater and seawater mix partially.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Estuary"/>
+    <rdfs:subClassOf rdf:resource="#Estuaries"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Estuarine%20lagoons">
+    <rdfs:label>Estuarine lagoons</rdfs:label>
+    <rdfs:comment>These are lagoons located at the mouth of a river, where it meets the sea.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Estuary"/>
+    <rdfs:subClassOf rdf:resource="#Lagoons"/>
+    <rdfs:subClassOf rdf:resource="#Estuaries"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Boulder%20fields">
+    <rdfs:label>Boulder fields</rdfs:label>
+    <rdfs:comment>Areas of the shoreline dominated by large, rounded rocks.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Rocky%20intertidal%20zones"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Table%20reefs">
+    <rdfs:label>Table reefs</rdfs:label>
+    <rdfs:comment>These are isolated reefs, more or less circular in shape, with a flat top.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Coral%20reefs"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Coastal%20mudflats">
+    <rdfs:label>Coastal mudflats</rdfs:label>
+    <rdfs:comment>Flat areas of land consisting of muddy sediment that is inundated by tidal waters, located near a coast.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Mudflats"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Damp%20sand%20zones">
+    <rdfs:label>Damp sand zones</rdfs:label>
+    <rdfs:comment>Areas of the beach that are regularly wetted by the incoming tide.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Sandy%20beaches"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Atoll%20lagoons">
+    <rdfs:label>Atoll lagoons</rdfs:label>
+    <rdfs:comment>These are lagoons formed by coral reefs or barrier islands in the open sea.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Atoll%20reefs"/>
+    <rdfs:subClassOf rdf:resource="#Lagoons"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Mangrove%20marshes">
+    <rdfs:label>Mangrove marshes</rdfs:label>
+    <rdfs:comment>These are marshes in tropical and subtropical regions that are characterized by the presence of mangrove trees.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Saltwater%20swamps"/>
+    <rdfs:subClassOf rdf:resource="#Tropical%20marshes"/>
+    <rdfs:subClassOf rdf:resource="#Tidal%20marsh"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Temperate%20marshes">
+    <rdfs:label>Temperate marshes</rdfs:label>
+    <rdfs:comment>These are marshes located in temperate climate zones, characterized by moderate rainfall and temperatures.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Marshes"/>
+    <rdfs:subClassOf rdf:resource="#Marsh"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Mangrove%20swamps">
+    <rdfs:label>Mangrove swamps</rdfs:label>
+    <rdfs:comment>This is a type of coastal wetland that is characterized by the presence of mangrove trees.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Saltwater%20swamps"/>
+    <rdfs:subClassOf rdf:resource="#Swamps"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Estuarine%20marshes">
+    <rdfs:label>Estuarine marshes</rdfs:label>
+    <rdfs:comment>These are marshes located in estuaries, where rivers meet the sea, and are influenced by both freshwater and saltwater.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Estuary"/>
+    <rdfs:subClassOf rdf:resource="#Brackish%20marshes"/>
+    <rdfs:subClassOf rdf:resource="#Tidal%20marshes"/>
+    <rdfs:subClassOf rdf:resource="#Estuaries"/>
+    <rdfs:subClassOf rdf:resource="#Tidal%20marsh"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Splash%20zone">
+    <rdfs:label>Splash zone</rdfs:label>
+    <rdfs:comment>This is the area that is above the high tide line and is splashed, but not submerged by waves.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Rocky%20shorelines"/>
+    <rdfs:subClassOf rdf:resource="#Beach%20ecosystems"/>
+    <rdfs:subClassOf rdf:resource="#Rocky%20shores"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Mangrove%20lagoons">
+    <rdfs:label>Mangrove lagoons</rdfs:label>
+    <rdfs:comment>These are lagoons surrounded by mangrove trees, often found in tropical and subtropical regions.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Estuarine%20ecosystems"/>
+    <rdfs:subClassOf rdf:resource="#Saltwater%20lagoons"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Coastal%20lakes">
+    <rdfs:label>Coastal lakes</rdfs:label>
+    <rdfs:comment>Lakes that are located near a coast.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#coastal%20ecosystems"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Seagrass%20meadows">
+    <rdfs:label>Seagrass meadows</rdfs:label>
+    <rdfs:comment>Flowering plants that form dense underwater meadows.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#coastal%20ecosystems"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Estuarine%20marsh">
+    <rdfs:label>Estuarine marsh</rdfs:label>
+    <rdfs:comment>Marshes that are located where a river meets the sea, characterized by brackish water.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Estuary"/>
+    <rdfs:subClassOf rdf:resource="#Tidal%20marshes"/>
+    <rdfs:subClassOf rdf:resource="#Estuaries"/>
+    <rdfs:subClassOf rdf:resource="#Brackish%20marshes"/>
+    <rdfs:subClassOf rdf:resource="#Tidal%20marsh"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Tectonic%20estuaries">
+    <rdfs:label>Tectonic estuaries</rdfs:label>
+    <rdfs:comment>These are estuaries formed by the subsidence or sinking of land due to tectonic activity.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Estuary"/>
+    <rdfs:subClassOf rdf:resource="#Estuaries"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Brackish%20lagoons">
+    <rdfs:label>Brackish lagoons</rdfs:label>
+    <rdfs:comment>These are lagoons with a mix of saltwater and freshwater, often found where rivers meet the sea.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Estuarine%20ecosystems"/>
+    <rdfs:subClassOf rdf:resource="#Lagoons"/>
+    <rdfs:subClassOf rdf:resource="#Wetlands"/>
+  </owl:Class>
+  <owl:Class rdf:about="#High%20intertidal%20zone">
+    <rdfs:label>High intertidal zone</rdfs:label>
+    <rdfs:comment>This is the area that is exposed to air for long periods and only covered by water during high tides. It is the highest zone on the shore.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Rocky%20intertidal%20zones"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Mangrove%20forests">
+    <rdfs:label>Mangrove forests</rdfs:label>
+    <rdfs:comment>These are coastal wetlands that are home to trees and shrubs that grow in saline coastal sediment habitats in the tropics and subtropics.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Coastal%20woodlands"/>
+    <rdfs:subClassOf rdf:resource="#Saltwater%20swamps"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Shallow%20lagoons">
+    <rdfs:label>Shallow lagoons</rdfs:label>
+    <rdfs:comment>These are lagoons that are not very deep compared to the surrounding land or water.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Lagoons"/>
+    <rdfs:subClassOf rdf:resource="#Coastal%20wetlands"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Seasonal%20slough%20lagoons">
+    <rdfs:label>Seasonal slough lagoons</rdfs:label>
+    <rdfs:comment>These are lagoons that are part of a slough, a wetland area that is seasonally flooded.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Temporary%20lagoons"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Coastal%20prairies">
+    <rdfs:label>Coastal prairies</rdfs:label>
+    <rdfs:comment>These are flat, grassy areas located near the coast, often characterized by a high diversity of plant species.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#coastal%20ecosystems"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Swash%20zones">
+    <rdfs:label>Swash zones</rdfs:label>
+    <rdfs:comment>The area of a beach where waves are breaking directly on the shore.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Sandy%20beaches"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Pocosins">
+    <rdfs:label>Pocosins</rdfs:label>
+    <rdfs:comment>A type of wetland that is a type of palustrine wetland with deep, acidic, sandy, peat soils.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Wetlands"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Kelp%20forests">
+    <rdfs:label>Kelp forests</rdfs:label>
+    <rdfs:comment>Underwater areas with a high density of kelp, which are large brown algae seaweeds.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#coastal%20ecosystems"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Mangrove%20forest">
+    <rdfs:label>Mangrove forest</rdfs:label>
+    <rdfs:comment>A type of forest that grows in saline coastal sediment habitats in the tropics and subtropics.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Saltwater%20swamps"/>
+    <rdfs:subClassOf rdf:resource="#Coastal%20woodlands"/>
+  </owl:Class>
+  <owl:Ontology rdf:about="file:///coastal_ecosystems.owl"/>
+  <owl:Class rdf:about="#Barrier%20reefs">
+    <rdfs:label>Barrier reefs</rdfs:label>
+    <rdfs:comment>These are coral reefs parallel to the shore but separated from it by a channel of deep water.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Coral%20reefs"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Coastal%20peatlands">
+    <rdfs:label>Coastal peatlands</rdfs:label>
+    <rdfs:comment>Peatlands is a subcategory of Wetlands. Areas where vegetation is dominated by grasses and other herbaceous plants, located near a coast.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Coastal%20wetlands"/>
+    <rdfs:subClassOf rdf:resource="#Wetlands"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Saltwater%20lagoons">
+    <rdfs:label>Saltwater lagoons</rdfs:label>
+    <rdfs:comment>These are lagoons that contain saltwater, often found along the coast.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Lagoons"/>
+    <rdfs:subClassOf rdf:resource="#Coastal%20wetlands"/>
+    <rdfs:subClassOf rdf:resource="#Wetlands"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Tidal%20marshes">
+    <rdfs:label>Tidal marshes</rdfs:label>
+    <rdfs:comment>These are areas of marsh that are typically flooded by high tides but remain exposed during low tides.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Coastal%20marshes"/>
+    <rdfs:subClassOf rdf:resource="#Marshes"/>
+    <rdfs:subClassOf rdf:resource="#Coastal%20marsh"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Coastal%20woodlands">
+    <rdfs:label>Coastal woodlands</rdfs:label>
+    <rdfs:comment>These are forested areas located near the coast, often characterized by a mix of tree species.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#coastal%20ecosystems"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Swamps">
+    <rdfs:label>Swamps</rdfs:label>
+    <rdfs:comment>Swamps is a subcategory of Wetlands. Areas where vegetation is dominated by grasses and other herbaceous plants, located near a coast.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Coastal%20wetlands"/>
+    <rdfs:subClassOf rdf:resource="#Wetlands"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Middle%20tide%20zone">
+    <rdfs:label>Middle tide zone</rdfs:label>
+    <rdfs:comment>The area of the shoreline that is regularly exposed and submerged by average tides.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Rocky%20shorelines"/>
+    <rdfs:subClassOf rdf:resource="#Beach%20ecosystems"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Brackish%20marshes">
+    <rdfs:label>Brackish marshes</rdfs:label>
+    <rdfs:comment>These are marshes with a mix of saltwater and freshwater, creating a unique environment for a variety of species.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Coastal%20marshes"/>
+    <rdfs:subClassOf rdf:resource="#Marshes"/>
+    <rdfs:subClassOf rdf:resource="#Coastal%20marsh"/>
+  </owl:Class>
+  <owl:Class rdf:about="#coastal%20ecosystems">
+    <rdfs:label>coastal ecosystems</rdfs:label>
+    <rdfs:comment>Coastal ecosystems are biological communities and their associated physical environment located at the interface between the land and the sea, characterized by the flow of energy and materials between terrestrial, marine, and atmospheric systems.</rdfs:comment>
+  </owl:Class>
+  <owl:Class rdf:about="#Salt%20marsh">
+    <rdfs:label>Salt marsh</rdfs:label>
+    <rdfs:comment>Marshes that are located along coastlines, often influenced by tides.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Tidal%20marshes"/>
+    <rdfs:subClassOf rdf:resource="#Tidal%20marsh"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Dry%20sand%20zones">
+    <rdfs:label>Dry sand zones</rdfs:label>
+    <rdfs:comment>Areas of the beach that are above the high tide line and are not regularly wetted by the sea.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Coastal%20sand%20dunes"/>
+    <rdfs:subClassOf rdf:resource="#Supratidal%20zone"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Tidal%20marsh">
+    <rdfs:label>Tidal marsh</rdfs:label>
+    <rdfs:comment>Marshes that are influenced by the rise and fall of tides, often found along coastlines.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Marshes"/>
+    <rdfs:subClassOf rdf:resource="#Coastal%20marsh"/>
+    <rdfs:subClassOf rdf:resource="#Coastal%20marshes"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Mudflats">
+    <rdfs:label>Mudflats</rdfs:label>
+    <rdfs:comment>Flat areas of land consisting of muddy sediment that is inundated by tidal waters.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Tidal%20flats"/>
+    <rdfs:subClassOf rdf:resource="#Tidal%20flat"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Estuary">
+    <rdfs:label>Estuary</rdfs:label>
+    <rdfs:comment>Partially enclosed coastal body of brackish water with one or more rivers or streams flowing into it, and with a free connection to the open sea.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Estuarine%20ecosystems"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Sand%20dunes">
+    <rdfs:label>Sand dunes</rdfs:label>
+    <rdfs:comment>Hills or ridges of sand found on beaches, formed by the wind.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Dunes"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Rocky%20shores">
+    <rdfs:label>Rocky shores</rdfs:label>
+    <rdfs:comment>Coastal areas where solid rock predominates.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#coastal%20ecosystems"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Rocky%20beaches">
+    <rdfs:label>Rocky beaches</rdfs:label>
+    <rdfs:comment>Shoreline areas where rocks of various sizes are the dominant feature.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Rocky%20shorelines"/>
+    <rdfs:subClassOf rdf:resource="#Beach%20ecosystems"/>
+    <rdfs:subClassOf rdf:resource="#Rocky%20shores"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Tidal%20flat">
+    <rdfs:label>Tidal flat</rdfs:label>
+    <rdfs:comment>A type of coastal wetland that forms when mud is deposited by tides or rivers.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Coastal%20wetlands"/>
+    <rdfs:subClassOf rdf:resource="#Wetlands"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Dunes">
+    <rdfs:label>Dunes</rdfs:label>
+    <rdfs:comment>Hills of sand built by wind or water flow.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Supratidal%20zone"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Tidal%20flats">
+    <rdfs:label>Tidal flats</rdfs:label>
+    <rdfs:comment>Coastal wetlands that form when mud is deposited by tides or rivers.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Coastal%20wetlands"/>
+    <rdfs:subClassOf rdf:resource="#Wetlands"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Marsh">
+    <rdfs:label>Marsh</rdfs:label>
+    <rdfs:comment>A wetland that is dominated by herbaceous rather than woody plant species.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Coastal%20wetlands"/>
+    <rdfs:subClassOf rdf:resource="#Wetlands"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Rocky%20shorelines">
+    <rdfs:label>Rocky shorelines</rdfs:label>
+    <rdfs:comment>Coastal areas where solid rock predominates.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#coastal%20ecosystems"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Tropical%20marshes">
+    <rdfs:label>Tropical marshes</rdfs:label>
+    <rdfs:comment>These are marshes located in tropical climate zones, characterized by high temperatures and rainfall.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Marshes"/>
+    <rdfs:subClassOf rdf:resource="#Marsh"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Marshes">
+    <rdfs:label>Marshes</rdfs:label>
+    <rdfs:comment>These are wetlands that are dominated by herbaceous rather than woody plant species.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Estuarine%20ecosystems"/>
+    <rdfs:subClassOf rdf:resource="#Wetlands"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Low%20marshes">
+    <rdfs:label>Low marshes</rdfs:label>
+    <rdfs:comment>These are areas of marsh that are regularly flooded by tides, and are typically covered by water most of the time.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Salt%20marshes"/>
+    <rdfs:subClassOf rdf:resource="#Salt%20marsh"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Estuarine%20ecosystems">
+    <rdfs:label>Estuarine ecosystems</rdfs:label>
+    <rdfs:comment>Coastal ecosystems in the upper coastal intertidal zone between land and open saltwater or brackish water.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Coastal%20wetlands"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Atoll%20reefs">
+    <rdfs:label>Atoll reefs</rdfs:label>
+    <rdfs:comment>These are circular or oval coral reefs, surrounding a central lagoon.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Coral%20reefs"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Coastal%20marshes">
+    <rdfs:label>Coastal marshes</rdfs:label>
+    <rdfs:comment>These are wetland areas near the coast, often characterized by waterlogged soils and a high diversity of plant and animal life.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Coastal%20wetlands"/>
+    <rdfs:subClassOf rdf:resource="#Wetlands"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Salt%20marshes">
+    <rdfs:label>Salt marshes</rdfs:label>
+    <rdfs:comment>These are coastal marshes that are flooded and drained by salt water brought in by the tides.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Tidal%20marshes"/>
+    <rdfs:subClassOf rdf:resource="#Tidal%20marsh"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Lagoons">
+    <rdfs:label>Lagoons</rdfs:label>
+    <rdfs:comment>Shallow bodies of water separated from larger bodies of water (like seas or oceans) by a barrier such as a sandbar or coral reef.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#coastal%20ecosystems"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Rock%20platforms">
+    <rdfs:label>Rock platforms</rdfs:label>
+    <rdfs:comment>These are flat areas of rock that are exposed at low tide.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Low%20intertidal%20zone"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Coastal%20swamps">
+    <rdfs:label>Coastal swamps</rdfs:label>
+    <rdfs:comment>These are swamps that are found along the coastal areas, where they are influenced by the sea tides.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Coastal%20wetlands"/>
+    <rdfs:subClassOf rdf:resource="#Wetlands"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Estuaries">
+    <rdfs:label>Estuaries</rdfs:label>
+    <rdfs:comment>These are partially enclosed coastal bodies of water where freshwater from rivers and streams mixes with saltwater from the ocean.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Coastal%20wetlands"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Temporary%20lagoons">
+    <rdfs:label>Temporary lagoons</rdfs:label>
+    <rdfs:comment>These are lagoons that only contain water during certain times of the year.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Lagoons"/>
+    <rdfs:subClassOf rdf:resource="#Coastal%20wetlands"/>
+    <rdfs:subClassOf rdf:resource="#Wetlands"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Low%20intertidal%20zone">
+    <rdfs:label>Low intertidal zone</rdfs:label>
+    <rdfs:comment>This is the area that is often submerged and only exposed during the period of low tide. It is the lowest zone on the shore.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Rocky%20intertidal%20zones"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Saltwater%20swamps">
+    <rdfs:label>Saltwater swamps</rdfs:label>
+    <rdfs:comment>These are coastal wetlands that are dominated by woody plants and are influenced by tides.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Coastal%20swamps"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Coral%20reefs">
+    <rdfs:label>Coral reefs</rdfs:label>
+    <rdfs:comment>Underwater ecosystems characterized by reef-building corals.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#coastal%20ecosystems"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Coastal%20wetlands">
+    <rdfs:label>Coastal wetlands</rdfs:label>
+    <rdfs:comment>Areas where vegetation is dominated by grasses and other herbaceous plants, located near a coast.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#coastal%20ecosystems"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Wetlands">
+    <rdfs:label>Wetlands</rdfs:label>
+    <rdfs:comment>Areas where vegetation is dominated by grasses and other herbaceous plants, located near a coast.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#coastal%20ecosystems"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Sandy%20beaches">
+    <rdfs:label>Sandy beaches</rdfs:label>
+    <rdfs:comment>Coastal areas with loose particle soil, such as sand or gravel.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Beach%20ecosystems"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Coastal%20marsh">
+    <rdfs:label>Coastal marsh</rdfs:label>
+    <rdfs:comment>Coastal marsh is a subcategory of Marsh. A wetland that is dominated by herbaceous rather than woody plant species.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Marsh"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Middle%20intertidal%20zone">
+    <rdfs:label>Middle intertidal zone</rdfs:label>
+    <rdfs:comment>This is the area between the high and low intertidal zones. It is regularly exposed and submerged by average tides.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Rocky%20intertidal%20zones"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Rocky%20intertidal%20zones">
+    <rdfs:label>Rocky intertidal zones</rdfs:label>
+    <rdfs:comment>Areas between the high and low tide marks on rocky shores.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Rocky%20shorelines"/>
+    <rdfs:subClassOf rdf:resource="#Rocky%20shores"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Supratidal%20zone">
+    <rdfs:label>Supratidal zone</rdfs:label>
+    <rdfs:comment>The area of the beach that is only covered by water during storms.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Sandy%20beaches"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Coastal%20sand%20dunes">
+    <rdfs:label>Coastal sand dunes</rdfs:label>
+    <rdfs:comment>These are hills of sand built by wind or water flow near the coastline.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Beach%20ecosystems"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Beach%20ecosystems">
+    <rdfs:label>Beach ecosystems</rdfs:label>
+    <rdfs:comment>Landforms along the shoreline of an ocean, sea, lake, or river, typically composed of loose particles.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#coastal%20ecosystems"/>
+  </owl:Class>
+</rdf:RDF>

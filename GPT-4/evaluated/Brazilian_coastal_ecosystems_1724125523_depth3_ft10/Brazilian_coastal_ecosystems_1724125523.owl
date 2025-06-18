@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <owl:Class rdf:about="#Tidal%20lagoons">
+    <rdfs:label>Tidal lagoons</rdfs:label>
+    <rdfs:comment>These are lagoons that are affected by the tides.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Salt%20water%20lagoons"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Aeolian%20lagoons">
+    <rdfs:label>Aeolian lagoons</rdfs:label>
+    <rdfs:comment>These are lagoons formed by the action of the wind.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Lagoons"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Barrier%20lagoons">
+    <rdfs:label>Barrier lagoons</rdfs:label>
+    <rdfs:comment>These are lagoons that are separated from the sea by a barrier such as a sandbar or coral reef.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Salt%20water%20lagoons"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Sand%20dunes">
+    <rdfs:label>Sand dunes</rdfs:label>
+    <rdfs:comment>These are hills of sand built by wind or water flow. They play a crucial role in protecting inland areas from coastal water intrusion.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Brazilian%20coastal%20ecosystems"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Permanent%20lagoons">
+    <rdfs:label>Permanent lagoons</rdfs:label>
+    <rdfs:comment>These are lagoons that have a constant presence of water.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Lagoons"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Intermittent%20lagoons">
+    <rdfs:label>Intermittent lagoons</rdfs:label>
+    <rdfs:comment>These are lagoons that do not have a constant presence of water.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Lagoons"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Reef-building%20corals">
+    <rdfs:label>Reef-building corals</rdfs:label>
+    <rdfs:comment>Corals that produce a hard skeleton, which forms the structure of the coral reef.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Coral%20reefs"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Estuarine%20lagoons">
+    <rdfs:label>Estuarine lagoons</rdfs:label>
+    <rdfs:comment>These are lagoons that are located at the mouth of a river where it meets the sea.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Salt%20water%20lagoons"/>
+    <rdfs:subClassOf rdf:resource="#Brackish%20lagoons"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Coral%20fish">
+    <rdfs:label>Coral fish</rdfs:label>
+    <rdfs:comment>These are fish that live among the coral, often having a close relationship with the reef.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Coral%20reefs"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Barrier-enclosed%20lagoons">
+    <rdfs:label>Barrier-enclosed lagoons</rdfs:label>
+    <rdfs:comment>These are lagoons that are enclosed by a barrier such as a sandbar or coral reef.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Salt%20water%20lagoons"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Artificial%20lagoons">
+    <rdfs:label>Artificial lagoons</rdfs:label>
+    <rdfs:comment>These are lagoons that are man-made.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Lagoons"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Freshwater%20lagoons">
+    <rdfs:label>Freshwater lagoons</rdfs:label>
+    <rdfs:comment>These are lagoons where the water is fresh, meaning it has very low salinity.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Lagoons"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Ribbon%20reefs">
+    <rdfs:label>Ribbon reefs</rdfs:label>
+    <rdfs:comment>These are long, narrow, and winding coral formations.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Coral%20reefs"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Black%20coral%20reefs">
+    <rdfs:label>Black coral reefs</rdfs:label>
+    <rdfs:comment>Deep-sea corals known for their black or dark brown skeletons.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Coral%20reefs"/>
+  </owl:Class>
+  <owl:Ontology rdf:about="file:///Brazilian_coastal_ecosystems.owl"/>
+  <owl:Class rdf:about="#Coral%20reefs">
+    <rdfs:label>Coral reefs</rdfs:label>
+    <rdfs:comment>These are underwater ecosystems characterized by reef-building corals. They provide habitat for a large variety of marine life.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Brazilian%20coastal%20ecosystems"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Lagoons">
+    <rdfs:label>Lagoons</rdfs:label>
+    <rdfs:comment>These are shallow bodies of water separated from larger bodies of water (like seas and oceans) by a barrier such as a sandbar or coral reef. They often have a high biodiversity.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Brazilian%20coastal%20ecosystems"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Brackish%20lagoons">
+    <rdfs:label>Brackish lagoons</rdfs:label>
+    <rdfs:comment>These are lagoons where the water is brackish, meaning it has more salinity than fresh water, but not as much as seawater.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Lagoons"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Salt%20water%20lagoons">
+    <rdfs:label>Salt water lagoons</rdfs:label>
+    <rdfs:comment>These are lagoons where the water is salty, similar to seawater.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Lagoons"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Brazilian%20coastal%20ecosystems">
+    <rdfs:label>Brazilian coastal ecosystems</rdfs:label>
+    <rdfs:comment>Brazilian coastal ecosystems refer to the diverse range of biological communities and their environments found along the coastline of Brazil. These ecosystems include various habitats such as mangroves, sand dunes, lagoons, estuaries, and coral reefs, each hosting a unique array of flora and fauna. They play crucial roles in climate regulation, nutrient cycling, and providing resources and services for human livelihoods.</rdfs:comment>
+  </owl:Class>
+</rdf:RDF>

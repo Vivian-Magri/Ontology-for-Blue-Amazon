@@ -1,0 +1,28 @@
+digraph {
+  rankdir=LR;
+ "Ecossistemas costeiros" [shape = rect];
+  "Ecossistemas costeiros" -> "Baías";
+  "Ecossistemas costeiros" -> "Estuários";
+  "Ecossistemas costeiros" -> "Florestas de kelp";
+  "Ecossistemas costeiros" -> "Lagoas costeiras";
+  "Ecossistemas costeiros" -> "Manguezais";
+  "Ecossistemas costeiros" -> "Marismas";
+ "Baías" [shape = rect];
+ "Estuários" [shape = rect];
+  "Estuários" -> "Bancos de ostras";
+  "Estuários" -> "Sapais";
+  "Estuários" -> "Zonas de sapal";
+  "Estuários" -> "Áreas de água doce estuarinas";
+  "Estuários" -> "Zonas de água salobra"[color=blue, dir=both];
+ "Florestas de kelp" [shape = rect];
+ "Lagoas costeiras" [shape = rect];
+ "Manguezais" [shape = rect];
+ "Marismas" [shape = rect];
+ "Bancos de ostras" [shape = rect];
+ "Sapais" [shape = rect];
+ "Zonas de sapal" [shape = rect];
+ "Áreas de água doce estuarinas" [shape = rect];
+subgraph cluster_metadata {
+metadata_node [label="Concepts: 11\l Subsumptions: 10\l Exploration Depth: 3\l Frequency Threshold: 10\l PT-BR Output\l Chosen Model: gpt-4-0613\l" shape=none];
+}
+}

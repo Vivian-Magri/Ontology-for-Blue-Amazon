@@ -1,0 +1,342 @@
+{
+    "Thing": {
+        "superconcepts": [],
+        "levels": [
+            -1
+        ],
+        "subconcepts": [
+            "Brazilian coastal ecosystems"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "state": "explored",
+        "definition": "top concept"
+    },
+    "Brazilian coastal ecosystems": {
+        "superconcepts": [
+            "Thing"
+        ],
+        "levels": [
+            0
+        ],
+        "subconcepts": [
+            "Coral reefs",
+            "Lagoons",
+            "Sand dunes"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Brazilian coastal ecosystems refer to the diverse range of biological communities and their environments found along the coastline of Brazil. These ecosystems include various habitats such as mangroves, sand dunes, lagoons, estuaries, and coral reefs, each hosting a unique array of flora and fauna. They play crucial roles in climate regulation, nutrient cycling, and providing resources and services for human livelihoods.",
+        "state": "explored"
+    },
+    "No subconcept": {
+        "superconcepts": [
+            "Sand dunes",
+            "Ribbon reefs",
+            "Coral fish",
+            "Reef-building corals",
+            "Black coral reefs",
+            "Aeolian lagoons",
+            "Barrier lagoons",
+            "Estuarine lagoons",
+            "Freshwater lagoons",
+            "Tidal lagoons",
+            "Artificial lagoons",
+            "Intermittent lagoons",
+            "Permanent lagoons",
+            "Barrier-enclosed lagoons"
+        ],
+        "levels": [
+            99
+        ],
+        "subconcepts": [],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "state": "explored",
+        "definition": "bottom concept"
+    },
+    "Coral reefs": {
+        "superconcepts": [
+            "Brazilian coastal ecosystems"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "Ribbon reefs",
+            "Coral fish",
+            "Reef-building corals",
+            "Black coral reefs"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are underwater ecosystems characterized by reef-building corals. They provide habitat for a large variety of marine life.",
+        "state": "explored"
+    },
+    "Lagoons": {
+        "superconcepts": [
+            "Brazilian coastal ecosystems"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "Aeolian lagoons",
+            "Freshwater lagoons",
+            "Artificial lagoons",
+            "Intermittent lagoons",
+            "Permanent lagoons",
+            "Salt water lagoons",
+            "Brackish lagoons"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are shallow bodies of water separated from larger bodies of water (like seas and oceans) by a barrier such as a sandbar or coral reef. They often have a high biodiversity.",
+        "state": "explored"
+    },
+    "Sand dunes": {
+        "superconcepts": [
+            "Brazilian coastal ecosystems"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are hills of sand built by wind or water flow. They play a crucial role in protecting inland areas from coastal water intrusion.",
+        "state": "explored_empty"
+    },
+    "Ribbon reefs": {
+        "superconcepts": [
+            "Coral reefs"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are long, narrow, and winding coral formations.",
+        "state": "explored_empty"
+    },
+    "Coral fish": {
+        "superconcepts": [
+            "Coral reefs"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are fish that live among the coral, often having a close relationship with the reef.",
+        "state": "explored_empty"
+    },
+    "Reef-building corals": {
+        "superconcepts": [
+            "Coral reefs"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Corals that produce a hard skeleton, which forms the structure of the coral reef.",
+        "state": "explored_empty"
+    },
+    "Black coral reefs": {
+        "superconcepts": [
+            "Coral reefs"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Deep-sea corals known for their black or dark brown skeletons.",
+        "state": "explored_empty"
+    },
+    "Aeolian lagoons": {
+        "superconcepts": [
+            "Lagoons"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are lagoons formed by the action of the wind.",
+        "state": "explored_empty"
+    },
+    "Barrier lagoons": {
+        "superconcepts": [
+            "Salt water lagoons"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are lagoons that are separated from the sea by a barrier such as a sandbar or coral reef.",
+        "state": "explored_empty"
+    },
+    "Estuarine lagoons": {
+        "superconcepts": [
+            "Salt water lagoons",
+            "Brackish lagoons"
+        ],
+        "levels": [
+            3,
+            3
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are lagoons that are located at the mouth of a river where it meets the sea.",
+        "state": "explored_empty"
+    },
+    "Freshwater lagoons": {
+        "superconcepts": [
+            "Lagoons"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are lagoons where the water is fresh, meaning it has very low salinity.",
+        "state": "explored_empty"
+    },
+    "Tidal lagoons": {
+        "superconcepts": [
+            "Salt water lagoons"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are lagoons that are affected by the tides.",
+        "state": "explored_empty"
+    },
+    "Artificial lagoons": {
+        "superconcepts": [
+            "Lagoons"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are lagoons that are man-made.",
+        "state": "explored_empty"
+    },
+    "Intermittent lagoons": {
+        "superconcepts": [
+            "Lagoons"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are lagoons that do not have a constant presence of water.",
+        "state": "explored_empty"
+    },
+    "Permanent lagoons": {
+        "superconcepts": [
+            "Lagoons"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are lagoons that have a constant presence of water.",
+        "state": "explored_empty"
+    },
+    "Barrier-enclosed lagoons": {
+        "superconcepts": [
+            "Salt water lagoons"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are lagoons that are enclosed by a barrier such as a sandbar or coral reef.",
+        "state": "explored_empty"
+    },
+    "Salt water lagoons": {
+        "superconcepts": [
+            "Lagoons"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "Tidal lagoons",
+            "Barrier lagoons",
+            "Barrier-enclosed lagoons",
+            "Estuarine lagoons"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are lagoons where the water is salty, similar to seawater.",
+        "state": "explored_empty"
+    },
+    "Brackish lagoons": {
+        "superconcepts": [
+            "Lagoons"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "Estuarine lagoons"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are lagoons where the water is brackish, meaning it has more salinity than fresh water, but not as much as seawater.",
+        "state": "explored_empty"
+    }
+}

@@ -1,0 +1,1742 @@
+{
+    "Thing": {
+        "superconcepts": [],
+        "levels": [
+            -1
+        ],
+        "subconcepts": [
+            "Ecossistemas costeiros"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "state": "explored",
+        "definition": "top concept"
+    },
+    "Ecossistemas costeiros": {
+        "superconcepts": [
+            "Thing"
+        ],
+        "levels": [
+            0
+        ],
+        "subconcepts": [
+            "Florestas de algas marinhas",
+            "Recifes de coral",
+            "Zonas de upwelling costeiras",
+            "Coastal wetlands",
+            "Coral reefs",
+            "Rocky shores",
+            "Sandy beaches",
+            "Dunas costeiras"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "\"Ecossistemas costeiros\" is a Portuguese term that refers to coastal ecosystems. These are biological environments located in the interface between the land and the sea, including both physical and biological components. They are characterized by a high level of biodiversity and provide a range of services that are crucial to human well-being.",
+        "state": "explored"
+    },
+    "No subconcept": {
+        "superconcepts": [
+            "Pradarias marinhas",
+            "Zonas de upwelling costeiras",
+            "Kelp forests",
+            "Seagrass meadows",
+            "Marismas de juncus",
+            "Marismas de samphire",
+            "Marismas de spartina",
+            "Sea glasswort salt marshes",
+            "Corais de lagoa",
+            "Corais c\u00e9rebro",
+            "Corais moles",
+            "Corais prato",
+            "Recifes de coral cogumelo",
+            "Tidal lagoons",
+            "Barrier island lagoons",
+            "Estuarine lagoons",
+            "Mangrove lagoons",
+            "Dune lagoons",
+            "Intermittent coastal lagoons",
+            "Atoll reefs",
+            "Cays",
+            "Patch reefs",
+            "Table reefs",
+            "Mudflats",
+            "Rock pools",
+            "Golden mangroves",
+            "Orange mangroves",
+            "Oriental mangroves",
+            "Red mangroves",
+            "Yellow mangroves",
+            "Threats to mangroves",
+            "Adaptations of mangroves",
+            "Mangrove resources",
+            "Caves and overhangs",
+            "Cliffs and ledges",
+            "Artificial lagoons",
+            "Coral reef lagoons",
+            "Corais",
+            "Peixes de recife",
+            "Fauna de invertebrados de recife",
+            "Desafios do recife artificial",
+            "Benef\u00edcios socioecon\u00f4micos dos recifes de coral artificiais",
+            "Esp\u00e9cies de coloniza\u00e7\u00e3o de recifes artificiais",
+            "Legisla\u00e7\u00e3o e regulamenta\u00e7\u00e3o de recifes de coral artificiais",
+            "Corais de dedo",
+            "Goniastrea coral species",
+            "Star coral",
+            "Reverse dunes",
+            "Reversing dunes"
+        ],
+        "levels": [
+            99
+        ],
+        "subconcepts": [],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "state": "explored",
+        "definition": "bottom concept"
+    },
+    "Florestas de algas marinhas": {
+        "superconcepts": [
+            "Ecossistemas costeiros"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "Kelp forests"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are underwater areas where large brown algae (seaweeds) grow.",
+        "state": "explored_empty"
+    },
+    "Foz de rios": {
+        "superconcepts": [
+            "Estuaries"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "Estuarine lagoons"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "This is the part of a river that flows into the sea, an estuary, a lake, or a reservoir.",
+        "state": "explored_empty"
+    },
+    "Manguezais": {
+        "superconcepts": [
+            "Intertidal zones"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "Orange mangroves",
+            "Red mangroves",
+            "Yellow mangroves"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are coastal wetlands that are flooded and drained by salt water brought in by the tides.",
+        "state": "explored_empty"
+    },
+    "Marismas salgadas": {
+        "superconcepts": [
+            "Intertidal zones"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "Marismas de gram\u00edneas marinhas",
+            "Marismas de juncus",
+            "Marismas de samphire",
+            "Sea glasswort salt marshes"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are coastal wetlands that are flooded and drained by salt water brought in by the tides.",
+        "state": "explored"
+    },
+    "Pradarias marinhas": {
+        "superconcepts": [
+            "Coastal wetlands"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are underwater meadows of seagrasses, which are flowering plants that form dense underwater beds.",
+        "state": "explored_empty"
+    },
+    "Recifes de coral": {
+        "superconcepts": [
+            "Ecossistemas costeiros"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "Corais de atol",
+            "Corais de lagoa",
+            "Corais c\u00e9rebro",
+            "Corais moles",
+            "Corais prato",
+            "Forma\u00e7\u00f5es de coral",
+            "Coral reef lagoons"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are underwater ecosystems characterized by reef-building corals.",
+        "state": "explored"
+    },
+    "Zonas de upwelling costeiras": {
+        "superconcepts": [
+            "Ecossistemas costeiros"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are regions along the coast where deep, nutrient-rich water rises towards the surface.",
+        "state": "explored_empty"
+    },
+    "Coastal lagoons": {
+        "superconcepts": [
+            "Lagoons"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "Natural coastal lagoons"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are shallow coastal water bodies separated from the ocean by a barrier.",
+        "state": "explored"
+    },
+    "Coastal wetlands": {
+        "superconcepts": [
+            "Ecossistemas costeiros"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "Pradarias marinhas",
+            "Estuaries",
+            "Intertidal zones",
+            "Mangroves",
+            "Seagrass meadows",
+            "Estu\u00e1rios",
+            "Lagoons"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are areas where water covers the soil, or is present either at or near the surface of the soil all year or for varying periods of time during the year.",
+        "state": "explored"
+    },
+    "Coral reefs": {
+        "superconcepts": [
+            "Ecossistemas costeiros"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "Corais de atol",
+            "Corais de lagoa",
+            "Corais c\u00e9rebro",
+            "Corais moles",
+            "Corais prato",
+            "Forma\u00e7\u00f5es de coral",
+            "Cays",
+            "Coral reef lagoons"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are underwater ecosystems characterized by reef-building corals.",
+        "state": "explored"
+    },
+    "Estuaries": {
+        "superconcepts": [
+            "Coastal wetlands"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "Foz de rios",
+            "Marismas de gram\u00edneas marinhas",
+            "Tidal marshes"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are partially enclosed coastal bodies of water where freshwater from rivers and streams meets and mixes with saltwater from the ocean.",
+        "state": "explored_empty"
+    },
+    "Intertidal zones": {
+        "superconcepts": [
+            "Coastal wetlands"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "Marismas salgadas",
+            "Manguezais",
+            "Mudflats",
+            "Rock pools",
+            "Salt marshes",
+            "Oriental mangroves"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are areas that are above water at low tide and under water at high tide.",
+        "state": "explored"
+    },
+    "Kelp forests": {
+        "superconcepts": [
+            "Florestas de algas marinhas"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are underwater areas where kelp, a type of large brown seaweed, grows in dense patches.",
+        "state": "explored_empty"
+    },
+    "Mangroves": {
+        "superconcepts": [
+            "Coastal wetlands"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "Mangrove forests"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are trees and shrubs that grow in saline coastal habitats in the tropics and subtropics.",
+        "state": "explored"
+    },
+    "Rocky shores": {
+        "superconcepts": [
+            "Ecossistemas costeiros"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "Bedrock shores"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are coastal areas where solid rock predominates.",
+        "state": "explored"
+    },
+    "Sandy beaches": {
+        "superconcepts": [
+            "Ecossistemas costeiros"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "Dunes"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are loose deposits of sand, gravel or pebble covering the shoreline.",
+        "state": "explored"
+    },
+    "Seagrass meadows": {
+        "superconcepts": [
+            "Coastal wetlands"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are underwater grasslands, often located in shallow and sheltered coastal waters.",
+        "state": "explored_empty"
+    },
+    "Estu\u00e1rios": {
+        "superconcepts": [
+            "Coastal wetlands"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "Marismas de gram\u00edneas marinhas",
+            "Marismas de juncus",
+            "Marismas de samphire",
+            "Estuarine lagoons"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are bodies of water partially enclosed by land but with a wide mouth, providing shelter for marine life.",
+        "state": "explored_empty"
+    },
+    "Lagoons": {
+        "superconcepts": [
+            "Coastal wetlands"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "Coastal lagoons",
+            "Artificial lagoons"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are shallow bodies of salt or brackish water, separated from the larger sea by a sandbank, coral, or a barrier island.",
+        "state": "explored"
+    },
+    "Dunas costeiras": {
+        "superconcepts": [
+            "Ecossistemas costeiros"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "Dune lagoons",
+            "Reverse dunes"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are large masses of sand located along the coastline, formed by the action of wind or water.",
+        "state": "explored_empty"
+    },
+    "Marismas de gram\u00edneas marinhas": {
+        "superconcepts": [
+            "Marismas salgadas",
+            "Estuaries",
+            "Estu\u00e1rios"
+        ],
+        "levels": [
+            3,
+            3,
+            4
+        ],
+        "subconcepts": [
+            "Marismas de spartina"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Salt marshes dominated by marine grasses.",
+        "state": "unexplored"
+    },
+    "Marismas de juncus": {
+        "superconcepts": [
+            "Marismas salgadas",
+            "Estu\u00e1rios",
+            "Tidal marshes",
+            "Salt marshes"
+        ],
+        "levels": [
+            3,
+            4,
+            4,
+            4
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Salt marshes dominated by rushes, a type of grass-like plant.",
+        "state": "unexplored"
+    },
+    "Marismas de samphire": {
+        "superconcepts": [
+            "Marismas salgadas",
+            "Estu\u00e1rios",
+            "Tidal marshes",
+            "Salt marshes"
+        ],
+        "levels": [
+            3,
+            4,
+            4,
+            4
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Salt marshes dominated by samphire, a type of halophyte plant.",
+        "state": "unexplored"
+    },
+    "Marismas de spartina": {
+        "superconcepts": [
+            "Marismas de gram\u00edneas marinhas",
+            "Tidal marshes",
+            "Salt marshes"
+        ],
+        "levels": [
+            4,
+            4,
+            4,
+            5
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Salt marshes dominated by Spartina, a genus of cordgrass.",
+        "state": "unexplored"
+    },
+    "Sea glasswort salt marshes": {
+        "superconcepts": [
+            "Marismas salgadas",
+            "Salt marshes"
+        ],
+        "levels": [
+            4,
+            4
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Salt marshes dominated by sea glasswort, a type of succulent halophyte plant.",
+        "state": "unexplored"
+    },
+    "Corais de atol": {
+        "superconcepts": [
+            "Recifes de coral",
+            "Coral reefs"
+        ],
+        "levels": [
+            2,
+            2
+        ],
+        "subconcepts": [
+            "Fauna de recife",
+            "Goniastrea coral species"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are ring-shaped coral reefs, islands, or series of islets.",
+        "state": "explored_empty"
+    },
+    "Corais de franja": {
+        "superconcepts": [
+            "Forma\u00e7\u00f5es de coral"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "Fauna de recife"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are coral reefs that are directly attached to the shore of an island or continent.",
+        "state": "explored_empty"
+    },
+    "Corais de lagoa": {
+        "superconcepts": [
+            "Recifes de coral",
+            "Coral reefs"
+        ],
+        "levels": [
+            2,
+            2
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are coral reefs located within a lagoon.",
+        "state": "explored_empty"
+    },
+    "Corais c\u00e9rebro": {
+        "superconcepts": [
+            "Recifes de coral",
+            "Coral reefs"
+        ],
+        "levels": [
+            2,
+            2
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are a type of coral known for their brain-like appearance.",
+        "state": "explored_empty"
+    },
+    "Corais moles": {
+        "superconcepts": [
+            "Recifes de coral",
+            "Coral reefs"
+        ],
+        "levels": [
+            2,
+            2
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are a type of coral known for their soft, flexible structure.",
+        "state": "explored_empty"
+    },
+    "Corais prato": {
+        "superconcepts": [
+            "Recifes de coral",
+            "Coral reefs"
+        ],
+        "levels": [
+            2,
+            2
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are corals that grow in a plate-like formation.",
+        "state": "explored_empty"
+    },
+    "Fauna de recife": {
+        "superconcepts": [
+            "Corais de atol",
+            "Corais de franja",
+            "At\u00f3is de coral",
+            "Recifes de coral em leque"
+        ],
+        "levels": [
+            3,
+            4,
+            4,
+            4
+        ],
+        "subconcepts": [
+            "Corais",
+            "Peixes de recife",
+            "Fauna de invertebrados de recife"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "This refers to the animal life found within coral reefs.",
+        "state": "explored"
+    },
+    "Forma\u00e7\u00f5es de coral": {
+        "superconcepts": [
+            "Recifes de coral",
+            "Coral reefs"
+        ],
+        "levels": [
+            2,
+            2
+        ],
+        "subconcepts": [
+            "Corais de franja",
+            "Recifes de coral artificiais",
+            "At\u00f3is de coral",
+            "Margens de recifes",
+            "Recifes de coral em leque",
+            "Recifes de coral cogumelo",
+            "Recifes de coral de \u00e1guas frias",
+            "Atoll reefs",
+            "Barrier reefs",
+            "Fringing reefs",
+            "Patch reefs",
+            "Table reefs"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are formations made up of coral colonies.",
+        "state": "explored_empty"
+    },
+    "Recifes de coral artificiais": {
+        "superconcepts": [
+            "Forma\u00e7\u00f5es de coral"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "Benef\u00edcios do recife artificial",
+            "Impacto ambiental de recifes de coral artificiais",
+            "Design de recifes artificiais",
+            "Legisla\u00e7\u00e3o e regulamenta\u00e7\u00e3o de recifes de coral artificiais",
+            "Impactos ambientais de recifes de coral artificiais"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are man-made coral reefs, often created to promote marine life.",
+        "state": "explored"
+    },
+    "At\u00f3is de coral": {
+        "superconcepts": [
+            "Forma\u00e7\u00f5es de coral"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "Fauna de recife"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are ring-shaped coral reefs that encircle a lagoon.",
+        "state": "explored_empty"
+    },
+    "Margens de recifes": {
+        "superconcepts": [
+            "Forma\u00e7\u00f5es de coral"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "Corais duros",
+            "Corais"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are the edges or margins of a coral reef.",
+        "state": "explored_empty"
+    },
+    "Recifes de coral em leque": {
+        "superconcepts": [
+            "Forma\u00e7\u00f5es de coral"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "Fauna de recife"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are a type of coral known for their fan-like shape.",
+        "state": "explored_empty"
+    },
+    "Recifes de coral cogumelo": {
+        "superconcepts": [
+            "Forma\u00e7\u00f5es de coral"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are a type of coral known for their mushroom-like shape.",
+        "state": "explored_empty"
+    },
+    "Corais duros": {
+        "superconcepts": [
+            "Margens de recifes"
+        ],
+        "levels": [
+            4
+        ],
+        "subconcepts": [
+            "Corais de dedo",
+            "Goniastrea coral species",
+            "Star coral"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "A type of coral that is often flat and leaf-like, known for its hardy nature.",
+        "state": "explored"
+    },
+    "Recifes de coral de \u00e1guas frias": {
+        "superconcepts": [
+            "Forma\u00e7\u00f5es de coral"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "Fauna de invertebrados de recife"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are coral reefs found in colder ocean waters.",
+        "state": "explored_empty"
+    },
+    "Barrier lagoons": {
+        "superconcepts": [
+            "Salt water lagoons"
+        ],
+        "levels": [
+            6
+        ],
+        "subconcepts": [
+            "Barrier island lagoons"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are lagoons separated from the ocean by a physical barrier such as a sandbar or coral reef.",
+        "state": "unexplored"
+    },
+    "Tidal lagoons": {
+        "superconcepts": [
+            "Salt water lagoons"
+        ],
+        "levels": [
+            6
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are lagoons that are significantly affected by the tides.",
+        "state": "unexplored"
+    },
+    "Barrier island lagoons": {
+        "superconcepts": [
+            "Barrier lagoons"
+        ],
+        "levels": [
+            7
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are lagoons that are separated from the ocean by a barrier island.",
+        "state": "unexplored"
+    },
+    "Brackish lagoons": {
+        "superconcepts": [
+            "Natural coastal lagoons"
+        ],
+        "levels": [
+            5
+        ],
+        "subconcepts": [
+            "Estuarine lagoons"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are lagoons with a mix of saltwater and freshwater, creating a unique environment for certain species.",
+        "state": "unexplored"
+    },
+    "Estuarine lagoons": {
+        "superconcepts": [
+            "Foz de rios",
+            "Estu\u00e1rios",
+            "Brackish lagoons",
+            "Brackish water lagoons",
+            "Salt water lagoons"
+        ],
+        "levels": [
+            3,
+            4,
+            6,
+            6,
+            6
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are lagoons located at the mouth of a river where it meets the sea.",
+        "state": "unexplored"
+    },
+    "Non-tidal lagoons": {
+        "superconcepts": [
+            "Natural coastal lagoons"
+        ],
+        "levels": [
+            5
+        ],
+        "subconcepts": [
+            "Intermittent coastal lagoons"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are lagoons that are not significantly affected by the tides.",
+        "state": "unexplored"
+    },
+    "Mangrove lagoons": {
+        "superconcepts": [
+            "Biodiverse coastal lagoons",
+            "Mangrove forests",
+            "Salt water lagoons"
+        ],
+        "levels": [
+            4,
+            6,
+            6
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are coastal wetlands that are home to mangrove trees and are important for their role in carbon sequestration.",
+        "state": "unexplored"
+    },
+    "Dune lagoons": {
+        "superconcepts": [
+            "Dunas costeiras",
+            "Natural coastal lagoons"
+        ],
+        "levels": [
+            2,
+            5
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are lagoons that are located behind coastal dunes.",
+        "state": "unexplored"
+    },
+    "Biodiverse coastal lagoons": {
+        "superconcepts": [
+            "Natural coastal lagoons"
+        ],
+        "levels": [
+            5
+        ],
+        "subconcepts": [
+            "Mangrove lagoons",
+            "Coral reef lagoons"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are lagoons that support a rich diversity of plant and animal life.",
+        "state": "unexplored"
+    },
+    "Natural coastal lagoons": {
+        "superconcepts": [
+            "Coastal lagoons"
+        ],
+        "levels": [
+            4
+        ],
+        "subconcepts": [
+            "Brackish lagoons",
+            "Dune lagoons",
+            "Biodiverse coastal lagoons",
+            "Non-tidal lagoons",
+            "Brackish water lagoons",
+            "Salt water lagoons"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are lagoons that have formed naturally over time.",
+        "state": "unexplored"
+    },
+    "Intermittent coastal lagoons": {
+        "superconcepts": [
+            "Non-tidal lagoons"
+        ],
+        "levels": [
+            6
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are lagoons that periodically dry up and refill.",
+        "state": "unexplored"
+    },
+    "Tidal marshes": {
+        "superconcepts": [
+            "Estuaries"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "Marismas de samphire",
+            "Marismas de juncus",
+            "Marismas de spartina"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Marshes that are flooded and drained by the tides, typically found in sheltered areas where sediment can accumulate.",
+        "state": "explored_empty"
+    },
+    "Mangrove forests": {
+        "superconcepts": [
+            "Mangroves"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "Mangrove lagoons",
+            "Golden mangroves",
+            "Orange mangroves",
+            "Oriental mangroves",
+            "Red mangroves",
+            "Yellow mangroves",
+            "Threats to mangroves",
+            "Adaptations of mangroves",
+            "Mangrove resources"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Tropical coastal vegetation consisting of various types of trees and shrubs that grow in saline coastal sediment habitats.",
+        "state": "explored_empty"
+    },
+    "Atoll reefs": {
+        "superconcepts": [
+            "Forma\u00e7\u00f5es de coral"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are circular or oval coral reefs that enclose a central lagoon.",
+        "state": "explored_empty"
+    },
+    "Barrier reefs": {
+        "superconcepts": [
+            "Forma\u00e7\u00f5es de coral"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "Corais"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are long, continuous coral reef systems that run parallel to the coastline but are separated from it by a lagoon.",
+        "state": "explored_empty"
+    },
+    "Cays": {
+        "superconcepts": [
+            "Coral reefs"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are small, low-elevation, sandy islands formed on the surface of coral reefs.",
+        "state": "explored_empty"
+    },
+    "Fringing reefs": {
+        "superconcepts": [
+            "Forma\u00e7\u00f5es de coral"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "Corais"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are coral reefs that are directly attached to the shore of an island or continent.",
+        "state": "explored_empty"
+    },
+    "Patch reefs": {
+        "superconcepts": [
+            "Forma\u00e7\u00f5es de coral"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are isolated, relatively small reefs that grow up from the open bottom of the island platform or continental shelf.",
+        "state": "explored_empty"
+    },
+    "Table reefs": {
+        "superconcepts": [
+            "Forma\u00e7\u00f5es de coral"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are isolated reefs, often nearly circular and radial, that are flat on top.",
+        "state": "explored_empty"
+    },
+    "Mudflats": {
+        "superconcepts": [
+            "Intertidal zones"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are coastal wetlands that form when mud is deposited by tides or rivers.",
+        "state": "unexplored"
+    },
+    "Rock pools": {
+        "superconcepts": [
+            "Intertidal zones",
+            "Tide pools"
+        ],
+        "levels": [
+            3,
+            5
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are rocky pools on the sea shore which are filled with seawater.",
+        "state": "unexplored"
+    },
+    "Salt marshes": {
+        "superconcepts": [
+            "Intertidal zones"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "Marismas de samphire",
+            "Sea glasswort salt marshes",
+            "Marismas de juncus",
+            "Marismas de spartina"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are coastal ecosystems in the upper coastal intertidal zone between land and open saltwater or brackish water that is regularly flooded by the tides.",
+        "state": "unexplored"
+    },
+    "Golden mangroves": {
+        "superconcepts": [
+            "Mangrove forests"
+        ],
+        "levels": [
+            4
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are a species of mangroves known for their golden-colored bark.",
+        "state": "unexplored"
+    },
+    "Orange mangroves": {
+        "superconcepts": [
+            "Mangrove forests",
+            "Manguezais"
+        ],
+        "levels": [
+            4,
+            4
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are a species of mangroves known for their orange-colored bark.",
+        "state": "unexplored"
+    },
+    "Oriental mangroves": {
+        "superconcepts": [
+            "Mangrove forests",
+            "Intertidal zones"
+        ],
+        "levels": [
+            3,
+            4
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are a species of mangroves native to the Orient or Asia.",
+        "state": "unexplored"
+    },
+    "Red mangroves": {
+        "superconcepts": [
+            "Mangrove forests",
+            "Manguezais"
+        ],
+        "levels": [
+            4,
+            4
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are a species of mangroves known for their red-colored bark.",
+        "state": "unexplored"
+    },
+    "Yellow mangroves": {
+        "superconcepts": [
+            "Mangrove forests",
+            "Manguezais"
+        ],
+        "levels": [
+            4,
+            4
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are a species of mangroves known for their yellow-colored bark.",
+        "state": "unexplored"
+    },
+    "Threats to mangroves": {
+        "superconcepts": [
+            "Mangrove forests"
+        ],
+        "levels": [
+            4
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "This refers to the dangers and challenges faced by mangrove ecosystems, such as deforestation and climate change.",
+        "state": "unexplored"
+    },
+    "Adaptations of mangroves": {
+        "superconcepts": [
+            "Mangrove forests"
+        ],
+        "levels": [
+            4
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are the biological features that allow mangroves to survive in their unique environment.",
+        "state": "unexplored"
+    },
+    "Mangrove resources": {
+        "superconcepts": [
+            "Mangrove forests"
+        ],
+        "levels": [
+            4
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "This refers to the benefits that humans derive from mangroves, such as timber and fish.",
+        "state": "unexplored"
+    },
+    "Caves and overhangs": {
+        "superconcepts": [
+            "Rocky platforms"
+        ],
+        "levels": [
+            4
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are areas where the rock formations create shelters from the elements.",
+        "state": "explored_empty"
+    },
+    "Tide pools": {
+        "superconcepts": [
+            "Rocky platforms"
+        ],
+        "levels": [
+            4
+        ],
+        "subconcepts": [
+            "Rock pools"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are rocky pools on the sea shore which are filled with seawater.",
+        "state": "explored_empty"
+    },
+    "Bedrock shores": {
+        "superconcepts": [
+            "Rocky shores"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "Cliffs and ledges",
+            "Rocky platforms"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are areas where the shore is solid rock.",
+        "state": "explored_empty"
+    },
+    "Cliffs and ledges": {
+        "superconcepts": [
+            "Bedrock shores"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are areas where the shore has vertical or near-vertical rock faces.",
+        "state": "explored_empty"
+    },
+    "Rocky platforms": {
+        "superconcepts": [
+            "Bedrock shores"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "Tide pools",
+            "Caves and overhangs"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are flat or gently sloping areas of rock, often exposed at low tide.",
+        "state": "explored_empty"
+    },
+    "Dunes": {
+        "superconcepts": [
+            "Sandy beaches"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "Coastal dunes"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are hills of sand built by wind or water flow, found in deserts or coastal areas.",
+        "state": "explored"
+    },
+    "Artificial lagoons": {
+        "superconcepts": [
+            "Lagoons"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are man-made bodies of water, often created for aesthetic or functional purposes.",
+        "state": "unexplored"
+    },
+    "Coral reef lagoons": {
+        "superconcepts": [
+            "Recifes de coral",
+            "Biodiverse coastal lagoons",
+            "Coral reefs",
+            "Salt water lagoons"
+        ],
+        "levels": [
+            2,
+            2,
+            6,
+            6
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are lagoons that are surrounded by a coral reef.",
+        "state": "unexplored"
+    },
+    "Brackish water lagoons": {
+        "superconcepts": [
+            "Natural coastal lagoons"
+        ],
+        "levels": [
+            5
+        ],
+        "subconcepts": [
+            "Estuarine lagoons"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are lagoons where the water is brackish, meaning it has more salinity than fresh water, but not as much as seawater.",
+        "state": "unexplored"
+    },
+    "Salt water lagoons": {
+        "superconcepts": [
+            "Natural coastal lagoons"
+        ],
+        "levels": [
+            5
+        ],
+        "subconcepts": [
+            "Coral reef lagoons",
+            "Tidal lagoons",
+            "Estuarine lagoons",
+            "Mangrove lagoons",
+            "Barrier lagoons"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are lagoons where the water is salty, often due to a connection with the sea or ocean.",
+        "state": "unexplored"
+    },
+    "Corais": {
+        "superconcepts": [
+            "Margens de recifes",
+            "Barrier reefs",
+            "Fauna de recife",
+            "Fringing reefs"
+        ],
+        "levels": [
+            4,
+            4,
+            4,
+            4,
+            5
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are marine invertebrates that typically live in compact colonies and build reefs.",
+        "state": "unexplored"
+    },
+    "Peixes de recife": {
+        "superconcepts": [
+            "Fauna de recife"
+        ],
+        "levels": [
+            4,
+            5
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are fish that live in or around coral reefs.",
+        "state": "unexplored"
+    },
+    "Fauna de invertebrados de recife": {
+        "superconcepts": [
+            "Fauna de recife",
+            "Recifes de coral de \u00e1guas frias"
+        ],
+        "levels": [
+            4,
+            4,
+            5
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "This is a diverse group of invertebrates that includes species such as snails, clams, and squids, many of which can be found in reef environments.",
+        "state": "unexplored"
+    },
+    "Benef\u00edcios do recife artificial": {
+        "superconcepts": [
+            "Recifes de coral artificiais"
+        ],
+        "levels": [
+            4
+        ],
+        "subconcepts": [
+            "Benef\u00edcios socioecon\u00f4micos dos recifes de coral artificiais"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Refers to the benefits of the artificial reef, such as increased biodiversity and economic benefits from tourism and fishing.",
+        "state": "unexplored"
+    },
+    "Desafios do recife artificial": {
+        "superconcepts": [
+            "Impacto ambiental de recifes de coral artificiais",
+            "Constru\u00e7\u00e3o e instala\u00e7\u00e3o de recifes artificiais"
+        ],
+        "levels": [
+            5,
+            6
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Refers to the challenges associated with artificial reefs, such as ensuring they do not harm natural habitats.",
+        "state": "unexplored"
+    },
+    "Impacto ambiental de recifes de coral artificiais": {
+        "superconcepts": [
+            "Recifes de coral artificiais"
+        ],
+        "levels": [
+            4
+        ],
+        "subconcepts": [
+            "Desafios do recife artificial",
+            "Esp\u00e9cies de coloniza\u00e7\u00e3o de recifes artificiais"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Refers to the environmental impact of the artificial reef, including potential benefits (such as increased biodiversity) and drawbacks (such as potential harm to natural habitats).",
+        "state": "unexplored"
+    },
+    "Benef\u00edcios socioecon\u00f4micos dos recifes de coral artificiais": {
+        "superconcepts": [
+            "Benef\u00edcios do recife artificial"
+        ],
+        "levels": [
+            5
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Refers to the social and economic benefits derived from artificial coral reefs, such as boosting local economies through tourism and fishing.",
+        "state": "unexplored"
+    },
+    "Esp\u00e9cies de coloniza\u00e7\u00e3o de recifes artificiais": {
+        "superconcepts": [
+            "Impacto ambiental de recifes de coral artificiais",
+            "Impactos ambientais de recifes de coral artificiais"
+        ],
+        "levels": [
+            5,
+            5
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Refers to the species that colonize the artificial reef, which can vary depending on the location and design of the reef.",
+        "state": "unexplored"
+    },
+    "Design de recifes artificiais": {
+        "superconcepts": [
+            "Recifes de coral artificiais"
+        ],
+        "levels": [
+            4
+        ],
+        "subconcepts": [
+            "Constru\u00e7\u00e3o e instala\u00e7\u00e3o de recifes artificiais"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Refers to the design of the artificial reef, which can influence its success in attracting marine life.",
+        "state": "unexplored"
+    },
+    "Legisla\u00e7\u00e3o e regulamenta\u00e7\u00e3o de recifes de coral artificiais": {
+        "superconcepts": [
+            "Recifes de coral artificiais"
+        ],
+        "levels": [
+            4
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Refers to the legal and regulatory issues associated with artificial reefs, such as obtaining necessary permits and ensuring compliance with environmental regulations.",
+        "state": "unexplored"
+    },
+    "Impactos ambientais de recifes de coral artificiais": {
+        "superconcepts": [
+            "Recifes de coral artificiais"
+        ],
+        "levels": [
+            4
+        ],
+        "subconcepts": [
+            "Esp\u00e9cies de coloniza\u00e7\u00e3o de recifes artificiais"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Refers to the environmental impacts of the artificial reef, both positive (such as increased biodiversity) and negative (such as potential damage to natural habitats).",
+        "state": "unexplored"
+    },
+    "Constru\u00e7\u00e3o e instala\u00e7\u00e3o de recifes artificiais": {
+        "superconcepts": [
+            "Design de recifes artificiais"
+        ],
+        "levels": [
+            5
+        ],
+        "subconcepts": [
+            "Desafios do recife artificial"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Refers to the process of building and installing the artificial reef.",
+        "state": "unexplored"
+    },
+    "Corais de dedo": {
+        "superconcepts": [
+            "Corais duros"
+        ],
+        "levels": [
+            5
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "A type of coral known for its finger-like branches.",
+        "state": "unexplored"
+    },
+    "Goniastrea coral species": {
+        "superconcepts": [
+            "Corais duros",
+            "Corais de atol"
+        ],
+        "levels": [
+            3,
+            5
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Different species within the Goniastrea genus of coral.",
+        "state": "unexplored"
+    },
+    "Star coral": {
+        "superconcepts": [
+            "Corais duros"
+        ],
+        "levels": [
+            5
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "A type of coral known for its star-shaped polyps.",
+        "state": "unexplored"
+    },
+    "Coastal dunes": {
+        "superconcepts": [
+            "Dunes"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "Reverse dunes",
+            "Reversing dunes"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are dunes formed on the coastline by the action of sea waves and wind.",
+        "state": "unexplored"
+    },
+    "Reverse dunes": {
+        "superconcepts": [
+            "Dunas costeiras",
+            "Coastal dunes"
+        ],
+        "levels": [
+            2,
+            4
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are dunes that form under the influence of winds from a direction opposite to the prevailing wind.",
+        "state": "unexplored"
+    },
+    "Reversing dunes": {
+        "superconcepts": [
+            "Coastal dunes"
+        ],
+        "levels": [
+            4
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are dunes that change their shape and orientation in response to changes in wind direction.",
+        "state": "unexplored"
+    }
+}

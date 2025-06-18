@@ -1,0 +1,575 @@
+{
+    "Thing": {
+        "superconcepts": [],
+        "levels": [
+            -1
+        ],
+        "subconcepts": [
+            "ecossistemas costeiros brasileiros"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "state": "explored",
+        "definition": "top concept"
+    },
+    "ecossistemas costeiros brasileiros": {
+        "superconcepts": [
+            "Thing"
+        ],
+        "levels": [
+            0
+        ],
+        "subconcepts": [
+            "Ba\u00edas",
+            "Cost\u00f5es rochosos",
+            "Estu\u00e1rios",
+            "Lagoas costeiras",
+            "Manguezais",
+            "Praias arenosas",
+            "Recifes de coral"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "\"Ecossistemas costeiros brasileiros\" is a Portuguese term that refers to the coastal ecosystems of Brazil. These are biological environments found along the Brazilian coastline, including a variety of habitats such as mangroves, sand dunes, lagoons, and coral reefs, which are home to diverse species of flora and fauna.",
+        "state": "explored"
+    },
+    "No subconcept": {
+        "superconcepts": [
+            "Ba\u00edas",
+            "Cost\u00f5es rochosos",
+            "Lagoas costeiras",
+            "Manguezais",
+            "Zonas de mar\u00e9 baixa",
+            "Zonas de transi\u00e7\u00e3o",
+            "Praias de barra",
+            "Recifes de coral tubulares",
+            "Tubar\u00f5es e raias de recifes de coral",
+            "Recifes de coral isolados",
+            "Fauna arenosa",
+            "Corais duros",
+            "Corais massivos",
+            "Corais do tipo \"elkhorn\"",
+            "Zonas mortas do recife de coral"
+        ],
+        "levels": [
+            99
+        ],
+        "subconcepts": [],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "state": "explored",
+        "definition": "bottom concept"
+    },
+    "Ba\u00edas": {
+        "superconcepts": [
+            "ecossistemas costeiros brasileiros"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are bodies of water partially enclosed by land but with a wide mouth, providing shelter to various marine species.",
+        "state": "explored_empty"
+    },
+    "Cost\u00f5es rochosos": {
+        "superconcepts": [
+            "ecossistemas costeiros brasileiros"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are rocky coastal areas that are constantly eroded by the action of the sea.",
+        "state": "explored_empty"
+    },
+    "Estu\u00e1rios": {
+        "superconcepts": [
+            "ecossistemas costeiros brasileiros"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "Zonas de mar\u00e9 baixa",
+            "Zonas de transi\u00e7\u00e3o"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are the tidal mouths of large rivers, where the tide meets the stream.",
+        "state": "explored"
+    },
+    "Lagoas costeiras": {
+        "superconcepts": [
+            "ecossistemas costeiros brasileiros"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are coastal lagoons, which are shallow bodies of water separated from the sea by a barrier.",
+        "state": "explored_empty"
+    },
+    "Manguezais": {
+        "superconcepts": [
+            "ecossistemas costeiros brasileiros"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are coastal wetlands found in tropical and subtropical regions, characterized by halophytic (salt loving) trees, shrubs and other plants growing in brackish to saline tidal waters.",
+        "state": "explored_empty"
+    },
+    "Praias arenosas": {
+        "superconcepts": [
+            "ecossistemas costeiros brasileiros"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "Praias de barra",
+            "Praias arenosas com restingas"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are sandy beaches, which are loose deposits of sand, gravel or pebble covering the shoreline.",
+        "state": "explored"
+    },
+    "Recifes de coral": {
+        "superconcepts": [
+            "ecossistemas costeiros brasileiros"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "Zonas de recifes de coral"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are underwater ecosystems characterized by reef-building corals, providing a unique habitat for various marine species.",
+        "state": "explored"
+    },
+    "Zonas de mar\u00e9 baixa": {
+        "superconcepts": [
+            "Estu\u00e1rios"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are areas within an estuary that are exposed at low tide.",
+        "state": "explored_empty"
+    },
+    "Zonas de transi\u00e7\u00e3o": {
+        "superconcepts": [
+            "Estu\u00e1rios"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are areas within an estuary where saltwater from the sea mixes with freshwater from rivers, creating a unique environment that supports a diverse range of species.",
+        "state": "explored_empty"
+    },
+    "Praias de barra": {
+        "superconcepts": [
+            "Praias arenosas"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are beaches characterized by the presence of a sandbar, a landform made of sand that has been deposited by the sea.",
+        "state": "explored_empty"
+    },
+    "Fauna de praia": {
+        "superconcepts": [
+            "Praias arenosas com restingas"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "Fauna arenosa"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "This refers to the animal life that inhabits sandy beaches.",
+        "state": "explored"
+    },
+    "Praias arenosas com restingas": {
+        "superconcepts": [
+            "Praias arenosas"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "Fauna de praia"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are beaches that are associated with restingas, a type of coastal vegetation found on sandy, nutrient-poor soils.",
+        "state": "explored_empty"
+    },
+    "Corais construtores de recifes": {
+        "superconcepts": [
+            "Biodiversidade de recifes de corais"
+        ],
+        "levels": [
+            6
+        ],
+        "subconcepts": [
+            "Corais duros",
+            "Corais massivos",
+            "Corais do tipo \"elkhorn\""
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are species of corals that produce calcium carbonate, forming the structural framework of coral reefs.",
+        "state": "explored"
+    },
+    "Recifes de coral de barreira": {
+        "superconcepts": [
+            "Zonas de recifes de coral"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "Zonas de recifes de barreira",
+            "Zonas de frente de recife",
+            "Zonas de lagoa de recife"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are similar to Recifes de barreira, long and continuous coral reef systems separated from the shore by a lagoon.",
+        "state": "explored"
+    },
+    "Recifes de coral de franja": {
+        "superconcepts": [
+            "Zonas de recifes de coral"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "Tubar\u00f5es e raias de recifes de coral",
+            "Corais duros"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are similar to Recifes de franja, coral reefs attached directly to the shore.",
+        "state": "explored_empty"
+    },
+    "Zonas de recifes de barreira": {
+        "superconcepts": [
+            "Recifes de coral de barreira"
+        ],
+        "levels": [
+            4
+        ],
+        "subconcepts": [
+            "Tubar\u00f5es e raias de recifes de coral",
+            "Biodiversidade de recifes de corais",
+            "Zonas mortas do recife de coral"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are areas within a barrier reef where coral reefs are found.",
+        "state": "explored_empty"
+    },
+    "Zonas de recifes de plataforma": {
+        "superconcepts": [
+            "Zonas de recifes de coral"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "Recifes de coral tubulares",
+            "Recifes de coral de plataforma continental"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are areas within a platform reef where coral reefs are found.",
+        "state": "explored_empty"
+    },
+    "Recifes de coral tubulares": {
+        "superconcepts": [
+            "Zonas de recifes de plataforma",
+            "Col\u00f4nias de corais"
+        ],
+        "levels": [
+            4,
+            5
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are a type of coral known for their tube-like structure.",
+        "state": "explored_empty"
+    },
+    "Recifes de coral de plataforma continental": {
+        "superconcepts": [
+            "Zonas de recifes de plataforma"
+        ],
+        "levels": [
+            4
+        ],
+        "subconcepts": [
+            "Tubar\u00f5es e raias de recifes de coral",
+            "Biodiversidade de recifes de corais"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are reefs that grow on the continental shelf, in deeper waters.",
+        "state": "explored_empty"
+    },
+    "Zonas de recifes de coral": {
+        "superconcepts": [
+            "Recifes de coral"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "Recifes de coral de franja",
+            "Recifes de coral de barreira",
+            "Zonas de recifes de plataforma",
+            "Recifes de coral isolados",
+            "Coral reef zones (fore reef"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are areas within a fringing reef where coral reefs are found.",
+        "state": "explored"
+    },
+    "Tubar\u00f5es e raias de recifes de coral": {
+        "superconcepts": [
+            "Recifes de coral de plataforma continental",
+            "Recifes de coral de franja",
+            "Zonas de recifes de barreira",
+            "Zonas de frente de recife"
+        ],
+        "levels": [
+            4,
+            5,
+            5,
+            5
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are sharks and rays that inhabit or visit coral reefs, often as top predators.",
+        "state": "explored_empty"
+    },
+    "Recifes de coral isolados": {
+        "superconcepts": [
+            "Zonas de recifes de coral"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are similar to Recifes de patch, small and isolated reefs growing from the open bottom.",
+        "state": "explored_empty"
+    },
+    "Fauna arenosa": {
+        "superconcepts": [
+            "Fauna de praia"
+        ],
+        "levels": [
+            4
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "In \"fauna de praia\" is a subcategory of Fauna de praia. This refers to the animal life that inhabits sandy beaches.",
+        "state": "unexplored"
+    },
+    "Corais duros": {
+        "superconcepts": [
+            "Corais construtores de recifes",
+            "Recifes de coral de franja",
+            "Zonas de lagoa de recife"
+        ],
+        "levels": [
+            4,
+            5,
+            7
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are species of hard corals.",
+        "state": "unexplored"
+    },
+    "Corais massivos": {
+        "superconcepts": [
+            "Corais construtores de recifes"
+        ],
+        "levels": [
+            7
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are hard corals that form massive, dome-shaped colonies.",
+        "state": "unexplored"
+    },
+    "Biodiversidade de recifes de corais": {
+        "superconcepts": [
+            "Recifes de coral de plataforma continental",
+            "Zonas de recifes de barreira"
+        ],
+        "levels": [
+            5,
+            5
+        ],
+        "subconcepts": [
+            "Corais construtores de recifes"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "This refers to the biodiversity found in coral reefs.",
+        "state": "unexplored"
+    },
+    "Corais do tipo \"elkhorn\"": {
+        "superconcepts": [
+            "Corais construtores de recifes"
+        ],
+        "levels": [
+            7
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are corals that have branching structures that resemble elk antlers.",
+        "state": "unexplored"
+    },
+    "Zonas de frente de recife": {
+        "superconcepts": [
+            "Recifes de coral de barreira"
+        ],
+        "levels": [
+            4
+        ],
+        "subconcepts": [
+            "Tubar\u00f5es e raias de recifes de coral"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are the areas of the reef that face towards the shore.",
+        "state": "unexplored"
+    },
+    "Zonas de lagoa de recife": {
+        "superconcepts": [
+            "Recifes de coral de barreira"
+        ],
+        "levels": [
+            4
+        ],
+        "subconcepts": [
+            "Corais duros"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are the areas of the reef that are within the lagoon.",
+        "state": "unexplored"
+    },
+    "Zonas mortas do recife de coral": {
+        "superconcepts": [
+            "Zonas de recifes de barreira",
+            "Coral reef zones (fore reef"
+        ],
+        "levels": [
+            4,
+            5
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are areas of the reef where coral growth has ceased, often due to environmental stress or damage.",
+        "state": "unexplored"
+    },
+    "Coral reef zones (fore reef": {
+        "superconcepts": [
+            "Zonas de recifes de coral"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "Zonas mortas do recife de coral",
+            "Col\u00f4nias de corais"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Coral reef zones (fore reef is a subcategory of Zonas de recifes de coral. These are areas within a fringing reef where coral reefs are found.",
+        "state": "unexplored"
+    },
+    "Col\u00f4nias de corais": {
+        "superconcepts": [
+            "Coral reef zones (fore reef"
+        ],
+        "levels": [
+            4
+        ],
+        "subconcepts": [
+            "Recifes de coral tubulares"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "These are groups of coral polyps that live together on the reef, often of the same species.",
+        "state": "unexplored"
+    }
+}
