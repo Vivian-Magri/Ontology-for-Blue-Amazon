@@ -1,0 +1,73 @@
+{
+    "model": "gpt-3.5-turbo",
+    "start": "2024-05-15 21:21:57",
+    "end": "2024-05-15 21:22:11",
+    "duration (seconds)": 14,
+    "timestamp": 1715818917,
+    "seed concept": "Brazilian coastal ecosystems",
+    "prompts": 32,
+    "duplicates": 0,
+    "tokens (total)": 3891,
+    "tokens (responses)": 480,
+    "tokens (requests)": 3411,
+    "parameters": {
+        "temperature (sampling)": 2.0,
+        "top_p (sampling)": 0.99,
+        "number of completions (sampling)": 100,
+        "frequency threshold for sampling": 10,
+        "exploration depth": 3
+    },
+    "statistics": {
+        "Concepts in ontology": 2,
+        "Accepted after renaming": 0,
+        "Dismissed terms": 9,
+        "Dismissed as instance": 3,
+        "Dismissed as partOf": 5,
+        "Dismissed as no subconcept of seed": 0,
+        "Dismissed as no subconcept of parent": 1,
+        "Synonyms": 0,
+        "Concepts without subconcept": 1,
+        "Subsumptions (transitive reduction)": 1,
+        "Subsumptions (found by KRIS)": 0,
+        "Cost of ontology in dollar": 0.01,
+        "Cost per concept in cent": 0.3,
+        "Prompts": 32,
+        "Prompts per concept": 16.0,
+        "Tokens": 3891,
+        "Tokens per concept": 1946,
+        "Maximal depth": 1,
+        "Maximal indegree": 1,
+        "Maximal outdegree": 1,
+        "Average degree": 0.5,
+        "Depth 0": {
+            "Concepts": 1,
+            "Concepts without subconcept": 0,
+            "Maximal indegree": 0,
+            "Maximal outdegree": 1,
+            "Average indegree": 0.0,
+            "Average outdegree": 1.0
+        },
+        "Depth 1": {
+            "Concepts": 1,
+            "Concepts without subconcept": 1,
+            "Maximal indegree": 1,
+            "Maximal outdegree": 0,
+            "Average indegree": 1.0,
+            "Average outdegree": 0.0
+        },
+        "Outdegree 0": {
+            "Concepts": 1,
+            "Minimal depth": 1,
+            "Maximal depth": 1,
+            "Average depth": 1,
+            "Median depth": 1
+        },
+        "Outdegree 1": {
+            "Concepts": 1,
+            "Minimal depth": 0,
+            "Maximal depth": 0,
+            "Average depth": 0,
+            "Median depth": 0
+        }
+    }
+}

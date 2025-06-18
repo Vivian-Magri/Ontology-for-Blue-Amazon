@@ -1,0 +1,20 @@
+2024-05-15 21:23:04,516 INFO Task-4 Prompt:
+Brazilian Coastal ecosystems: Brazilian Coastal ecosystems refer to the diverse and complex ecosystems found along the coast of Brazil, including mangroves, beaches, estuaries, and coral reefs.
+Coral reefs: Diverse marine ecosystems formed by colonies of coral polyps that provide habitat for a wide variety of marine life.
+Is "Coral reefs" a specific instance or a subcategory of the category "Brazilian Coastal ecosystems"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-15 21:23:04,578 INFO Task-3 Prompt:
+Brazilian Coastal ecosystems: Brazilian Coastal ecosystems refer to the diverse and complex ecosystems found along the coast of Brazil, including mangroves, beaches, estuaries, and coral reefs.
+Beaches: Coastal landforms consisting of sand, pebbles, or rocks that are influenced by waves and tides.
+Is "Beaches" a specific instance or a subcategory of the category "Brazilian Coastal ecosystems"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-15 21:23:04,688 INFO Task-5 Prompt:
+Brazilian Coastal ecosystems: Brazilian Coastal ecosystems refer to the diverse and complex ecosystems found along the coast of Brazil, including mangroves, beaches, estuaries, and coral reefs.
+Estuaries: Transitional zones where freshwater rivers meet the salty ocean, creating unique habitats with high biodiversity.
+Is "Estuaries" a part or a subcategory of the category "Brazilian Coastal ecosystems"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-15 21:23:04,833 INFO Task-6 Prompt:
+Brazilian Coastal ecosystems: Brazilian Coastal ecosystems refer to the diverse and complex ecosystems found along the coast of Brazil, including mangroves, beaches, estuaries, and coral reefs.
+Mangroves: Coastal wetlands characterized by salt-tolerant trees and shrubs that provide important ecosystem services and habitat for various species.
+Is "Mangroves" a part or a subcategory of the category "Brazilian Coastal ecosystems"? Answer only with "Part" or "Subcategory".
+Part

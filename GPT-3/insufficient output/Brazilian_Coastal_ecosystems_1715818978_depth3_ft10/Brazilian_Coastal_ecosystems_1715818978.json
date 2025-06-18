@@ -1,0 +1,43 @@
+{
+    "Thing": {
+        "superconcepts": [],
+        "levels": [
+            -1
+        ],
+        "subconcepts": [
+            "Brazilian Coastal ecosystems"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "state": "explored",
+        "definition": "top concept"
+    },
+    "Brazilian Coastal ecosystems": {
+        "superconcepts": [
+            "Thing"
+        ],
+        "levels": [
+            0
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Brazilian Coastal ecosystems refer to the diverse and complex ecosystems found along the coast of Brazil, including mangroves, beaches, estuaries, and coral reefs.",
+        "state": "explored_empty"
+    },
+    "No subconcept": {
+        "superconcepts": [
+            "Brazilian Coastal ecosystems"
+        ],
+        "levels": [
+            99
+        ],
+        "subconcepts": [],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "state": "explored",
+        "definition": "bottom concept"
+    }
+}

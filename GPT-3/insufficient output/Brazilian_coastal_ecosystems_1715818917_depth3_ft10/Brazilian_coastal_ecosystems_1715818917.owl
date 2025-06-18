@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <owl:Class rdf:about="#Estuaries">
+    <rdfs:label>Estuaries</rdfs:label>
+    <rdfs:comment>Transitional zones where rivers meet the sea, characterized by brackish water.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Brazilian%20coastal%20ecosystems"/>
+  </owl:Class>
+  <owl:Ontology rdf:about="file:///Brazilian_coastal_ecosystems.owl"/>
+  <owl:Class rdf:about="#Brazilian%20coastal%20ecosystems">
+    <rdfs:label>Brazilian coastal ecosystems</rdfs:label>
+    <rdfs:comment>Brazilian coastal ecosystems refer to the diverse habitats and species found along the coast of Brazil, including mangroves, beaches, estuaries, and coral reefs.</rdfs:comment>
+  </owl:Class>
+</rdf:RDF>

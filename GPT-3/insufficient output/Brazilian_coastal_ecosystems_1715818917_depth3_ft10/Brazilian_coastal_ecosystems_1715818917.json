@@ -1,0 +1,58 @@
+{
+    "Thing": {
+        "superconcepts": [],
+        "levels": [
+            -1
+        ],
+        "subconcepts": [
+            "Brazilian coastal ecosystems"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "state": "explored",
+        "definition": "top concept"
+    },
+    "Brazilian coastal ecosystems": {
+        "superconcepts": [
+            "Thing"
+        ],
+        "levels": [
+            0
+        ],
+        "subconcepts": [
+            "Estuaries"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Brazilian coastal ecosystems refer to the diverse habitats and species found along the coast of Brazil, including mangroves, beaches, estuaries, and coral reefs.",
+        "state": "explored"
+    },
+    "No subconcept": {
+        "superconcepts": [
+            "Estuaries"
+        ],
+        "levels": [
+            99
+        ],
+        "subconcepts": [],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "state": "explored",
+        "definition": "bottom concept"
+    },
+    "Estuaries": {
+        "superconcepts": [
+            "Brazilian coastal ecosystems"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Transitional zones where rivers meet the sea, characterized by brackish water.",
+        "state": "explored_empty"
+    }
+}

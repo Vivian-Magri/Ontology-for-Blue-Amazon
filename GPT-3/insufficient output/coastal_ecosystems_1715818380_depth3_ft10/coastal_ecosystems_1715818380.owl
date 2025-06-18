@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <owl:Class rdf:about="#Estuaries">
+    <rdfs:label>Estuaries</rdfs:label>
+    <rdfs:comment>Transitional zones where rivers meet the sea, characterized by fluctuating salinity levels.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#coastal%20ecosystems"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Mangrove%20forests">
+    <rdfs:label>Mangrove forests</rdfs:label>
+    <rdfs:comment>Coastal wetlands dominated by salt-tolerant trees and shrubs.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#coastal%20ecosystems"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Boulder%20fields">
+    <rdfs:label>Boulder fields</rdfs:label>
+    <rdfs:comment>Areas within rocky shores characterized by large boulders that provide habitat for various intertidal organisms.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Rocky%20shores"/>
+  </owl:Class>
+  <owl:Ontology rdf:about="file:///coastal_ecosystems.owl"/>
+  <owl:Class rdf:about="#Rocky%20shores">
+    <rdfs:label>Rocky shores</rdfs:label>
+    <rdfs:comment>Coastal habitats with hard substrate, hosting a variety of intertidal organisms.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#coastal%20ecosystems"/>
+  </owl:Class>
+  <owl:Class rdf:about="#coastal%20ecosystems">
+    <rdfs:label>coastal ecosystems</rdfs:label>
+    <rdfs:comment>Coastal ecosystems refer to the diverse communities of plants, animals, and microorganisms that inhabit the interface between land and sea.</rdfs:comment>
+  </owl:Class>
+</rdf:RDF>

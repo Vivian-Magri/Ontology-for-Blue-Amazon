@@ -1,0 +1,9 @@
+digraph {
+  rankdir=LR;
+ "Brazilian coastal ecosystems" [shape = rect];
+  "Brazilian coastal ecosystems" -> "Estuaries";
+ "Estuaries" [shape = rect];
+subgraph cluster_metadata {
+metadata_node [label="Concepts: 2\l Subsumptions: 1\l Exploration Depth: 3\l Frequency Threshold: 10\l" shape=none];
+}
+}

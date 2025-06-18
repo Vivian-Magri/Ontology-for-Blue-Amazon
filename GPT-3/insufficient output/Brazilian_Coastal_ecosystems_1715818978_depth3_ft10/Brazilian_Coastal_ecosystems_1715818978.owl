@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <owl:Class rdf:about="#Brazilian%20Coastal%20ecosystems">
+    <rdfs:label>Brazilian Coastal ecosystems</rdfs:label>
+    <rdfs:comment>Brazilian Coastal ecosystems refer to the diverse and complex ecosystems found along the coast of Brazil, including mangroves, beaches, estuaries, and coral reefs.</rdfs:comment>
+  </owl:Class>
+  <owl:Ontology rdf:about="file:///Brazilian_Coastal_ecosystems.owl"/>
+</rdf:RDF>

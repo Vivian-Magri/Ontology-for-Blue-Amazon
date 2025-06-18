@@ -1,0 +1,107 @@
+{
+    "Thing": {
+        "superconcepts": [],
+        "levels": [
+            -1
+        ],
+        "subconcepts": [
+            "coastal ecosystems"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "state": "explored",
+        "definition": "top concept"
+    },
+    "coastal ecosystems": {
+        "superconcepts": [
+            "Thing"
+        ],
+        "levels": [
+            0
+        ],
+        "subconcepts": [
+            "Estuaries",
+            "Mangrove forests",
+            "Rocky shores"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Coastal ecosystems refer to the diverse communities of plants, animals, and microorganisms that inhabit the interface between land and sea.",
+        "state": "explored"
+    },
+    "No subconcept": {
+        "superconcepts": [
+            "Estuaries",
+            "Mangrove forests",
+            "Boulder fields"
+        ],
+        "levels": [
+            99
+        ],
+        "subconcepts": [],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "state": "explored",
+        "definition": "bottom concept"
+    },
+    "Estuaries": {
+        "superconcepts": [
+            "coastal ecosystems"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Transitional zones where rivers meet the sea, characterized by fluctuating salinity levels.",
+        "state": "explored_empty"
+    },
+    "Mangrove forests": {
+        "superconcepts": [
+            "coastal ecosystems"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Coastal wetlands dominated by salt-tolerant trees and shrubs.",
+        "state": "explored_empty"
+    },
+    "Rocky shores": {
+        "superconcepts": [
+            "coastal ecosystems"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "Boulder fields"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Coastal habitats with hard substrate, hosting a variety of intertidal organisms.",
+        "state": "explored"
+    },
+    "Boulder fields": {
+        "superconcepts": [
+            "Rocky shores"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Areas within rocky shores characterized by large boulders that provide habitat for various intertidal organisms.",
+        "state": "explored_empty"
+    }
+}

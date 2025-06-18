@@ -1,0 +1,58 @@
+{
+    "model": "gpt-3.5-turbo",
+    "start": "2024-05-15 21:22:58",
+    "end": "2024-05-15 21:23:04",
+    "duration (seconds)": 6,
+    "timestamp": 1715818978,
+    "seed concept": "Brazilian Coastal ecosystems",
+    "prompts": 11,
+    "duplicates": 0,
+    "tokens (total)": 1352,
+    "tokens (responses)": 257,
+    "tokens (requests)": 1095,
+    "parameters": {
+        "temperature (sampling)": 2.0,
+        "top_p (sampling)": 0.99,
+        "number of completions (sampling)": 100,
+        "frequency threshold for sampling": 10,
+        "exploration depth": 3
+    },
+    "statistics": {
+        "Concepts in ontology": 1,
+        "Accepted after renaming": 0,
+        "Dismissed terms": 4,
+        "Dismissed as instance": 2,
+        "Dismissed as partOf": 2,
+        "Dismissed as no subconcept of seed": 0,
+        "Dismissed as no subconcept of parent": 0,
+        "Synonyms": 0,
+        "Concepts without subconcept": 1,
+        "Subsumptions (transitive reduction)": 0,
+        "Subsumptions (found by KRIS)": 0,
+        "Cost of ontology in dollar": 0.0,
+        "Cost per concept in cent": 0.22,
+        "Prompts": 11,
+        "Prompts per concept": 11.0,
+        "Tokens": 1352,
+        "Tokens per concept": 1352,
+        "Maximal depth": 0,
+        "Maximal indegree": 0,
+        "Maximal outdegree": 0,
+        "Average degree": 0.0,
+        "Depth 0": {
+            "Concepts": 1,
+            "Concepts without subconcept": 1,
+            "Maximal indegree": 0,
+            "Maximal outdegree": 0,
+            "Average indegree": 0.0,
+            "Average outdegree": 0.0
+        },
+        "Outdegree 0": {
+            "Concepts": 1,
+            "Minimal depth": 0,
+            "Maximal depth": 0,
+            "Average depth": 0,
+            "Median depth": 0
+        }
+    }
+}

@@ -1,0 +1,15 @@
+digraph {
+  rankdir=LR;
+ "coastal ecosystems" [shape = rect];
+  "coastal ecosystems" -> "Estuaries";
+  "coastal ecosystems" -> "Mangrove forests";
+  "coastal ecosystems" -> "Rocky shores";
+ "Estuaries" [shape = rect];
+ "Mangrove forests" [shape = rect];
+ "Rocky shores" [shape = rect];
+  "Rocky shores" -> "Boulder fields";
+ "Boulder fields" [shape = rect];
+subgraph cluster_metadata {
+metadata_node [label="Concepts: 5\l Subsumptions: 4\l Exploration Depth: 3\l Frequency Threshold: 10\l" shape=none];
+}
+}
