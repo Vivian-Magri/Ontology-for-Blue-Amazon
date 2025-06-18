@@ -1,0 +1,11 @@
+digraph {
+  rankdir=LR;
+ "ecossistemas costeiros" [shape = rect];
+  "ecossistemas costeiros" -> "Manguezais";
+  "ecossistemas costeiros" -> "Marismas";
+ "Manguezais" [shape = rect];
+ "Marismas" [shape = rect];
+subgraph cluster_metadata {
+metadata_node [label="Concepts: 3\l Subsumptions: 2\l Exploration Depth: 3\l Frequency Threshold: 10\l PT-BR Output\l" shape=none];
+}
+}

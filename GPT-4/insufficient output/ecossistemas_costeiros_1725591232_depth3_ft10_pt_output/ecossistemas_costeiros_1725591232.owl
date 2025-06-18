@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <owl:Class rdf:about="#Lagoas%20de%20barreira">
+    <rdfs:label>Lagoas de barreira</rdfs:label>
+    <rdfs:comment>São lagoas formadas por barreiras de areia ou sedimentos que separam a lagoa do mar.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Lagoas%20costeiras"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Marismas%20salgadas">
+    <rdfs:label>Marismas salgadas</rdfs:label>
+    <rdfs:comment>São áreas costeiras inundadas pela maré, ricas em nutrientes e importantes para a vida de muitas espécies.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#ecossistemas%20costeiros"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Lagoas%20de%20maré">
+    <rdfs:label>Lagoas de maré</rdfs:label>
+    <rdfs:comment>São lagoas que se formam em áreas de maré, onde a água do mar entra e sai com as marés.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Lagoas%20costeiras"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Florestas%20de%20kelp">
+    <rdfs:label>Florestas de kelp</rdfs:label>
+    <rdfs:comment>São ecossistemas submarinos dominados por algas marinhas de grande porte conhecidas como kelp.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#ecossistemas%20costeiros"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Lagoas%20de%20água%20salobra">
+    <rdfs:label>Lagoas de água salobra</rdfs:label>
+    <rdfs:comment>São lagoas costeiras que contêm uma mistura de água doce e salgada.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Lagoas%20costeiras"/>
+  </owl:Class>
+  <owl:Ontology rdf:about="file:///ecossistemas_costeiros.owl"/>
+  <owl:Class rdf:about="#Lagoas%20costeiras">
+    <rdfs:label>Lagoas costeiras</rdfs:label>
+    <rdfs:comment>São corpos de água salgada ou salobra localizados ao longo da costa, separados do mar por uma barreira de areia ou coral.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#ecossistemas%20costeiros"/>
+  </owl:Class>
+  <owl:Class rdf:about="#ecossistemas%20costeiros">
+    <rdfs:label>ecossistemas costeiros</rdfs:label>
+    <rdfs:comment>"Ecossistemas costeiros" são áreas naturais localizadas na interface entre a terra e o mar, incluindo zonas de praia, estuários, manguezais, recifes de coral, entre outros. Eles são caracterizados pela sua biodiversidade e desempenham funções ecológicas importantes, como a proteção contra tempestades, a purificação da água e o fornecimento de habitat para várias espécies.</rdfs:comment>
+  </owl:Class>
+</rdf:RDF>

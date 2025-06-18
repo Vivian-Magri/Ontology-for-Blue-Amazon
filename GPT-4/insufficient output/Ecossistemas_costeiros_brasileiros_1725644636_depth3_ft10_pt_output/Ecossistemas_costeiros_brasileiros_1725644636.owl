@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <owl:Ontology rdf:about="file:///Ecossistemas_costeiros_brasileiros.owl"/>
+  <owl:Class rdf:about="#Marismas">
+    <rdfs:label>Marismas</rdfs:label>
+    <rdfs:comment>Áreas úmidas costeiras inundadas regularmente pela maré, que são altamente produtivas e suportam uma grande variedade de vida selvagem.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Ecossistemas%20costeiros%20brasileiros"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Estuários">
+    <rdfs:label>Estuários</rdfs:label>
+    <rdfs:comment>Áreas onde o rio encontra o mar, caracterizadas por variações de salinidade e ricas em nutrientes, suportando uma alta biodiversidade.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Ecossistemas%20costeiros%20brasileiros"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Ecossistemas%20costeiros%20brasileiros">
+    <rdfs:label>Ecossistemas costeiros brasileiros</rdfs:label>
+    <rdfs:comment>"Ecossistemas costeiros brasileiros" refere-se aos diversos ambientes naturais encontrados ao longo da costa do Brasil. Esses ecossistemas podem incluir manguezais, restingas, dunas, recifes de coral, entre outros, e são caracterizados por sua biodiversidade e interações complexas entre organismos e o ambiente.</rdfs:comment>
+  </owl:Class>
+</rdf:RDF>

@@ -1,0 +1,19 @@
+digraph {
+  rankdir=LR;
+ "ecossistemas costeiros" [shape = rect];
+  "ecossistemas costeiros" -> "Lagoas costeiras";
+  "ecossistemas costeiros" -> "Marismas salgadas";
+  "ecossistemas costeiros" -> "Florestas de kelp";
+ "Lagoas costeiras" [shape = rect];
+  "Lagoas costeiras" -> "Lagoas de barreira";
+  "Lagoas costeiras" -> "Lagoas de maré";
+  "Lagoas costeiras" -> "Lagoas de água salobra";
+ "Marismas salgadas" [shape = rect];
+ "Florestas de kelp" [shape = rect];
+ "Lagoas de barreira" [shape = rect];
+ "Lagoas de maré" [shape = rect];
+ "Lagoas de água salobra" [shape = rect];
+subgraph cluster_metadata {
+metadata_node [label="Concepts: 7\l Subsumptions: 6\l Exploration Depth: 3\l Frequency Threshold: 10\l PT-BR Output\l Chosen Model: gpt-4-0613\l" shape=none];
+}
+}

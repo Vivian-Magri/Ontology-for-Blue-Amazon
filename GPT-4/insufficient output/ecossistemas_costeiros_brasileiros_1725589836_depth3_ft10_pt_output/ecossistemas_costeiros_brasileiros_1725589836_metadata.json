@@ -1,0 +1,58 @@
+{
+    "model": "gpt-4-0613",
+    "start": "2024-09-05 23:30:36",
+    "end": "2024-09-05 23:31:18",
+    "duration (seconds)": 42,
+    "timestamp": 1725589836,
+    "seed concept": "ecossistemas costeiros brasileiros",
+    "prompts": 29,
+    "duplicates": 0,
+    "tokens (total)": 6556,
+    "tokens (responses)": 764,
+    "tokens (requests)": 5792,
+    "parameters": {
+        "temperature (sampling)": 2.0,
+        "top_p (sampling)": 0.99,
+        "number of completions (sampling)": 100,
+        "frequency threshold for sampling": 10,
+        "exploration depth": 3
+    },
+    "statistics": {
+        "Concepts in ontology": 1,
+        "Accepted after renaming": 0,
+        "Dismissed terms": 12,
+        "Dismissed as instance": 0,
+        "Dismissed as partOf": 12,
+        "Dismissed as no subconcept of seed": 0,
+        "Dismissed as no subconcept of parent": 0,
+        "Synonyms": 0,
+        "Concepts without subconcept": 1,
+        "Subsumptions (transitive reduction)": 0,
+        "Subsumptions (found by KRIS)": 0,
+        "Cost of ontology in dollar": 0.01,
+        "Cost per concept in cent": 1.02,
+        "Prompts": 29,
+        "Prompts per concept": 29.0,
+        "Tokens": 6556,
+        "Tokens per concept": 6556,
+        "Maximal depth": 0,
+        "Maximal indegree": 0,
+        "Maximal outdegree": 0,
+        "Average degree": 0.0,
+        "Depth 0": {
+            "Concepts": 1,
+            "Concepts without subconcept": 1,
+            "Maximal indegree": 0,
+            "Maximal outdegree": 0,
+            "Average indegree": 0.0,
+            "Average outdegree": 0.0
+        },
+        "Outdegree 0": {
+            "Concepts": 1,
+            "Minimal depth": 0,
+            "Maximal depth": 0,
+            "Average depth": 0,
+            "Median depth": 0
+        }
+    }
+}

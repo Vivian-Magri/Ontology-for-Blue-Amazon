@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <owl:Class rdf:about="#ecossistemas%20costeiros%20brasileiros">
+    <rdfs:label>ecossistemas costeiros brasileiros</rdfs:label>
+    <rdfs:comment>"Ecossistemas costeiros brasileiros" refere-se aos diversos ambientes naturais encontrados ao longo da costa do Brasil, que incluem manguezais, restingas, dunas, recifes de corais, entre outros. Esses ecossistemas são caracterizados por sua biodiversidade única e desempenham um papel crucial na proteção contra a erosão costeira, além de fornecerem habitat para várias espécies de plantas e animais.</rdfs:comment>
+  </owl:Class>
+  <owl:Ontology rdf:about="file:///ecossistemas_costeiros_brasileiros.owl"/>
+</rdf:RDF>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <owl:Class rdf:about="#Manguezais">
+    <rdfs:label>Manguezais</rdfs:label>
+    <rdfs:comment>São ecossistemas de transição entre os ambientes terrestre e marinho, caracterizados pela presença de espécies de mangue.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#ecossistemas%20costeiros"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Marismas">
+    <rdfs:label>Marismas</rdfs:label>
+    <rdfs:comment>São áreas úmidas costeiras, inundadas por água salgada ou salobra.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#ecossistemas%20costeiros"/>
+  </owl:Class>
+  <owl:Ontology rdf:about="file:///ecossistemas_costeiros.owl"/>
+  <owl:Class rdf:about="#ecossistemas%20costeiros">
+    <rdfs:label>ecossistemas costeiros</rdfs:label>
+    <rdfs:comment>"Ecossistemas costeiros" são áreas naturais localizadas na interface entre a terra e o mar, incluindo praias, dunas, estuários, manguezais, recifes de coral, entre outros. São caracterizados pela alta biodiversidade e produtividade, desempenhando funções ecológicas importantes como a proteção contra eventos climáticos extremos e a manutenção da qualidade da água.</rdfs:comment>
+  </owl:Class>
+</rdf:RDF>

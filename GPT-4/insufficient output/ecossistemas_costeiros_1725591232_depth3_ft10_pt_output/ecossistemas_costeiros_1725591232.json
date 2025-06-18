@@ -1,0 +1,141 @@
+{
+    "Thing": {
+        "superconcepts": [],
+        "levels": [
+            -1
+        ],
+        "subconcepts": [
+            "ecossistemas costeiros"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "state": "explored",
+        "definition": "top concept"
+    },
+    "ecossistemas costeiros": {
+        "superconcepts": [
+            "Thing"
+        ],
+        "levels": [
+            0
+        ],
+        "subconcepts": [
+            "Lagoas costeiras",
+            "Marismas salgadas",
+            "Florestas de kelp"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "\"Ecossistemas costeiros\" s\u00e3o \u00e1reas naturais localizadas na interface entre a terra e o mar, incluindo zonas de praia, estu\u00e1rios, manguezais, recifes de coral, entre outros. Eles s\u00e3o caracterizados pela sua biodiversidade e desempenham fun\u00e7\u00f5es ecol\u00f3gicas importantes, como a prote\u00e7\u00e3o contra tempestades, a purifica\u00e7\u00e3o da \u00e1gua e o fornecimento de habitat para v\u00e1rias esp\u00e9cies.",
+        "state": "explored"
+    },
+    "No subconcept": {
+        "superconcepts": [
+            "Marismas salgadas",
+            "Florestas de kelp",
+            "Lagoas de barreira",
+            "Lagoas de mar\u00e9",
+            "Lagoas de \u00e1gua salobra"
+        ],
+        "levels": [
+            99
+        ],
+        "subconcepts": [],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "state": "explored",
+        "definition": "bottom concept"
+    },
+    "Lagoas costeiras": {
+        "superconcepts": [
+            "ecossistemas costeiros"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "Lagoas de barreira",
+            "Lagoas de mar\u00e9",
+            "Lagoas de \u00e1gua salobra"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "S\u00e3o corpos de \u00e1gua salgada ou salobra localizados ao longo da costa, separados do mar por uma barreira de areia ou coral.",
+        "state": "explored"
+    },
+    "Marismas salgadas": {
+        "superconcepts": [
+            "ecossistemas costeiros"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "S\u00e3o \u00e1reas costeiras inundadas pela mar\u00e9, ricas em nutrientes e importantes para a vida de muitas esp\u00e9cies.",
+        "state": "explored_empty"
+    },
+    "Florestas de kelp": {
+        "superconcepts": [
+            "ecossistemas costeiros"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "S\u00e3o ecossistemas submarinos dominados por algas marinhas de grande porte conhecidas como kelp.",
+        "state": "explored_empty"
+    },
+    "Lagoas de barreira": {
+        "superconcepts": [
+            "Lagoas costeiras"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "S\u00e3o lagoas formadas por barreiras de areia ou sedimentos que separam a lagoa do mar.",
+        "state": "explored_empty"
+    },
+    "Lagoas de mar\u00e9": {
+        "superconcepts": [
+            "Lagoas costeiras"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "S\u00e3o lagoas que se formam em \u00e1reas de mar\u00e9, onde a \u00e1gua do mar entra e sai com as mar\u00e9s.",
+        "state": "explored_empty"
+    },
+    "Lagoas de \u00e1gua salobra": {
+        "superconcepts": [
+            "Lagoas costeiras"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "S\u00e3o lagoas costeiras que cont\u00eam uma mistura de \u00e1gua doce e salgada.",
+        "state": "explored_empty"
+    }
+}

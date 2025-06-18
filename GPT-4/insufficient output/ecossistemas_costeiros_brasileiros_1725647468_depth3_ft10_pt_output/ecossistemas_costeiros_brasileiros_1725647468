@@ -1,0 +1,9 @@
+digraph {
+  rankdir=LR;
+ "ecossistemas costeiros brasileiros" [shape = rect];
+  "ecossistemas costeiros brasileiros" -> "Marismas";
+ "Marismas" [shape = rect];
+subgraph cluster_metadata {
+metadata_node [label="Concepts: 2\l Subsumptions: 1\l Exploration Depth: 3\l Frequency Threshold: 10\l PT-BR Output\l Chosen Model: gpt-4-0613\l" shape=none];
+}
+}

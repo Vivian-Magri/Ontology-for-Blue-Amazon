@@ -1,0 +1,169 @@
+2024-09-05 23:30:40,093 INFO Task-1 Prompt:
+Give a very brief description of the term "ecossistemas costeiros brasileiros" without the use of examples. Answer in Brazilian Portuguese.
+"Ecossistemas costeiros brasileiros" refere-se aos diversos ambientes naturais encontrados ao longo da costa do Brasil, que incluem manguezais, restingas, dunas, recifes de corais, entre outros. Esses ecossistemas são caracterizados por sua biodiversidade única e desempenham um papel crucial na proteção contra a erosão costeira, além de fornecerem habitat para várias espécies de plantas e animais.
+2024-09-05 23:30:40,519 INFO Task-1 Prompt:
+ecossistemas costeiros brasileiros: "Ecossistemas costeiros brasileiros" refere-se aos diversos ambientes naturais encontrados ao longo da costa do Brasil, que incluem manguezais, restingas, dunas, recifes de corais, entre outros. Esses ecossistemas são caracterizados por sua biodiversidade única e desempenham um papel crucial na proteção contra a erosão costeira, além de fornecerem habitat para várias espécies de plantas e animais.
+Are there any generally accepted subcategories of "ecossistemas costeiros brasileiros"? Answer only with yes or no.
+Yes
+2024-09-05 23:30:41,475 INFO Task-1 Prompt:
+ecossistemas costeiros brasileiros: "Ecossistemas costeiros brasileiros" refere-se aos diversos ambientes naturais encontrados ao longo da costa do Brasil, que incluem manguezais, restingas, dunas, recifes de corais, entre outros. Esses ecossistemas são caracterizados por sua biodiversidade única e desempenham um papel crucial na proteção contra a erosão costeira, além de fornecerem habitat para várias espécies de plantas e animais.
+List all of the most important subcategories of "ecossistemas costeiros brasileiros". Answer in Brazilian Portuguese, skip explanations and use a comma-separated format like this:
+Important subcategory, Another important subcategory, Another important subcategory, etc.
+['M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M', 'M']
+2024-09-05 23:30:44,373 INFO Task-1 Prompt:
+ecossistemas costeiros brasileiros: "Ecossistemas costeiros brasileiros" refere-se aos diversos ambientes naturais encontrados ao longo da costa do Brasil, que incluem manguezais, restingas, dunas, recifes de corais, entre outros. Esses ecossistemas são caracterizados por sua biodiversidade única e desempenham um papel crucial na proteção contra a erosão costeira, além de fornecerem habitat para várias espécies de plantas e animais.
+List all of the most important subcategories of "ecossistemas costeiros brasileiros". Answer in Brazilian Portuguese, skip explanations and use a comma-separated format like this:
+Important subcategory, Another important subcategory, Another important subcategory, etc.
+Start your answer with "M".
+Manguezais, Restingas, Dunas, Recifes de corais, Praias arenosas, Estuários, Lagoas costeiras, Marismas, Bancos de algas, Costões rochosos, Baías, Foz de rios.
+2024-09-05 23:31:16,519 INFO Task-1 Prompt:
+ecossistemas costeiros brasileiros: "Ecossistemas costeiros brasileiros" refere-se aos diversos ambientes naturais encontrados ao longo da costa do Brasil, que incluem manguezais, restingas, dunas, recifes de corais, entre outros. Esses ecossistemas são caracterizados por sua biodiversidade única e desempenham um papel crucial na proteção contra a erosão costeira, além de fornecerem habitat para várias espécies de plantas e animais.
+List all of the most important subcategories of "ecossistemas costeiros brasileiros" in Brazilian Portuguese and in a comma-separated format, skip explanations.
+Bancos de algas, Baías, Costões rochosos, Dunas, Estuários, Foz de rios, Lagoas costeiras, Manguezais, Marismas, Praias arenosas, Recifes de corais, Restingas
+Give a brief description of every term on the list, considered as a subcategory of ecossistemas costeiros brasileiros, without the use of examples, in Brazilian Portuguese and in the following form:
+List element 1: brief description of list element 1.
+List element 2: brief description of list element 2.
+...
+Bancos de algas: Áreas onde as algas crescem densamente, desempenhando um papel importante na produção de oxigênio e na cadeia alimentar marinha.
+
+Baías: Corpos de água parcialmente cercados por terra, mas com uma abertura para o mar, proporcionando um habitat diversificado para muitas espécies.
+
+Costões rochosos: Áreas de rocha exposta na linha costeira, que são importantes habitats para uma variedade de vida marinha.
+
+Dunas: Montes de areia criados pela ação do vento, que servem como barreiras naturais contra a erosão costeira.
+
+Estuários: Áreas onde um rio encontra o mar, caracterizadas por sua água salobra e alta biodiversidade.
+
+Foz de rios: O ponto onde um rio desagua no mar, lago ou oceano, geralmente rico em nutrientes e biodiversidade.
+
+Lagoas costeiras: Corpos de água salgada ou salobra localizados paralelamente à linha costeira, separados do mar por uma barreira de areia ou recife.
+
+Manguezais: Florestas de mangue que crescem em água salobra ao longo das costas, desempenhando um papel crucial na proteção contra a erosão e como berçários para muitas espécies de peixes.
+
+Marismas: Áreas úmidas costeiras inundadas por águas salinas ou salobras, que são importantes para a filtragem de poluentes e como habitat para muitas espécies.
+
+Praias arenosas: Áreas de areia ao longo da costa, que são importantes para o lazer humano e como habitat para uma variedade de espécies.
+
+Recifes de corais: Estruturas subaquáticas feitas de corais, que são alguns dos ecossistemas mais biodiversos do planeta.
+
+Restingas: Formações vegetais encontradas em áreas arenosas costeiras, que ajudam a estabilizar as dunas e proteger contra a erosão.
+2024-09-05 23:31:17,444 INFO Task-4 Prompt:
+ecossistemas costeiros brasileiros: "Ecossistemas costeiros brasileiros" refere-se aos diversos ambientes naturais encontrados ao longo da costa do Brasil, que incluem manguezais, restingas, dunas, recifes de corais, entre outros. Esses ecossistemas são caracterizados por sua biodiversidade única e desempenham um papel crucial na proteção contra a erosão costeira, além de fornecerem habitat para várias espécies de plantas e animais.
+Bancos de algas: Áreas onde as algas crescem densamente, desempenhando um papel importante na produção de oxigênio e na cadeia alimentar marinha.
+Is "Bancos de algas" a specific instance or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Instance" or "Subcategory".
+Subcategory
+2024-09-05 23:31:17,464 INFO Task-14 Prompt:
+ecossistemas costeiros brasileiros: "Ecossistemas costeiros brasileiros" refere-se aos diversos ambientes naturais encontrados ao longo da costa do Brasil, que incluem manguezais, restingas, dunas, recifes de corais, entre outros. Esses ecossistemas são caracterizados por sua biodiversidade única e desempenham um papel crucial na proteção contra a erosão costeira, além de fornecerem habitat para várias espécies de plantas e animais.
+Recifes de corais: Estruturas subaquáticas feitas de corais, que são alguns dos ecossistemas mais biodiversos do planeta.
+Is "Recifes de corais" a specific instance or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Instance" or "Subcategory".
+Subcategory
+2024-09-05 23:31:17,509 INFO Task-12 Prompt:
+ecossistemas costeiros brasileiros: "Ecossistemas costeiros brasileiros" refere-se aos diversos ambientes naturais encontrados ao longo da costa do Brasil, que incluem manguezais, restingas, dunas, recifes de corais, entre outros. Esses ecossistemas são caracterizados por sua biodiversidade única e desempenham um papel crucial na proteção contra a erosão costeira, além de fornecerem habitat para várias espécies de plantas e animais.
+Marismas: Áreas úmidas costeiras inundadas por águas salinas ou salobras, que são importantes para a filtragem de poluentes e como habitat para muitas espécies.
+Is "Marismas" a specific instance or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Instance" or "Subcategory".
+Subcategory
+2024-09-05 23:31:17,664 INFO Task-7 Prompt:
+ecossistemas costeiros brasileiros: "Ecossistemas costeiros brasileiros" refere-se aos diversos ambientes naturais encontrados ao longo da costa do Brasil, que incluem manguezais, restingas, dunas, recifes de corais, entre outros. Esses ecossistemas são caracterizados por sua biodiversidade única e desempenham um papel crucial na proteção contra a erosão costeira, além de fornecerem habitat para várias espécies de plantas e animais.
+Dunas: Montes de areia criados pela ação do vento, que servem como barreiras naturais contra a erosão costeira.
+Is "Dunas" a specific instance or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Instance" or "Subcategory".
+Subcategory
+2024-09-05 23:31:17,708 INFO Task-5 Prompt:
+ecossistemas costeiros brasileiros: "Ecossistemas costeiros brasileiros" refere-se aos diversos ambientes naturais encontrados ao longo da costa do Brasil, que incluem manguezais, restingas, dunas, recifes de corais, entre outros. Esses ecossistemas são caracterizados por sua biodiversidade única e desempenham um papel crucial na proteção contra a erosão costeira, além de fornecerem habitat para várias espécies de plantas e animais.
+Baías: Corpos de água parcialmente cercados por terra, mas com uma abertura para o mar, proporcionando um habitat diversificado para muitas espécies.
+Is "Baías" a specific instance or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Instance" or "Subcategory".
+Subcategory
+2024-09-05 23:31:17,753 INFO Task-11 Prompt:
+ecossistemas costeiros brasileiros: "Ecossistemas costeiros brasileiros" refere-se aos diversos ambientes naturais encontrados ao longo da costa do Brasil, que incluem manguezais, restingas, dunas, recifes de corais, entre outros. Esses ecossistemas são caracterizados por sua biodiversidade única e desempenham um papel crucial na proteção contra a erosão costeira, além de fornecerem habitat para várias espécies de plantas e animais.
+Manguezais: Florestas de mangue que crescem em água salobra ao longo das costas, desempenhando um papel crucial na proteção contra a erosão e como berçários para muitas espécies de peixes.
+Is "Manguezais" a specific instance or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Instance" or "Subcategory".
+Subcategory
+2024-09-05 23:31:17,781 INFO Task-13 Prompt:
+ecossistemas costeiros brasileiros: "Ecossistemas costeiros brasileiros" refere-se aos diversos ambientes naturais encontrados ao longo da costa do Brasil, que incluem manguezais, restingas, dunas, recifes de corais, entre outros. Esses ecossistemas são caracterizados por sua biodiversidade única e desempenham um papel crucial na proteção contra a erosão costeira, além de fornecerem habitat para várias espécies de plantas e animais.
+Praias arenosas: Áreas de areia ao longo da costa, que são importantes para o lazer humano e como habitat para uma variedade de espécies.
+Is "Praias arenosas" a specific instance or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Instance" or "Subcategory".
+Subcategory
+2024-09-05 23:31:17,785 INFO Task-10 Prompt:
+ecossistemas costeiros brasileiros: "Ecossistemas costeiros brasileiros" refere-se aos diversos ambientes naturais encontrados ao longo da costa do Brasil, que incluem manguezais, restingas, dunas, recifes de corais, entre outros. Esses ecossistemas são caracterizados por sua biodiversidade única e desempenham um papel crucial na proteção contra a erosão costeira, além de fornecerem habitat para várias espécies de plantas e animais.
+Lagoas costeiras: Corpos de água salgada ou salobra localizados paralelamente à linha costeira, separados do mar por uma barreira de areia ou recife.
+Is "Lagoas costeiras" a specific instance or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Instance" or "Subcategory".
+Subcategory
+2024-09-05 23:31:17,794 INFO Task-6 Prompt:
+ecossistemas costeiros brasileiros: "Ecossistemas costeiros brasileiros" refere-se aos diversos ambientes naturais encontrados ao longo da costa do Brasil, que incluem manguezais, restingas, dunas, recifes de corais, entre outros. Esses ecossistemas são caracterizados por sua biodiversidade única e desempenham um papel crucial na proteção contra a erosão costeira, além de fornecerem habitat para várias espécies de plantas e animais.
+Costões rochosos: Áreas de rocha exposta na linha costeira, que são importantes habitats para uma variedade de vida marinha.
+Is "Costões rochosos" a specific instance or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Instance" or "Subcategory".
+Subcategory
+2024-09-05 23:31:17,798 INFO Task-15 Prompt:
+ecossistemas costeiros brasileiros: "Ecossistemas costeiros brasileiros" refere-se aos diversos ambientes naturais encontrados ao longo da costa do Brasil, que incluem manguezais, restingas, dunas, recifes de corais, entre outros. Esses ecossistemas são caracterizados por sua biodiversidade única e desempenham um papel crucial na proteção contra a erosão costeira, além de fornecerem habitat para várias espécies de plantas e animais.
+Restingas: Formações vegetais encontradas em áreas arenosas costeiras, que ajudam a estabilizar as dunas e proteger contra a erosão.
+Is "Restingas" a specific instance or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Instance" or "Subcategory".
+Subcategory
+2024-09-05 23:31:17,841 INFO Task-9 Prompt:
+ecossistemas costeiros brasileiros: "Ecossistemas costeiros brasileiros" refere-se aos diversos ambientes naturais encontrados ao longo da costa do Brasil, que incluem manguezais, restingas, dunas, recifes de corais, entre outros. Esses ecossistemas são caracterizados por sua biodiversidade única e desempenham um papel crucial na proteção contra a erosão costeira, além de fornecerem habitat para várias espécies de plantas e animais.
+Foz de rios: O ponto onde um rio desagua no mar, lago ou oceano, geralmente rico em nutrientes e biodiversidade.
+Is "Foz de rios" a specific instance or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Instance" or "Subcategory".
+Subcategory
+2024-09-05 23:31:17,911 INFO Task-14 Prompt:
+ecossistemas costeiros brasileiros: "Ecossistemas costeiros brasileiros" refere-se aos diversos ambientes naturais encontrados ao longo da costa do Brasil, que incluem manguezais, restingas, dunas, recifes de corais, entre outros. Esses ecossistemas são caracterizados por sua biodiversidade única e desempenham um papel crucial na proteção contra a erosão costeira, além de fornecerem habitat para várias espécies de plantas e animais.
+Recifes de corais: Estruturas subaquáticas feitas de corais, que são alguns dos ecossistemas mais biodiversos do planeta.
+Is "Recifes de corais" a part or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-09-05 23:31:17,972 INFO Task-12 Prompt:
+ecossistemas costeiros brasileiros: "Ecossistemas costeiros brasileiros" refere-se aos diversos ambientes naturais encontrados ao longo da costa do Brasil, que incluem manguezais, restingas, dunas, recifes de corais, entre outros. Esses ecossistemas são caracterizados por sua biodiversidade única e desempenham um papel crucial na proteção contra a erosão costeira, além de fornecerem habitat para várias espécies de plantas e animais.
+Marismas: Áreas úmidas costeiras inundadas por águas salinas ou salobras, que são importantes para a filtragem de poluentes e como habitat para muitas espécies.
+Is "Marismas" a part or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-09-05 23:31:17,975 INFO Task-4 Prompt:
+ecossistemas costeiros brasileiros: "Ecossistemas costeiros brasileiros" refere-se aos diversos ambientes naturais encontrados ao longo da costa do Brasil, que incluem manguezais, restingas, dunas, recifes de corais, entre outros. Esses ecossistemas são caracterizados por sua biodiversidade única e desempenham um papel crucial na proteção contra a erosão costeira, além de fornecerem habitat para várias espécies de plantas e animais.
+Bancos de algas: Áreas onde as algas crescem densamente, desempenhando um papel importante na produção de oxigênio e na cadeia alimentar marinha.
+Is "Bancos de algas" a part or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-09-05 23:31:18,151 INFO Task-8 Prompt:
+ecossistemas costeiros brasileiros: "Ecossistemas costeiros brasileiros" refere-se aos diversos ambientes naturais encontrados ao longo da costa do Brasil, que incluem manguezais, restingas, dunas, recifes de corais, entre outros. Esses ecossistemas são caracterizados por sua biodiversidade única e desempenham um papel crucial na proteção contra a erosão costeira, além de fornecerem habitat para várias espécies de plantas e animais.
+Estuários: Áreas onde um rio encontra o mar, caracterizadas por sua água salobra e alta biodiversidade.
+Is "Estuários" a specific instance or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Instance" or "Subcategory".
+Subcategory
+2024-09-05 23:31:18,167 INFO Task-7 Prompt:
+ecossistemas costeiros brasileiros: "Ecossistemas costeiros brasileiros" refere-se aos diversos ambientes naturais encontrados ao longo da costa do Brasil, que incluem manguezais, restingas, dunas, recifes de corais, entre outros. Esses ecossistemas são caracterizados por sua biodiversidade única e desempenham um papel crucial na proteção contra a erosão costeira, além de fornecerem habitat para várias espécies de plantas e animais.
+Dunas: Montes de areia criados pela ação do vento, que servem como barreiras naturais contra a erosão costeira.
+Is "Dunas" a part or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-09-05 23:31:18,209 INFO Task-5 Prompt:
+ecossistemas costeiros brasileiros: "Ecossistemas costeiros brasileiros" refere-se aos diversos ambientes naturais encontrados ao longo da costa do Brasil, que incluem manguezais, restingas, dunas, recifes de corais, entre outros. Esses ecossistemas são caracterizados por sua biodiversidade única e desempenham um papel crucial na proteção contra a erosão costeira, além de fornecerem habitat para várias espécies de plantas e animais.
+Baías: Corpos de água parcialmente cercados por terra, mas com uma abertura para o mar, proporcionando um habitat diversificado para muitas espécies.
+Is "Baías" a part or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-09-05 23:31:18,241 INFO Task-15 Prompt:
+ecossistemas costeiros brasileiros: "Ecossistemas costeiros brasileiros" refere-se aos diversos ambientes naturais encontrados ao longo da costa do Brasil, que incluem manguezais, restingas, dunas, recifes de corais, entre outros. Esses ecossistemas são caracterizados por sua biodiversidade única e desempenham um papel crucial na proteção contra a erosão costeira, além de fornecerem habitat para várias espécies de plantas e animais.
+Restingas: Formações vegetais encontradas em áreas arenosas costeiras, que ajudam a estabilizar as dunas e proteger contra a erosão.
+Is "Restingas" a part or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-09-05 23:31:18,243 INFO Task-13 Prompt:
+ecossistemas costeiros brasileiros: "Ecossistemas costeiros brasileiros" refere-se aos diversos ambientes naturais encontrados ao longo da costa do Brasil, que incluem manguezais, restingas, dunas, recifes de corais, entre outros. Esses ecossistemas são caracterizados por sua biodiversidade única e desempenham um papel crucial na proteção contra a erosão costeira, além de fornecerem habitat para várias espécies de plantas e animais.
+Praias arenosas: Áreas de areia ao longo da costa, que são importantes para o lazer humano e como habitat para uma variedade de espécies.
+Is "Praias arenosas" a part or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-09-05 23:31:18,253 INFO Task-11 Prompt:
+ecossistemas costeiros brasileiros: "Ecossistemas costeiros brasileiros" refere-se aos diversos ambientes naturais encontrados ao longo da costa do Brasil, que incluem manguezais, restingas, dunas, recifes de corais, entre outros. Esses ecossistemas são caracterizados por sua biodiversidade única e desempenham um papel crucial na proteção contra a erosão costeira, além de fornecerem habitat para várias espécies de plantas e animais.
+Manguezais: Florestas de mangue que crescem em água salobra ao longo das costas, desempenhando um papel crucial na proteção contra a erosão e como berçários para muitas espécies de peixes.
+Is "Manguezais" a part or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-09-05 23:31:18,266 INFO Task-6 Prompt:
+ecossistemas costeiros brasileiros: "Ecossistemas costeiros brasileiros" refere-se aos diversos ambientes naturais encontrados ao longo da costa do Brasil, que incluem manguezais, restingas, dunas, recifes de corais, entre outros. Esses ecossistemas são caracterizados por sua biodiversidade única e desempenham um papel crucial na proteção contra a erosão costeira, além de fornecerem habitat para várias espécies de plantas e animais.
+Costões rochosos: Áreas de rocha exposta na linha costeira, que são importantes habitats para uma variedade de vida marinha.
+Is "Costões rochosos" a part or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-09-05 23:31:18,279 INFO Task-10 Prompt:
+ecossistemas costeiros brasileiros: "Ecossistemas costeiros brasileiros" refere-se aos diversos ambientes naturais encontrados ao longo da costa do Brasil, que incluem manguezais, restingas, dunas, recifes de corais, entre outros. Esses ecossistemas são caracterizados por sua biodiversidade única e desempenham um papel crucial na proteção contra a erosão costeira, além de fornecerem habitat para várias espécies de plantas e animais.
+Lagoas costeiras: Corpos de água salgada ou salobra localizados paralelamente à linha costeira, separados do mar por uma barreira de areia ou recife.
+Is "Lagoas costeiras" a part or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-09-05 23:31:18,322 INFO Task-9 Prompt:
+ecossistemas costeiros brasileiros: "Ecossistemas costeiros brasileiros" refere-se aos diversos ambientes naturais encontrados ao longo da costa do Brasil, que incluem manguezais, restingas, dunas, recifes de corais, entre outros. Esses ecossistemas são caracterizados por sua biodiversidade única e desempenham um papel crucial na proteção contra a erosão costeira, além de fornecerem habitat para várias espécies de plantas e animais.
+Foz de rios: O ponto onde um rio desagua no mar, lago ou oceano, geralmente rico em nutrientes e biodiversidade.
+Is "Foz de rios" a part or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-09-05 23:31:18,807 INFO Task-8 Prompt:
+ecossistemas costeiros brasileiros: "Ecossistemas costeiros brasileiros" refere-se aos diversos ambientes naturais encontrados ao longo da costa do Brasil, que incluem manguezais, restingas, dunas, recifes de corais, entre outros. Esses ecossistemas são caracterizados por sua biodiversidade única e desempenham um papel crucial na proteção contra a erosão costeira, além de fornecerem habitat para várias espécies de plantas e animais.
+Estuários: Áreas onde um rio encontra o mar, caracterizadas por sua água salobra e alta biodiversidade.
+Is "Estuários" a part or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Part" or "Subcategory".
+Part

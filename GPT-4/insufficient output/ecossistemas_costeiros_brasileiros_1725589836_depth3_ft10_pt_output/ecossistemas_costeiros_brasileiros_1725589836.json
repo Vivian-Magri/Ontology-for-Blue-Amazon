@@ -1,0 +1,43 @@
+{
+    "Thing": {
+        "superconcepts": [],
+        "levels": [
+            -1
+        ],
+        "subconcepts": [
+            "ecossistemas costeiros brasileiros"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "state": "explored",
+        "definition": "top concept"
+    },
+    "ecossistemas costeiros brasileiros": {
+        "superconcepts": [
+            "Thing"
+        ],
+        "levels": [
+            0
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "\"Ecossistemas costeiros brasileiros\" refere-se aos diversos ambientes naturais encontrados ao longo da costa do Brasil, que incluem manguezais, restingas, dunas, recifes de corais, entre outros. Esses ecossistemas s\u00e3o caracterizados por sua biodiversidade \u00fanica e desempenham um papel crucial na prote\u00e7\u00e3o contra a eros\u00e3o costeira, al\u00e9m de fornecerem habitat para v\u00e1rias esp\u00e9cies de plantas e animais.",
+        "state": "explored_empty"
+    },
+    "No subconcept": {
+        "superconcepts": [
+            "ecossistemas costeiros brasileiros"
+        ],
+        "levels": [
+            99
+        ],
+        "subconcepts": [],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "state": "explored",
+        "definition": "bottom concept"
+    }
+}

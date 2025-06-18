@@ -1,0 +1,75 @@
+{
+    "Thing": {
+        "superconcepts": [],
+        "levels": [
+            -1
+        ],
+        "subconcepts": [
+            "ecossistemas costeiros"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "state": "explored",
+        "definition": "top concept"
+    },
+    "ecossistemas costeiros": {
+        "superconcepts": [
+            "Thing"
+        ],
+        "levels": [
+            0
+        ],
+        "subconcepts": [
+            "Manguezais",
+            "Marismas"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "\"Ecossistemas costeiros\" s\u00e3o \u00e1reas naturais localizadas na interface entre a terra e o mar, incluindo praias, dunas, estu\u00e1rios, manguezais, recifes de coral, entre outros. S\u00e3o caracterizados pela alta biodiversidade e produtividade, desempenhando fun\u00e7\u00f5es ecol\u00f3gicas importantes como a prote\u00e7\u00e3o contra eventos clim\u00e1ticos extremos e a manuten\u00e7\u00e3o da qualidade da \u00e1gua.",
+        "state": "explored"
+    },
+    "No subconcept": {
+        "superconcepts": [
+            "Manguezais",
+            "Marismas"
+        ],
+        "levels": [
+            99
+        ],
+        "subconcepts": [],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "state": "explored",
+        "definition": "bottom concept"
+    },
+    "Manguezais": {
+        "superconcepts": [
+            "ecossistemas costeiros"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "S\u00e3o ecossistemas de transi\u00e7\u00e3o entre os ambientes terrestre e marinho, caracterizados pela presen\u00e7a de esp\u00e9cies de mangue.",
+        "state": "explored_empty"
+    },
+    "Marismas": {
+        "superconcepts": [
+            "ecossistemas costeiros"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "S\u00e3o \u00e1reas \u00famidas costeiras, inundadas por \u00e1gua salgada ou salobra.",
+        "state": "explored_empty"
+    }
+}
