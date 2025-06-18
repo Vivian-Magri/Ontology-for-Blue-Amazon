@@ -1,0 +1,47 @@
+digraph {
+  rankdir=LR;
+ "ecossistemas costeiros" [shape = rect];
+  "ecossistemas costeiros" -> "Costões rochosos";
+  "ecossistemas costeiros" -> "Estuários";
+  "ecossistemas costeiros" -> "Manguezais";
+  "ecossistemas costeiros" -> "Restingas";
+ "Costões rochosos" [shape = rect];
+  "Costões rochosos" -> "Cavernas marinhas";
+  "Costões rochosos" -> "Comunidades de algas";
+  "Costões rochosos" -> "Habitats de invertebrados";
+ "Estuários" [shape = rect];
+  "Estuários" -> "Avifauna";
+  "Estuários" -> "Fauna aquática";
+ "Manguezais" [shape = rect];
+  "Manguezais" -> "Manguezal de barreira";
+  "Manguezais" -> "Manguezal de enseada";
+ "Restingas" [shape = rect];
+  "Restingas" -> "Florestas de restinga";
+ "Cavernas marinhas" [shape = rect];
+ "Comunidades de algas" [shape = rect];
+ "Habitats de invertebrados" [shape = rect];
+  "Habitats de invertebrados" -> "Comunidades de invertebrados";
+ "Comunidades de invertebrados" [shape = rect];
+ "Avifauna" [shape = rect];
+  "Avifauna" -> "Aves aquáticas";
+  "Avifauna" -> "Aves nidificantes";
+ "Fauna aquática" [shape = rect];
+  "Fauna aquática" -> "Aves aquáticas";
+ "Manguezal de barreira" [shape = rect];
+  "Manguezal de barreira" -> "Avifauna";
+  "Manguezal de barreira" -> "Fauna aquática";
+ "Manguezal de enseada" [shape = rect];
+  "Manguezal de enseada" -> "Avifauna";
+  "Manguezal de enseada" -> "Fauna aquática";
+ "Florestas de restinga" [shape = rect];
+  "Florestas de restinga" -> "Vegetação arbustiva";
+ "Aves aquáticas" [shape = rect];
+ "Aves nidificantes" [shape = rect];
+ "Vegetação arbustiva" [shape = rect];
+  "Vegetação arbustiva" -> "Vegetação arbustiva de restinga";
+  "Vegetação arbustiva" -> "Formações arbustivas de restinga"[color=blue, dir=both];
+ "Vegetação arbustiva de restinga" [shape = rect];
+subgraph cluster_metadata {
+metadata_node [label="Concepts: 18\l Subsumptions: 22\l Exploration Depth: 3\l Frequency Threshold: 10\l PT-BR Output\l" shape=none];
+}
+}

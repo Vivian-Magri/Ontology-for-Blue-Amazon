@@ -1,0 +1,34 @@
+digraph {
+  rankdir=LR;
+ "Ecossistemas costeiros brasileiros" [shape = rect];
+  "Ecossistemas costeiros brasileiros" -> "Estuaries";
+  "Ecossistemas costeiros brasileiros" -> "Lagoons";
+  "Ecossistemas costeiros brasileiros" -> "Costões rochosos";
+  "Ecossistemas costeiros brasileiros" -> "Ilhas costeiras";
+  "Ecossistemas costeiros brasileiros" -> "Restingas";
+ "Estuaries" [shape = rect];
+  "Estuaries" -> "Manguezais";
+  "Estuaries" -> "Estuários"[color=blue, dir=both];
+ "Lagoons" [shape = rect];
+  "Lagoons" -> "Lagoas costeiras"[color=blue, dir=both];
+ "Costões rochosos" [shape = rect];
+  "Costões rochosos" -> "Zonas de ondas";
+  "Costões rochosos" -> "Fauna associada";
+ "Ilhas costeiras" [shape = rect];
+  "Ilhas costeiras" -> "Fauna associada";
+ "Manguezais" [shape = rect];
+  "Manguezais" -> "Fauna dos manguezais";
+  "Manguezais" -> "Serviços ecossistêmicos dos manguezais";
+  "Manguezais" -> "Hidrodinâmica dos manguezais";
+ "Restingas" [shape = rect];
+  "Restingas" -> "Fauna associada";
+ "Zonas de ondas" [shape = rect];
+ "Fauna associada" [shape = rect];
+ "Fauna dos manguezais" [shape = rect];
+  "Fauna dos manguezais" -> "Fauna associada";
+ "Serviços ecossistêmicos dos manguezais" [shape = rect];
+ "Hidrodinâmica dos manguezais" [shape = rect];
+subgraph cluster_metadata {
+metadata_node [label="Concepts: 12\l Subsumptions: 14\l Exploration Depth: 3\l Frequency Threshold: 10\l" shape=none];
+}
+}

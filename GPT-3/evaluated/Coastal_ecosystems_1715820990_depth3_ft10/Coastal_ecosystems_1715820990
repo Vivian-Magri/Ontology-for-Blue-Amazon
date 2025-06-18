@@ -1,0 +1,48 @@
+digraph {
+  rankdir=LR;
+ "Coastal ecosystems" [shape = rect];
+  "Coastal ecosystems" -> "Estuaries";
+  "Coastal ecosystems" -> "Mangrove forests";
+  "Coastal ecosystems" -> "Rocky shores";
+  "Coastal ecosystems" -> "Seagrass meadows";
+ "Estuaries" [shape = rect];
+  "Estuaries" -> "Salt marshes";
+  "Estuaries" -> "Fisheries habitat";
+  "Estuaries" -> "Fisheries support";
+  "Estuaries" -> "Invertebrate species";
+ "Mangrove forests" [shape = rect];
+  "Mangrove forests" -> "Mangrove ecosystem services";
+  "Mangrove forests" -> "Threats to mangrove forests";
+  "Mangrove forests" -> "Mangrove biodiversity";
+ "Rocky shores" [shape = rect];
+  "Rocky shores" -> "Intertidal zones";
+ "Salt marshes" [shape = rect];
+ "Seagrass meadows" [shape = rect];
+  "Seagrass meadows" -> "Seagrass ecosystem services";
+ "Mangrove ecosystem services" [shape = rect];
+  "Mangrove ecosystem services" -> "Fisheries support";
+ "Threats to mangrove forests" [shape = rect];
+ "Mangrove biodiversity" [shape = rect];
+  "Mangrove biodiversity" -> "Red: mangrove species";
+  "Mangrove biodiversity" -> "Avian species";
+  "Mangrove biodiversity" -> "Fish species";
+  "Mangrove biodiversity" -> "Invertebrate species";
+ "Red: mangrove species" [shape = rect];
+  "Red: mangrove species" -> "Avicennia";
+ "Avicennia" [shape = rect];
+ "Intertidal zones" [shape = rect];
+  "Intertidal zones" -> "Mudflats";
+ "Fisheries habitat" [shape = rect];
+ "Seagrass ecosystem services" [shape = rect];
+  "Seagrass ecosystem services" -> "Biodiversity support";
+ "Fisheries support" [shape = rect];
+ "Avian species" [shape = rect];
+ "Fish species" [shape = rect];
+ "Invertebrate species" [shape = rect];
+ "Mudflats" [shape = rect];
+ "Biodiversity support" [shape = rect];
+  "Biodiversity support" -> "Fisheries habitat";
+subgraph cluster_metadata {
+metadata_node [label="Concepts: 20\l Subsumptions: 22\l Exploration Depth: 3\l Frequency Threshold: 10\l" shape=none];
+}
+}

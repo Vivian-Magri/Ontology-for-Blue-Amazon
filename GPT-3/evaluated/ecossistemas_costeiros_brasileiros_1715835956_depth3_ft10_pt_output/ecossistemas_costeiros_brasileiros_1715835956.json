@@ -1,0 +1,473 @@
+{
+    "Thing": {
+        "superconcepts": [],
+        "levels": [
+            -1
+        ],
+        "subconcepts": [
+            "ecossistemas costeiros brasileiros"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "state": "explored",
+        "definition": "top concept"
+    },
+    "ecossistemas costeiros brasileiros": {
+        "superconcepts": [
+            "Thing"
+        ],
+        "levels": [
+            0
+        ],
+        "subconcepts": [
+            "Cost\u00f5es rochosos",
+            "Estu\u00e1rios",
+            "Manguezais",
+            "Restingas"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Ecossistemas costeiros brasileiros s\u00e3o os ambientes naturais localizados na faixa de transi\u00e7\u00e3o entre o meio terrestre e o mar, caracterizados por uma grande diversidade de esp\u00e9cies e influenciados por fatores como a salinidade da \u00e1gua e a a\u00e7\u00e3o das mar\u00e9s.",
+        "state": "explored"
+    },
+    "No subconcept": {
+        "superconcepts": [
+            "Flora adaptada",
+            "Avifauna",
+            "Fauna aqu\u00e1tica",
+            "Flora manguezal",
+            "Fauna de restinga",
+            "Processos de forma\u00e7\u00e3o de restinga",
+            "Biodiversidade de algas",
+            "Fauna bent\u00f4nica",
+            "Floresta de restinga de restinga alagada",
+            "Vegeta\u00e7\u00e3o arbustiva de restinga",
+            "Vegeta\u00e7\u00e3o arbustiva"
+        ],
+        "levels": [
+            99
+        ],
+        "subconcepts": [],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "state": "explored",
+        "definition": "bottom concept"
+    },
+    "Cost\u00f5es rochosos": {
+        "superconcepts": [
+            "ecossistemas costeiros brasileiros"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "Comunidades bent\u00f4nicas",
+            "Flora adaptada"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Ambientes costeiros caracterizados pela presen\u00e7a de rochas expostas \u00e0 a\u00e7\u00e3o das ondas e da mar\u00e9.",
+        "state": "explored"
+    },
+    "Estu\u00e1rios": {
+        "superconcepts": [
+            "ecossistemas costeiros brasileiros"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "Fauna aqu\u00e1tica",
+            "Flora manguezal",
+            "Fauna bent\u00f4nica",
+            "Flora bent\u00f4nica"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Zonas de transi\u00e7\u00e3o entre rios e o mar, onde ocorre a mistura de \u00e1gua doce e salgada.",
+        "state": "explored_empty"
+    },
+    "Manguezais": {
+        "superconcepts": [
+            "ecossistemas costeiros brasileiros"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "Flora adaptada",
+            "Avifauna",
+            "Fauna aqu\u00e1tica",
+            "Flora manguezal"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Ecossistemas costeiros de transi\u00e7\u00e3o entre ambientes terrestres e aqu\u00e1ticos, com vegeta\u00e7\u00e3o adaptada \u00e0 salinidade.",
+        "state": "explored"
+    },
+    "Restingas": {
+        "superconcepts": [
+            "ecossistemas costeiros brasileiros"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "Flora adaptada",
+            "Florestas de restinga",
+            "Processos de forma\u00e7\u00e3o de restinga"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Ecossistemas costeiros de vegeta\u00e7\u00e3o rasteira e arbustiva, adaptados a condi\u00e7\u00f5es de solo arenoso e salinidade.",
+        "state": "explored"
+    },
+    "Comunidades de algas": {
+        "superconcepts": [
+            "Comunidades bent\u00f4nicas"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "Din\u00e2mica das comunidades de algas"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Agrupamentos de algas que se desenvolvem nos cost\u00f5es rochosos.",
+        "state": "explored"
+    },
+    "Comunidades bent\u00f4nicas": {
+        "superconcepts": [
+            "Cost\u00f5es rochosos"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "Comunidades de algas",
+            "Fauna bent\u00f4nica",
+            "Flora bent\u00f4nica"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Agrupamentos de organismos que vivem no fundo dos cost\u00f5es rochosos.",
+        "state": "explored"
+    },
+    "Flora adaptada": {
+        "superconcepts": [
+            "Cost\u00f5es rochosos",
+            "Manguezais",
+            "Restingas"
+        ],
+        "levels": [
+            2,
+            2,
+            2
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Vegeta\u00e7\u00e3o que se adapta \u00e0s condi\u00e7\u00f5es espec\u00edficas dos cost\u00f5es rochosos.",
+        "state": "explored_empty"
+    },
+    "Avifauna": {
+        "superconcepts": [
+            "Manguezais"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Conjunto de aves que habitam ou utilizam os manguezais.",
+        "state": "explored_empty"
+    },
+    "Fauna aqu\u00e1tica": {
+        "superconcepts": [
+            "Estu\u00e1rios",
+            "Manguezais"
+        ],
+        "levels": [
+            2,
+            2
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Diversidade de animais aqu\u00e1ticos presentes nos manguezais.",
+        "state": "explored_empty"
+    },
+    "Flora manguezal": {
+        "superconcepts": [
+            "Estu\u00e1rios",
+            "Manguezais"
+        ],
+        "levels": [
+            2,
+            2
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Vegeta\u00e7\u00e3o caracter\u00edstica dos manguezais, adaptada \u00e0 salinidade.",
+        "state": "explored_empty"
+    },
+    "Florestas de restinga": {
+        "superconcepts": [
+            "Restingas"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "Fauna de restinga",
+            "Vegeta\u00e7\u00e3o de restinga",
+            "Floresta de restinga de restinga alagada"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Forma\u00e7\u00f5es florestais adaptadas a condi\u00e7\u00f5es de solo arenoso e salinidade.",
+        "state": "explored"
+    },
+    "Fauna de restinga": {
+        "superconcepts": [
+            "Florestas de restinga"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Conjunto de esp\u00e9cies animais que habitam os ecossistemas de restinga.",
+        "state": "explored_empty"
+    },
+    "Processos de forma\u00e7\u00e3o de restinga": {
+        "superconcepts": [
+            "Restingas"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Mecanismos naturais respons\u00e1veis pela configura\u00e7\u00e3o e evolu\u00e7\u00e3o das \u00e1reas de restinga.",
+        "state": "explored_empty"
+    },
+    "Vegeta\u00e7\u00e3o de restinga": {
+        "superconcepts": [
+            "Florestas de restinga"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "Restinga de plan\u00edcie",
+            "Mata de restinga",
+            "Floresta de restinga de dunas"
+        ],
+        "cycles": [
+            {
+                "Mata de restinga": "Vegeta\u00e7\u00e3o composta principalmente por \u00e1rvores."
+            }
+        ],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Conjunto de plantas adaptadas \u00e0s condi\u00e7\u00f5es espec\u00edficas dos ecossistemas de restinga.",
+        "state": "explored"
+    },
+    "Biodiversidade de algas": {
+        "superconcepts": [
+            "Din\u00e2mica das comunidades de algas",
+            "Flora bent\u00f4nica"
+        ],
+        "levels": [
+            3,
+            4,
+            5
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Diversidade de esp\u00e9cies de algas presentes nas comunidades.",
+        "state": "unexplored"
+    },
+    "Din\u00e2mica das comunidades de algas": {
+        "superconcepts": [
+            "Comunidades de algas"
+        ],
+        "levels": [
+            4
+        ],
+        "subconcepts": [
+            "Biodiversidade de algas"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Influ\u00eancia dos fatores ambientais na composi\u00e7\u00e3o e distribui\u00e7\u00e3o das comunidades de algas.",
+        "state": "unexplored"
+    },
+    "Fauna bent\u00f4nica": {
+        "superconcepts": [
+            "Estu\u00e1rios",
+            "Comunidades bent\u00f4nicas"
+        ],
+        "levels": [
+            2,
+            3
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Conjunto de organismos que habitam o fundo do mar.",
+        "state": "unexplored"
+    },
+    "Flora bent\u00f4nica": {
+        "superconcepts": [
+            "Estu\u00e1rios",
+            "Comunidades bent\u00f4nicas"
+        ],
+        "levels": [
+            2,
+            3
+        ],
+        "subconcepts": [
+            "Biodiversidade de algas"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Agrupamento de plantas que vivem no fundo do mar.",
+        "state": "unexplored"
+    },
+    "Floresta de restinga de restinga alagada": {
+        "superconcepts": [
+            "Florestas de restinga"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Floresta de restinga de restinga alagada is a subcategory of Florestas de restinga. Forma\u00e7\u00f5es florestais adaptadas a condi\u00e7\u00f5es de solo arenoso e salinidade.",
+        "state": "unexplored"
+    },
+    "Floresta de restinga de tabuleiro": {
+        "superconcepts": [
+            "Mata de restinga"
+        ],
+        "levels": [
+            5
+        ],
+        "subconcepts": [
+            "Vegeta\u00e7\u00e3o arbustiva"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Floresta adaptada a solos mais ricos e planos.",
+        "state": "unexplored"
+    },
+    "Restinga de plan\u00edcie": {
+        "superconcepts": [
+            "Vegeta\u00e7\u00e3o de restinga"
+        ],
+        "levels": [
+            4
+        ],
+        "subconcepts": [
+            "Vegeta\u00e7\u00e3o arbustiva de restinga",
+            "Vegeta\u00e7\u00e3o arbustiva"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Floresta de restinga de restinga de plan\u00edcie is a subcategory of Florestas de restinga. Forma\u00e7\u00f5es florestais adaptadas a condi\u00e7\u00f5es de solo arenoso e salinidade.",
+        "state": "unexplored"
+    },
+    "Mata de restinga": {
+        "superconcepts": [
+            "Vegeta\u00e7\u00e3o de restinga"
+        ],
+        "levels": [
+            4
+        ],
+        "subconcepts": [
+            "Floresta de restinga de tabuleiro",
+            "Vegeta\u00e7\u00e3o arbustiva de restinga"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Vegeta\u00e7\u00e3o composta principalmente por \u00e1rvores.",
+        "state": "unexplored"
+    },
+    "Vegeta\u00e7\u00e3o arbustiva de restinga": {
+        "superconcepts": [
+            "Restinga de plan\u00edcie",
+            "Mata de restinga"
+        ],
+        "levels": [
+            5,
+            5
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Vegeta\u00e7\u00e3o caracterizada por arbustos.",
+        "state": "unexplored"
+    },
+    "Floresta de restinga de dunas": {
+        "superconcepts": [
+            "Vegeta\u00e7\u00e3o de restinga"
+        ],
+        "levels": [
+            4
+        ],
+        "subconcepts": [
+            "Vegeta\u00e7\u00e3o arbustiva"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Floresta de restinga de restinga de dunas is a subcategory of Florestas de restinga. Forma\u00e7\u00f5es florestais adaptadas a condi\u00e7\u00f5es de solo arenoso e salinidade.",
+        "state": "unexplored"
+    },
+    "Vegeta\u00e7\u00e3o arbustiva": {
+        "superconcepts": [
+            "Restinga de plan\u00edcie",
+            "Floresta de restinga de dunas",
+            "Floresta de restinga de tabuleiro"
+        ],
+        "levels": [
+            5,
+            5,
+            6
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Vegeta\u00e7\u00e3o composta por arbustos adaptados \u00e0s condi\u00e7\u00f5es de restinga.",
+        "state": "unexplored"
+    }
+}

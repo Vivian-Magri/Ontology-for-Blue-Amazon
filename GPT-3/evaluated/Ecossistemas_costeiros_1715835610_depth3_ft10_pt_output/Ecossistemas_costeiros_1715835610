@@ -1,0 +1,54 @@
+digraph {
+  rankdir=LR;
+ "Ecossistemas costeiros" [shape = rect];
+  "Ecossistemas costeiros" -> "Estuários";
+  "Ecossistemas costeiros" -> "Lagoas costeiras";
+  "Ecossistemas costeiros" -> "Manguezais";
+  "Ecossistemas costeiros" -> "Marismas";
+  "Ecossistemas costeiros" -> "Restingas";
+ "Estuários" [shape = rect];
+  "Estuários" -> "Manguezais de estuários";
+  "Estuários" -> "Influência das marés";
+ "Lagoas costeiras" [shape = rect];
+  "Lagoas costeiras" -> "Impactos humanos";
+  "Lagoas costeiras" -> "Interações com o oceano";
+  "Lagoas costeiras" -> "Lagunas";
+  "Lagoas costeiras" -> "Lagoas perenes";
+ "Manguezais" [shape = rect];
+  "Manguezais" -> "Manguezais de delta";
+  "Manguezais" -> "Manguezais de estuários";
+  "Manguezais" -> "Manguezais de franja";
+  "Manguezais" -> "Manguezais de ilhas";
+ "Marismas" [shape = rect];
+ "Restingas" [shape = rect];
+ "Fauna aquática" [shape = rect];
+  "Fauna aquática" -> "Aves aquáticas";
+ "Impactos humanos" [shape = rect];
+ "Interações com o oceano" [shape = rect];
+  "Interações com o oceano" -> "Influência das marés";
+ "Lagunas" [shape = rect];
+  "Lagunas" -> "Lagunas de água doce";
+  "Lagunas" -> "Lagunas costeiras"[color=blue, dir=both];
+ "Lagoas perenes" [shape = rect];
+  "Lagoas perenes" -> "Lagoas costeiras de água doce";
+ "Lagoas costeiras de água doce" [shape = rect];
+  "Lagoas costeiras de água doce" -> "Fauna aquática";
+  "Lagoas costeiras de água doce" -> "Lagoas de água doce permanentes";
+  "Lagoas costeiras de água doce" -> "Lagoas de água doce temporárias";
+ "Manguezais de delta" [shape = rect];
+ "Manguezais de estuários" [shape = rect];
+ "Manguezais de franja" [shape = rect];
+ "Manguezais de ilhas" [shape = rect];
+ "Aves aquáticas" [shape = rect];
+ "Influência das marés" [shape = rect];
+ "Lagunas de água doce" [shape = rect];
+  "Lagunas de água doce" -> "Lagunas intermitentes";
+  "Lagunas de água doce" -> "Lagunas permanentes";
+ "Lagunas intermitentes" [shape = rect];
+ "Lagunas permanentes" [shape = rect];
+ "Lagoas de água doce permanentes" [shape = rect];
+ "Lagoas de água doce temporárias" [shape = rect];
+subgraph cluster_metadata {
+metadata_node [label="Concepts: 23\l Subsumptions: 24\l Exploration Depth: 3\l Frequency Threshold: 10\l PT-BR Output\l" shape=none];
+}
+}

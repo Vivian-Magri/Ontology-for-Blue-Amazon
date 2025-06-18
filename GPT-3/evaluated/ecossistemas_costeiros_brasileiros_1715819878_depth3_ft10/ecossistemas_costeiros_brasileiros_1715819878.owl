@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <owl:Class rdf:about="#Hidrologia%20de%20restinga">
+    <rdfs:label>Hidrologia de restinga</rdfs:label>
+    <rdfs:comment>Study of the water dynamics and hydrology of restinga ecosystems.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Restingas"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Algae%20communities">
+    <rdfs:label>Algae communities</rdfs:label>
+    <rdfs:comment>Diverse assemblages of algae species that inhabit rocky shore environments.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Costões%20rochosos"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Recifal%20de%20plataforma">
+    <rdfs:label>Recifal de plataforma</rdfs:label>
+    <rdfs:comment>Coral reefs that form on submerged platforms.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Rec"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Vegetação%20arbustiva">
+    <rdfs:label>Vegetação arbustiva</rdfs:label>
+    <rdfs:comment>Shrub-dominated vegetation found in restinga environments.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Formações%20secundárias"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Vegetação%20costeira">
+    <rdfs:label>Vegetação costeira</rdfs:label>
+    <rdfs:comment>Plant life along coastal areas.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Vegetação"/>
+    <rdfs:subClassOf rdf:resource="#Praias"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Invertebrate%20communities">
+    <rdfs:label>Invertebrate communities</rdfs:label>
+    <rdfs:comment>Various groups of invertebrate animals that inhabit rocky intertidal areas.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Tide%20pools"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Formações%20pioneiras">
+    <rdfs:label>Formações pioneiras</rdfs:label>
+    <rdfs:comment>Early successional plant communities that establish in restinga areas.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Vegetação%20herbácea%20de%20restinga"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Campos%20de%20dunas">
+    <rdfs:label>Campos de dunas</rdfs:label>
+    <rdfs:comment>Vegetation found in sandy dune environments.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Vegetação"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Espécies%20ameaçadas%20nos%20recifes%20de%20coral">
+    <rdfs:label>Espécies ameaçadas nos recifes de coral</rdfs:label>
+    <rdfs:comment>Species that are at risk of extinction or facing population decline within coral reef ecosystems.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Biodiversidade%20marinha%20dos%20recifes%20de%20coral"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Boulder%20fields">
+    <rdfs:label>Boulder fields</rdfs:label>
+    <rdfs:comment>Areas with large rocks and boulders that provide habitat for various species.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Costões%20rochosos"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Lagoons">
+    <rdfs:label>Lagoons</rdfs:label>
+    <rdfs:comment>Shallow bodies of water separated from the ocean by barrier islands or reefs.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#ecossistemas%20costeiros%20brasileiros"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Manguezal">
+    <rdfs:label>Manguezal</rdfs:label>
+    <rdfs:comment>Mangrove vegetation along coastal estuaries.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Vegetação"/>
+    <rdfs:subClassOf rdf:resource="#Manguezais"/>
+  </owl:Class>
+  <owl:Ontology rdf:about="file:///ecossistemas_costeiros_brasileiros.owl"/>
+  <owl:Class rdf:about="#Mata%20atlântica">
+    <rdfs:label>Mata atlântica</rdfs:label>
+    <rdfs:comment>Lush and diverse tropical forest ecosystems.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Vegetação"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Estuários">
+    <rdfs:label>Estuários</rdfs:label>
+    <rdfs:comment>Estuários is a subcategory of ecossistemas costeiros brasileiros. "Ecossistemas costeiros brasileiros" refers to the diverse ecosystems found along the Brazilian coast, including beaches, mangroves, estuaries, and coral reefs.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Zonas%20de%20influência%20fluvial"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Vegetação">
+    <rdfs:label>Vegetação</rdfs:label>
+    <rdfs:comment>The plant life found in coastal island ecosystems, including a variety of species adapted to sandy, rocky, and wetland environments.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Ilhas%20costeiras"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Rec">
+    <rdfs:label>Rec</rdfs:label>
+    <rdfs:comment>Rec is a subcategory of Recifes de coral. Recifes de coral is a subcategory of ecossistemas costeiros brasileiros. "Ecossistemas costeiros brasileiros" refers to the diverse ecosystems found along the Brazilian coast, including beaches, mangroves, estuaries, and coral reefs.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Recifes%20de%20coral"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Tide%20pools">
+    <rdfs:label>Tide pools</rdfs:label>
+    <rdfs:comment>Small pools of water left behind by the receding tide that support a diverse range of organisms.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Costões%20rochosos"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Biodiversidade%20marinha%20dos%20recifes%20de%20coral">
+    <rdfs:label>Biodiversidade marinha dos recifes de coral</rdfs:label>
+    <rdfs:comment>Refere-se à variedade de vida marinha presente nos recifes de coral.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Coral%20species%20diversity"/>
+    <rdfs:subClassOf rdf:resource="#Recifal%20de%20barreira"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Costões%20rochosos">
+    <rdfs:label>Costões rochosos</rdfs:label>
+    <rdfs:comment>Costões rochosos is a subcategory of ecossistemas costeiros brasileiros. "Ecossistemas costeiros brasileiros" refers to the diverse ecosystems found along the Brazilian coast, including beaches, mangroves, estuaries, and coral reefs.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Rocky%20shore%20communities"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Formações%20secundárias">
+    <rdfs:label>Formações secundárias</rdfs:label>
+    <rdfs:comment>Intermediate plant communities that develop in restinga ecosystems.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Vegetação%20de%20restinga"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Manguezais">
+    <rdfs:label>Manguezais</rdfs:label>
+    <rdfs:comment>Manguezais is a subcategory of ecossistemas costeiros brasileiros. "Ecossistemas costeiros brasileiros" refers to the diverse ecosystems found along the Brazilian coast, including beaches, mangroves, estuaries, and coral reefs.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Estuários"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Restingas">
+    <rdfs:label>Restingas</rdfs:label>
+    <rdfs:comment>Restingas is a subcategory of ecossistemas costeiros brasileiros. "Ecossistemas costeiros brasileiros" refers to the diverse ecosystems found along the Brazilian coast, including beaches, mangroves, estuaries, and coral reefs.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#ecossistemas%20costeiros%20brasileiros"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Recifes%20de%20coral">
+    <rdfs:label>Recifes de coral</rdfs:label>
+    <rdfs:comment>Recifes de coral is a subcategory of ecossistemas costeiros brasileiros. "Ecossistemas costeiros brasileiros" refers to the diverse ecosystems found along the Brazilian coast, including beaches, mangroves, estuaries, and coral reefs.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#ecossistemas%20costeiros%20brasileiros"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Recifal%20de%20barreira">
+    <rdfs:label>Recifal de barreira</rdfs:label>
+    <rdfs:comment>Coral reefs that develop parallel to the coastline.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Rec"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Ilhas%20costeiras">
+    <rdfs:label>Ilhas costeiras</rdfs:label>
+    <rdfs:comment>Ilhas costeiras is a subcategory of ecossistemas costeiros brasileiros. "Ecossistemas costeiros brasileiros" refers to the diverse ecosystems found along the Brazilian coast, including beaches, mangroves, estuaries, and coral reefs.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#ecossistemas%20costeiros%20brasileiros"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Vegetação%20de%20restinga">
+    <rdfs:label>Vegetação de restinga</rdfs:label>
+    <rdfs:comment>Plant communities that are adapted to the unique conditions of restinga ecosystems.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Floresta%20de%20restinga"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Floresta%20de%20restinga">
+    <rdfs:label>Floresta de restinga</rdfs:label>
+    <rdfs:comment>Forested areas with a variety of tree species in restinga ecosystems.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Praias"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Praias">
+    <rdfs:label>Praias</rdfs:label>
+    <rdfs:comment>Praias is a subcategory of ecossistemas costeiros brasileiros. "Ecossistemas costeiros brasileiros" refers to the diverse ecosystems found along the Brazilian coast, including beaches, mangroves, estuaries, and coral reefs.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Restingas"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Rocky%20shore%20communities">
+    <rdfs:label>Rocky shore communities</rdfs:label>
+    <rdfs:comment>Complex ecosystems that include a variety of plant and animal species adapted to rocky habitats.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#ecossistemas%20costeiros%20brasileiros"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Coral%20species%20diversity">
+    <rdfs:label>Coral species diversity</rdfs:label>
+    <rdfs:comment>Estudo da diversidade de espécies de coral nos recifes.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Recifes%20de%20coral"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Zonas%20de%20influência%20fluvial">
+    <rdfs:label>Zonas de influência fluvial</rdfs:label>
+    <rdfs:comment>Áreas onde a água doce dos rios se mistura com a água salgada do mar.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#ecossistemas%20costeiros%20brasileiros"/>
+  </owl:Class>
+  <owl:Class rdf:about="#ecossistemas%20costeiros%20brasileiros">
+    <rdfs:label>ecossistemas costeiros brasileiros</rdfs:label>
+    <rdfs:comment>"Ecossistemas costeiros brasileiros" refers to the diverse ecosystems found along the Brazilian coast, including beaches, mangroves, estuaries, and coral reefs.</rdfs:comment>
+  </owl:Class>
+  <owl:Class rdf:about="#Vegetação%20herbácea%20de%20restinga">
+    <rdfs:label>Vegetação herbácea de restinga</rdfs:label>
+    <rdfs:comment>Herbaceous plants that thrive in restinga habitats.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Vegetação%20de%20restinga"/>
+  </owl:Class>
+</rdf:RDF>

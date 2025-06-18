@@ -1,0 +1,327 @@
+{
+    "Thing": {
+        "superconcepts": [],
+        "levels": [
+            -1
+        ],
+        "subconcepts": [
+            "Coastal ecosystems"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "state": "explored",
+        "definition": "top concept"
+    },
+    "Coastal ecosystems": {
+        "superconcepts": [
+            "Thing"
+        ],
+        "levels": [
+            0
+        ],
+        "subconcepts": [
+            "Mangrove forests",
+            "Rocky shores",
+            "Salt marshes",
+            "Sandy beaches"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Coastal ecosystems refer to the diverse habitats and communities of plants and animals that exist along the shoreline where land meets the sea.",
+        "state": "explored"
+    },
+    "No subconcept": {
+        "superconcepts": [
+            "Fisheries support",
+            "Restoration efforts",
+            "Mudflats",
+            "Rocky intertidal",
+            "Sandy intertidal",
+            "Obligate halophytes",
+            "Succulent halophytes",
+            "Mollusks"
+        ],
+        "levels": [
+            99
+        ],
+        "subconcepts": [],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "state": "explored",
+        "definition": "bottom concept"
+    },
+    "Mangrove forests": {
+        "superconcepts": [
+            "Coastal ecosystems"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "Mangrove conservation"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Coastal wetlands dominated by salt-tolerant trees and shrubs.",
+        "state": "explored"
+    },
+    "Rocky shores": {
+        "superconcepts": [
+            "Coastal ecosystems"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "Intertidal zones"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Coastal habitats characterized by solid rock surfaces exposed to the action of waves and tides.",
+        "state": "explored"
+    },
+    "Salt marshes": {
+        "superconcepts": [
+            "Coastal ecosystems"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "Halophytes"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Coastal wetlands with salt-tolerant plants that are flooded and drained by the tides.",
+        "state": "explored"
+    },
+    "Sandy beaches": {
+        "superconcepts": [
+            "Coastal ecosystems"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "Beach fauna",
+            "Sandy intertidal"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Coastal habitats with sandy substrates that are constantly shaped by wave action.",
+        "state": "explored"
+    },
+    "Mangrove ecosystem services": {
+        "superconcepts": [
+            "Mangrove conservation"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "Fisheries support"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "The benefits that mangrove forests provide to both the environment and human communities.",
+        "state": "explored"
+    },
+    "Mangrove conservation": {
+        "superconcepts": [
+            "Mangrove forests"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "Mangrove ecosystem services",
+            "Restoration efforts"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Activities and initiatives aimed at protecting and preserving mangrove forests and their associated biodiversity.",
+        "state": "explored"
+    },
+    "Intertidal zones": {
+        "superconcepts": [
+            "Rocky shores"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "Mudflats",
+            "Rocky intertidal",
+            "Sandy intertidal"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Intertidal zones is a subcategory of Rocky shores. Coastal habitats characterized by solid rock surfaces exposed to the action of waves and tides.",
+        "state": "explored"
+    },
+    "Halophytes": {
+        "superconcepts": [
+            "Salt marshes"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "Obligate halophytes",
+            "Succulent halophytes"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Plants that are adapted to thrive in saline environments.",
+        "state": "explored"
+    },
+    "Beach fauna": {
+        "superconcepts": [
+            "Sandy beaches"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "Mollusks"
+        ],
+        "cycles": [
+            {
+                "Beach animals": "The diverse range of animal species that inhabit sandy beach environments, including burrowing creatures, scavengers, and predators."
+            }
+        ],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "The diverse array of animal species that inhabit sandy beach environments.",
+        "state": "explored"
+    },
+    "Fisheries support": {
+        "superconcepts": [
+            "Mangrove ecosystem services"
+        ],
+        "levels": [
+            4
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Mangroves serve as nurseries and feeding grounds for many fish and shellfish species, supporting local fisheries and livelihoods.",
+        "state": "unexplored"
+    },
+    "Restoration efforts": {
+        "superconcepts": [
+            "Mangrove conservation"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Initiatives focused on restoring degraded or lost mangrove habitats.",
+        "state": "unexplored"
+    },
+    "Mudflats": {
+        "superconcepts": [
+            "Intertidal zones"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Coastal habitats characterized by soft, muddy substrates that are exposed at low tide and submerged at high tide.",
+        "state": "unexplored"
+    },
+    "Rocky intertidal": {
+        "superconcepts": [
+            "Intertidal zones"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [
+            {
+                "Rocky intertidal zones": "Rocky intertidal zones is a subcategory of Intertidal zones. Intertidal zones is a subcategory of Rocky shores. Coastal habitats characterized by solid rock surfaces exposed to the action of waves and tides."
+            }
+        ],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Coastal habitats characterized by solid rock surfaces exposed to the action of waves and tides.",
+        "state": "unexplored"
+    },
+    "Sandy intertidal": {
+        "superconcepts": [
+            "Intertidal zones",
+            "Sandy beaches"
+        ],
+        "levels": [
+            2,
+            3
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [
+            {
+                "Sandy intertidal zones": "Sandy intertidal zones is a subcategory of Intertidal zones. Intertidal zones is a subcategory of Rocky shores. Coastal habitats characterized by solid rock surfaces exposed to the action of waves and tides."
+            }
+        ],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Coastal habitats characterized by sandy substrates that are exposed at low tide and submerged at high tide.",
+        "state": "unexplored"
+    },
+    "Obligate halophytes": {
+        "superconcepts": [
+            "Halophytes"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Plants that require saline conditions to survive and thrive.",
+        "state": "unexplored"
+    },
+    "Succulent halophytes": {
+        "superconcepts": [
+            "Halophytes"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Plants that store water in their tissues to survive in saline environments.",
+        "state": "unexplored"
+    },
+    "Mollusks": {
+        "superconcepts": [
+            "Beach fauna"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Invertebrates with soft bodies, often protected by a hard shell, such as snails, clams, and octopuses.",
+        "state": "unexplored"
+    }
+}

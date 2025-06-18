@@ -1,0 +1,192 @@
+{
+    "Thing": {
+        "superconcepts": [],
+        "levels": [
+            -1
+        ],
+        "subconcepts": [
+            "Ecossistemas costeiros brasileiros"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "state": "explored",
+        "definition": "top concept"
+    },
+    "Ecossistemas costeiros brasileiros": {
+        "superconcepts": [
+            "Thing"
+        ],
+        "levels": [
+            0
+        ],
+        "subconcepts": [
+            "Manguezais",
+            "Restingas"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Ecossistemas costeiros brasileiros s\u00e3o os ambientes naturais localizados pr\u00f3ximos ao litoral do Brasil, que incluem manguezais, praias, cost\u00f5es rochosos, entre outros.",
+        "state": "explored"
+    },
+    "No subconcept": {
+        "superconcepts": [
+            "Amea\u00e7as e conserva\u00e7\u00e3o",
+            "Vegeta\u00e7\u00e3o aqu\u00e1tica",
+            "Arbustos de restinga"
+        ],
+        "levels": [
+            99
+        ],
+        "subconcepts": [],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "state": "explored",
+        "definition": "bottom concept"
+    },
+    "Manguezais": {
+        "superconcepts": [
+            "Ecossistemas costeiros brasileiros"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "Flora",
+            "Amea\u00e7as e conserva\u00e7\u00e3o"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Ecossistemas de transi\u00e7\u00e3o entre ambientes terrestres e marinhos, com vegeta\u00e7\u00e3o adaptada a condi\u00e7\u00f5es de salinidade.",
+        "state": "explored"
+    },
+    "Restingas": {
+        "superconcepts": [
+            "Ecossistemas costeiros brasileiros"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "Vegeta\u00e7\u00e3o de restinga",
+            "Import\u00e2ncia ecol\u00f3gica"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Ecossistemas costeiros formados por vegeta\u00e7\u00e3o de restinga, adaptada a condi\u00e7\u00f5es de solo arenoso e salinidade.",
+        "state": "explored"
+    },
+    "Flora": {
+        "superconcepts": [
+            "Manguezais",
+            "Vegeta\u00e7\u00e3o de restinga"
+        ],
+        "levels": [
+            2,
+            3
+        ],
+        "subconcepts": [
+            "Vegeta\u00e7\u00e3o aqu\u00e1tica"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Engloba as plantas e vegeta\u00e7\u00e3o caracter\u00edstica dos manguezais.",
+        "state": "explored"
+    },
+    "Vegeta\u00e7\u00e3o de restinga": {
+        "superconcepts": [
+            "Restingas"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "Flora",
+            "Floresta de restinga"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Conjunto de plantas adaptadas \u00e0s condi\u00e7\u00f5es de solo arenoso e salinidade.",
+        "state": "explored"
+    },
+    "Amea\u00e7as e conserva\u00e7\u00e3o": {
+        "superconcepts": [
+            "Manguezais",
+            "Import\u00e2ncia ecol\u00f3gica",
+            "Floresta de restinga"
+        ],
+        "levels": [
+            2,
+            3,
+            4
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Fatores que representam riscos ao ecossistema de restinga e medidas para sua preserva\u00e7\u00e3o.",
+        "state": "explored_empty"
+    },
+    "Import\u00e2ncia ecol\u00f3gica": {
+        "superconcepts": [
+            "Restingas"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "Amea\u00e7as e conserva\u00e7\u00e3o"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Papel fundamental das restingas na manuten\u00e7\u00e3o da biodiversidade e equil\u00edbrio ambiental.",
+        "state": "explored_empty"
+    },
+    "Vegeta\u00e7\u00e3o aqu\u00e1tica": {
+        "superconcepts": [
+            "Flora"
+        ],
+        "levels": [
+            3,
+            4
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Plantas adaptadas para viver em ambientes aqu\u00e1ticos.",
+        "state": "unexplored"
+    },
+    "Floresta de restinga": {
+        "superconcepts": [
+            "Vegeta\u00e7\u00e3o de restinga"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "Amea\u00e7as e conserva\u00e7\u00e3o",
+            "Arbustos de restinga"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Vegeta\u00e7\u00e3o arb\u00f3rea densa em \u00e1reas de restinga.",
+        "state": "unexplored"
+    },
+    "Arbustos de restinga": {
+        "superconcepts": [
+            "Floresta de restinga"
+        ],
+        "levels": [
+            4
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Plantas lenhosas de grande porte.",
+        "state": "unexplored"
+    }
+}

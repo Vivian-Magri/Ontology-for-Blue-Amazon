@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+>
+  <owl:Class rdf:about="#Avian%20species">
+    <rdfs:label>Avian species</rdfs:label>
+    <rdfs:comment>Refers to the various bird species that inhabit or rely on mangrove ecosystems.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Mangrove%20biodiversity"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Fisheries%20support">
+    <rdfs:label>Fisheries support</rdfs:label>
+    <rdfs:comment>Mangroves serve as nurseries and feeding grounds for many fish and shellfish species, supporting local fisheries and livelihoods.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Mangrove%20ecosystem%20services"/>
+    <rdfs:subClassOf rdf:resource="#Estuaries"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Fisheries%20habitat">
+    <rdfs:label>Fisheries habitat</rdfs:label>
+    <rdfs:comment>Seagrass meadows provide important nursery and feeding grounds for various fish species.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Estuaries"/>
+    <rdfs:subClassOf rdf:resource="#Biodiversity%20support"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Invertebrate%20species">
+    <rdfs:label>Invertebrate species</rdfs:label>
+    <rdfs:comment>Encompasses the wide range of invertebrates, such as crabs and mollusks, that inhabit mangrove environments.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Estuaries"/>
+    <rdfs:subClassOf rdf:resource="#Mangrove%20biodiversity"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Threats%20to%20mangrove%20forests">
+    <rdfs:label>Threats to mangrove forests</rdfs:label>
+    <rdfs:comment>Factors that pose risks to the health and survival of mangrove ecosystems.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Mangrove%20forests"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Avicennia">
+    <rdfs:label>Avicennia</rdfs:label>
+    <rdfs:comment>Avmangrove species diversity is a subcategory of Mangrove forests. Coastal wetlands dominated by salt-tolerant trees and shrubs that thrive in brackish water.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Red:%20mangrove%20species"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Salt%20marshes">
+    <rdfs:label>Salt marshes</rdfs:label>
+    <rdfs:comment>Coastal wetlands flooded and drained by tides, characterized by salt-tolerant grasses and sedges.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Estuaries"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Fish%20species">
+    <rdfs:label>Fish species</rdfs:label>
+    <rdfs:comment>Denotes the diverse array of fish species that are found in mangrove habitats.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Mangrove%20biodiversity"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Mudflats">
+    <rdfs:label>Mudflats</rdfs:label>
+    <rdfs:comment>Coastal habitats characterized by soft, muddy substrate that are exposed during low tides.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Intertidal%20zones"/>
+  </owl:Class>
+  <owl:Ontology rdf:about="file:///Coastal_ecosystems.owl"/>
+  <owl:Class rdf:about="#Red:%20mangrove%20species">
+    <rdfs:label>Red: mangrove species</rdfs:label>
+    <rdfs:comment>Red: mangrove species is a subcategory of Mangrove forests. Coastal wetlands dominated by salt-tolerant trees and shrubs that thrive in brackish water.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Mangrove%20biodiversity"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Mangrove%20biodiversity">
+    <rdfs:label>Mangrove biodiversity</rdfs:label>
+    <rdfs:comment>The range of different plant and animal species that inhabit mangrove forests.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Mangrove%20forests"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Mangrove%20forests">
+    <rdfs:label>Mangrove forests</rdfs:label>
+    <rdfs:comment>Coastal wetlands dominated by salt-tolerant trees and shrubs that thrive in brackish water.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Coastal%20ecosystems"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Mangrove%20ecosystem%20services">
+    <rdfs:label>Mangrove ecosystem services</rdfs:label>
+    <rdfs:comment>Describes the benefits and functions that mangrove forests provide to the environment and human communities.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Mangrove%20forests"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Coastal%20ecosystems">
+    <rdfs:label>Coastal ecosystems</rdfs:label>
+    <rdfs:comment>Coastal ecosystems refer to the diverse habitats and species found along the interface between land and sea.</rdfs:comment>
+  </owl:Class>
+  <owl:Class rdf:about="#Estuaries">
+    <rdfs:label>Estuaries</rdfs:label>
+    <rdfs:comment>Transitional zones where rivers meet the sea, characterized by fluctuating salinity levels.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Coastal%20ecosystems"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Intertidal%20zones">
+    <rdfs:label>Intertidal zones</rdfs:label>
+    <rdfs:comment>Intertidal zones is a subcategory of Rocky shores. Coastal habitats with solid substrate, exposed to wave action and supporting diverse intertidal communities.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Rocky%20shores"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Seagrass%20meadows">
+    <rdfs:label>Seagrass meadows</rdfs:label>
+    <rdfs:comment>Coastal habitats dominated by seagrasses, which play a crucial role in stabilizing sediments and providing habitat for various species.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Coastal%20ecosystems"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Biodiversity%20support">
+    <rdfs:label>Biodiversity support</rdfs:label>
+    <rdfs:comment>Seagrass meadows provide essential habitats for a wide range of marine species, contributing to overall biodiversity.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Seagrass%20ecosystem%20services"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Rocky%20shores">
+    <rdfs:label>Rocky shores</rdfs:label>
+    <rdfs:comment>Coastal habitats with solid substrate, exposed to wave action and supporting diverse intertidal communities.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Coastal%20ecosystems"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Seagrass%20ecosystem%20services">
+    <rdfs:label>Seagrass ecosystem services</rdfs:label>
+    <rdfs:comment>The various benefits and functions provided by seagrass meadows to coastal ecosystems and human communities.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Seagrass%20meadows"/>
+  </owl:Class>
+</rdf:RDF>

@@ -1,0 +1,438 @@
+{
+    "Thing": {
+        "superconcepts": [],
+        "levels": [
+            -1
+        ],
+        "subconcepts": [
+            "Ecossistemas costeiros"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "state": "explored",
+        "definition": "top concept"
+    },
+    "Ecossistemas costeiros": {
+        "superconcepts": [
+            "Thing"
+        ],
+        "levels": [
+            0
+        ],
+        "subconcepts": [
+            "Cost\u00f5es rochosos",
+            "Lagoas costeiras",
+            "Manguezais",
+            "Marismas",
+            "Recifes de coral",
+            "Zonas de influ\u00eancia estuarina"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Ecossistemas costeiros referem-se a ambientes naturais localizados na interface entre a terra e o mar.",
+        "state": "explored"
+    },
+    "No subconcept": {
+        "superconcepts": [
+            "Cost\u00f5es rochosos",
+            "Lagoas salinas",
+            "Amea\u00e7as e conserva\u00e7\u00e3o",
+            "Fauna associada",
+            "Rafloresta de mangue",
+            "Vegeta\u00e7\u00e3o hal\u00f3fita",
+            "Recifes de coral de barreira internos",
+            "Recifes de plataforma interna"
+        ],
+        "levels": [
+            99
+        ],
+        "subconcepts": [],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "state": "explored",
+        "definition": "bottom concept"
+    },
+    "Cost\u00f5es rochosos": {
+        "superconcepts": [
+            "Ecossistemas costeiros"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [
+            {
+                "Ecossistemas de cost\u00f5es rochosos": "Conjunto de intera\u00e7\u00f5es entre os seres vivos e o ambiente em cost\u00f5es rochosos."
+            }
+        ],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Ambientes costeiros caracterizados por forma\u00e7\u00f5es rochosas expostas \u00e0 a\u00e7\u00e3o das ondas.",
+        "state": "explored"
+    },
+    "Estu\u00e1rios": {
+        "superconcepts": [
+            "Zonas de influ\u00eancia estuarina"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "Manguezais de estu\u00e1rios",
+            "Vegeta\u00e7\u00e3o hal\u00f3fita"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "\u00c1reas onde rios encontram o mar, formando um ambiente de transi\u00e7\u00e3o entre \u00e1gua doce e salgada.",
+        "state": "explored"
+    },
+    "Lagoas costeiras": {
+        "superconcepts": [
+            "Ecossistemas costeiros"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "Lagoas permanentes",
+            "Lagoas costeiras isoladas"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Corpos d'\u00e1gua rasos e geralmente conectados ao mar, com influ\u00eancia das mar\u00e9s.",
+        "state": "explored"
+    },
+    "Manguezais": {
+        "superconcepts": [
+            "Ecossistemas costeiros"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "Famanguezais de franja",
+            "Manguezais de cord\u00e3o",
+            "Manguezais de enseadas",
+            "Manguezais de estu\u00e1rios",
+            "Amea\u00e7as e conserva\u00e7\u00e3o",
+            "Rafloresta de mangue"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Ecossistemas de transi\u00e7\u00e3o entre ambientes terrestres e aqu\u00e1ticos, caracterizados por vegeta\u00e7\u00e3o adaptada \u00e0 salinidade.",
+        "state": "explored"
+    },
+    "Marismas": {
+        "superconcepts": [
+            "Ecossistemas costeiros"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "Fauna associada",
+            "Vegeta\u00e7\u00e3o hal\u00f3fita"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "\u00c1reas \u00famidas costeiras com vegeta\u00e7\u00e3o adaptada a condi\u00e7\u00f5es de inunda\u00e7\u00e3o peri\u00f3dica.",
+        "state": "explored"
+    },
+    "Recifes de coral": {
+        "superconcepts": [
+            "Ecossistemas costeiros"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "Recifes de coral de barreira",
+            "Recifes de coral de plataforma"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Estruturas rochosas formadas por corais e outros organismos marinhos, encontradas em \u00e1guas tropicais e subtropicais.",
+        "state": "explored"
+    },
+    "Zonas de influ\u00eancia estuarina": {
+        "superconcepts": [
+            "Ecossistemas costeiros"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "Estu\u00e1rios",
+            "Manguezais de enseadas"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Regi\u00f5es afetadas pelas influ\u00eancias do estu\u00e1rio, como mudan\u00e7as na salinidade e na qualidade da \u00e1gua.",
+        "state": "explored_empty"
+    },
+    "Lagoas permanentes": {
+        "superconcepts": [
+            "Lagoas costeiras"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "Fauna associada"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Lagoas costeiras que mant\u00eam um volume constante de \u00e1gua ao longo do ano.",
+        "state": "explored_empty"
+    },
+    "Lagoas salinas": {
+        "superconcepts": [
+            "Lagoas costeiras isoladas"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Lagoas costeiras com alta concentra\u00e7\u00e3o de sal devido \u00e0 evapora\u00e7\u00e3o da \u00e1gua.",
+        "state": "explored_empty"
+    },
+    "Lagoas costeiras isoladas": {
+        "superconcepts": [
+            "Lagoas costeiras"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "Lagoas salinas",
+            "Fauna associada"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Corpos d'\u00e1gua costeiros rasos e isolados do mar por barreiras naturais.",
+        "state": "explored_empty"
+    },
+    "Famanguezais de franja": {
+        "superconcepts": [
+            "Manguezais"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "Fauna associada",
+            "Vegeta\u00e7\u00e3o hal\u00f3fita"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Famanguezais de franja is a subcategory of Manguezais. Ecossistemas de transi\u00e7\u00e3o entre ambientes terrestres e aqu\u00e1ticos, caracterizados por vegeta\u00e7\u00e3o adaptada \u00e0 salinidade.",
+        "state": "explored_empty"
+    },
+    "Manguezais de cord\u00e3o": {
+        "superconcepts": [
+            "Manguezais"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "Fauna associada"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "S\u00e3o manguezais que se desenvolvem em forma de cord\u00f5es paralelos \u00e0 costa.",
+        "state": "explored_empty"
+    },
+    "Manguezais de enseadas": {
+        "superconcepts": [
+            "Manguezais",
+            "Zonas de influ\u00eancia estuarina"
+        ],
+        "levels": [
+            2,
+            2
+        ],
+        "subconcepts": [
+            "Fauna associada"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "S\u00e3o manguezais localizados em \u00e1reas protegidas, como enseadas e ba\u00edas.",
+        "state": "explored_empty"
+    },
+    "Manguezais de estu\u00e1rios": {
+        "superconcepts": [
+            "Manguezais",
+            "Estu\u00e1rios"
+        ],
+        "levels": [
+            2,
+            3
+        ],
+        "subconcepts": [
+            "Manguezais de estu\u00e1rios: manguezais de mar\u00e9"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "S\u00e3o manguezais localizados na desembocadura de rios, onde a \u00e1gua doce se mistura com a \u00e1gua salgada.",
+        "state": "explored"
+    },
+    "Amea\u00e7as e conserva\u00e7\u00e3o": {
+        "superconcepts": [
+            "Manguezais"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Refere-se aos desafios e medidas de prote\u00e7\u00e3o necess\u00e1rias para conservar os manguezais.",
+        "state": "explored_empty"
+    },
+    "Fauna associada": {
+        "superconcepts": [
+            "Lagoas costeiras isoladas",
+            "Manguezais de enseadas",
+            "Manguezais de cord\u00e3o",
+            "Lagoas permanentes",
+            "Famanguezais de franja",
+            "Marismas",
+            "Manguezais de estu\u00e1rios: manguezais de mar\u00e9"
+        ],
+        "levels": [
+            2,
+            3,
+            3,
+            3,
+            3,
+            3,
+            4,
+            5
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Compreende as esp\u00e9cies animais que t\u00eam uma rela\u00e7\u00e3o direta com os manguezais.",
+        "state": "explored_empty"
+    },
+    "Rafloresta de mangue": {
+        "superconcepts": [
+            "Manguezais"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Rafloresta de mangue is a subcategory of Manguezais. Ecossistemas de transi\u00e7\u00e3o entre ambientes terrestres e aqu\u00e1ticos, caracterizados por vegeta\u00e7\u00e3o adaptada \u00e0 salinidade.",
+        "state": "explored_empty"
+    },
+    "Vegeta\u00e7\u00e3o hal\u00f3fita": {
+        "superconcepts": [
+            "Estu\u00e1rios",
+            "Famanguezais de franja",
+            "Marismas"
+        ],
+        "levels": [
+            2,
+            3,
+            3
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Plantas adaptadas a solos salinos.",
+        "state": "explored_empty"
+    },
+    "Recifes de coral de barreira": {
+        "superconcepts": [
+            "Recifes de coral"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "Recifes de coral de barreira internos"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Recifes de coral que crescem paralelos \u00e0 costa, protegendo a linha costeira.",
+        "state": "explored"
+    },
+    "Recifes de coral de plataforma": {
+        "superconcepts": [
+            "Recifes de coral"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "Recifes de plataforma interna"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Recifes de coral que crescem ao longo da borda de uma plataforma continental.",
+        "state": "explored"
+    },
+    "Manguezais de estu\u00e1rios: manguezais de mar\u00e9": {
+        "superconcepts": [
+            "Manguezais de estu\u00e1rios"
+        ],
+        "levels": [
+            3,
+            4
+        ],
+        "subconcepts": [
+            "Fauna associada"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "manguezais de mar\u00e9: Manguezais localizados em \u00e1reas onde a \u00e1gua do mar e a \u00e1gua doce se misturam devido \u00e0s mar\u00e9s.",
+        "state": "unexplored"
+    },
+    "Recifes de coral de barreira internos": {
+        "superconcepts": [
+            "Recifes de coral de barreira"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Recifes de coral localizados entre a costa e a barreira de recifes principal.",
+        "state": "unexplored"
+    },
+    "Recifes de plataforma interna": {
+        "superconcepts": [
+            "Recifes de coral de plataforma"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Recifes de coral que se formam na parte mais pr\u00f3xima da costa da plataforma continental.",
+        "state": "unexplored"
+    }
+}

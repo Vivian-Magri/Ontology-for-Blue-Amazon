@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <owl:Class rdf:about="#Ameaças%20e%20conservação">
+    <rdfs:label>Ameaças e conservação</rdfs:label>
+    <rdfs:comment>Fatores que representam riscos ao ecossistema de restinga e medidas para sua preservação.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Manguezais"/>
+    <rdfs:subClassOf rdf:resource="#Importância%20ecológica"/>
+    <rdfs:subClassOf rdf:resource="#Floresta%20de%20restinga"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Vegetação%20aquática">
+    <rdfs:label>Vegetação aquática</rdfs:label>
+    <rdfs:comment>Plantas adaptadas para viver em ambientes aquáticos.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Flora"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Arbustos%20de%20restinga">
+    <rdfs:label>Arbustos de restinga</rdfs:label>
+    <rdfs:comment>Plantas lenhosas de grande porte.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Floresta%20de%20restinga"/>
+  </owl:Class>
+  <owl:Ontology rdf:about="file:///Ecossistemas_costeiros_brasileiros.owl"/>
+  <owl:Class rdf:about="#Restingas">
+    <rdfs:label>Restingas</rdfs:label>
+    <rdfs:comment>Ecossistemas costeiros formados por vegetação de restinga, adaptada a condições de solo arenoso e salinidade.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Ecossistemas%20costeiros%20brasileiros"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Flora">
+    <rdfs:label>Flora</rdfs:label>
+    <rdfs:comment>Engloba as plantas e vegetação característica dos manguezais.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Manguezais"/>
+    <rdfs:subClassOf rdf:resource="#Vegetação%20de%20restinga"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Manguezais">
+    <rdfs:label>Manguezais</rdfs:label>
+    <rdfs:comment>Ecossistemas de transição entre ambientes terrestres e marinhos, com vegetação adaptada a condições de salinidade.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Ecossistemas%20costeiros%20brasileiros"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Floresta%20de%20restinga">
+    <rdfs:label>Floresta de restinga</rdfs:label>
+    <rdfs:comment>Vegetação arbórea densa em áreas de restinga.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Vegetação%20de%20restinga"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Ecossistemas%20costeiros%20brasileiros">
+    <rdfs:label>Ecossistemas costeiros brasileiros</rdfs:label>
+    <rdfs:comment>Ecossistemas costeiros brasileiros são os ambientes naturais localizados próximos ao litoral do Brasil, que incluem manguezais, praias, costões rochosos, entre outros.</rdfs:comment>
+  </owl:Class>
+  <owl:Class rdf:about="#Vegetação%20de%20restinga">
+    <rdfs:label>Vegetação de restinga</rdfs:label>
+    <rdfs:comment>Conjunto de plantas adaptadas às condições de solo arenoso e salinidade.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Restingas"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Importância%20ecológica">
+    <rdfs:label>Importância ecológica</rdfs:label>
+    <rdfs:comment>Papel fundamental das restingas na manutenção da biodiversidade e equilíbrio ambiental.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Restingas"/>
+  </owl:Class>
+</rdf:RDF>

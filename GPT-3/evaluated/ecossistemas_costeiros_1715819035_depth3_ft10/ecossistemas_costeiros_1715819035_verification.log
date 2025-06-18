@@ -1,0 +1,644 @@
+2024-05-15 21:24:06,162 INFO Task-4 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Dunas costeiras: Acúmulos de areia formados pela ação do vento nas regiões litorâneas.
+Is "Dunas costeiras" a specific instance or a subcategory of the category "ecossistemas costeiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-15 21:24:25,238 INFO Task-157 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Processos de erosão costeira: Fenômenos naturais que causam desgaste e transformação dos costões rochosos.
+Is "Processos de erosão costeira" a specific instance or a subcategory of the category "ecossistemas costeiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-15 21:24:25,623 INFO Task-158 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Zonas de intertidal: Áreas do costão rochoso que são alternadamente cobertas e descobertas pela maré.
+Is "Zonas de intertidal" a part or a subcategory of the category "ecossistemas costeiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-15 21:24:25,676 INFO Task-162 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Zonas de maré: Áreas do costão rochoso que são afetadas pelo movimento das marés.
+Is "Zonas de maré" a part or a subcategory of the category "ecossistemas costeiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-15 21:24:26,305 INFO Task-156 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Costões rochosos: Ambientes costeiros caracterizados por formações rochosas expostas à ação das ondas.
+Fauna marinha: Fauna marinha is a subcategory of Costões rochosos. Ambientes costeiros caracterizados por formações rochosas expostas à ação das ondas.
+"Costões rochosos" is a subcategory of "ecossistemas costeiros". Is "Fauna marinha" typically understood as a subcategory of "Costões rochosos"? Answer only with yes or no.
+No
+2024-05-15 21:24:26,461 INFO Task-160 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Costões rochosos: Ambientes costeiros caracterizados por formações rochosas expostas à ação das ondas.
+Flora costeira: Vegetação que cresce nas áreas próximas aos costões rochosos.
+"Costões rochosos" is a subcategory of "ecossistemas costeiros". Is "Flora costeira" typically understood as a subcategory of "Costões rochosos"? Answer only with yes or no.
+No
+2024-05-15 21:24:26,461 INFO Task-155 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Costões rochosos: Ambientes costeiros caracterizados por formações rochosas expostas à ação das ondas.
+Ecossistemas de recifes: Ambientes formados por estruturas rochosas que abrigam uma diversidade de organismos marinhos.
+"Costões rochosos" is a subcategory of "ecossistemas costeiros". Is "Ecossistemas de recifes" typically understood as a subcategory of "Costões rochosos"? Answer only with yes or no.
+No
+2024-05-15 21:24:26,530 INFO Task-164 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Costões rochosos: Ambientes costeiros caracterizados por formações rochosas expostas à ação das ondas.
+Rec: fauna marinha: Rec: fauna marinha is a subcategory of Costões rochosos. Ambientes costeiros caracterizados por formações rochosas expostas à ação das ondas.
+"Costões rochosos" is a subcategory of "ecossistemas costeiros". Is "Rec: fauna marinha" typically understood as a subcategory of "Costões rochosos"? Answer only with yes or no.
+No
+2024-05-15 21:24:26,570 INFO Task-163 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Costões rochosos: Ambientes costeiros caracterizados por formações rochosas expostas à ação das ondas.
+Habitats de aves marinhas: Locais onde as aves marinhas encontram condições adequadas para nidificação e alimentação.
+"Costões rochosos" is a subcategory of "ecossistemas costeiros". Is "Habitats de aves marinhas" typically understood as a subcategory of "Costões rochosos"? Answer only with yes or no.
+No
+2024-05-15 21:24:26,697 INFO Task-159 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Costões rochosos: Ambientes costeiros caracterizados por formações rochosas expostas à ação das ondas.
+Fafauna marinha: Fafauna marinha is a subcategory of Costões rochosos. Ambientes costeiros caracterizados por formações rochosas expostas à ação das ondas.
+"Costões rochosos" is a subcategory of "ecossistemas costeiros". Is "Fafauna marinha" typically understood as a subcategory of "Costões rochosos"? Answer only with yes or no.
+No
+2024-05-15 21:24:26,831 INFO Task-156 Info:
+Fauna marinha renamed to Fauna marinha
+2024-05-15 21:24:26,948 INFO Task-164 Info:
+Rec: fauna marinha renamed to Fauna marinha
+2024-05-15 21:24:26,971 INFO Task-155 Info:
+Ecossistemas de recifes renamed to Comunidades de costões rochosos
+2024-05-15 21:24:26,980 INFO Task-160 Info:
+Flora costeira renamed to Vegetação costeira
+2024-05-15 21:24:27,014 INFO Task-163 Info:
+Habitats de aves marinhas renamed to Aves marinhas
+2024-05-15 21:24:27,149 INFO Task-159 Info:
+Fafauna marinha renamed to Fauna marinha
+2024-05-15 21:24:27,750 INFO Task-164 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Costões rochosos: Ambientes costeiros caracterizados por formações rochosas expostas à ação das ondas.
+Fauna marinha: Fafauna marinha is a subcategory of Costões rochosos. Ambientes costeiros caracterizados por formações rochosas expostas à ação das ondas.
+"Costões rochosos" is a subcategory of "ecossistemas costeiros". Is "Fauna marinha" typically understood as a subcategory of "Costões rochosos"? Answer only with yes or no.
+No
+2024-05-15 21:24:27,798 INFO Task-160 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Costões rochosos: Ambientes costeiros caracterizados por formações rochosas expostas à ação das ondas.
+Vegetação costeira: Vegetação que cresce nas áreas próximas aos costões rochosos.
+"Costões rochosos" is a subcategory of "ecossistemas costeiros". Is "Vegetação costeira" typically understood as a subcategory of "Costões rochosos"? Answer only with yes or no.
+No
+2024-05-15 21:24:27,834 INFO Task-163 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Costões rochosos: Ambientes costeiros caracterizados por formações rochosas expostas à ação das ondas.
+Aves marinhas: Locais onde as aves marinhas encontram condições adequadas para nidificação e alimentação.
+"Costões rochosos" is a subcategory of "ecossistemas costeiros". Is "Aves marinhas" typically understood as a subcategory of "Costões rochosos"? Answer only with yes or no.
+No
+2024-05-15 21:24:27,851 INFO Task-159 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Costões rochosos: Ambientes costeiros caracterizados por formações rochosas expostas à ação das ondas.
+Fauna marinha: Fafauna marinha is a subcategory of Costões rochosos. Ambientes costeiros caracterizados por formações rochosas expostas à ação das ondas.
+"Costões rochosos" is a subcategory of "ecossistemas costeiros". Is "Fauna marinha" typically understood as a subcategory of "Costões rochosos"? Answer only with yes or no.
+No
+2024-05-15 21:24:40,366 INFO Task-234 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Bancos de ostras: Áreas onde as ostras se desenvolvem e formam colônias.
+Is "Bancos de ostras" a specific instance or a subcategory of the category "ecossistemas costeiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-15 21:24:40,447 INFO Task-243 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Tidal creeks: Canais que se enchem e esvaziam com as marés.
+Is "Tidal creeks" a specific instance or a subcategory of the category "ecossistemas costeiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-15 21:24:40,796 INFO Task-245 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Tidal flats: Planícies costeiras que são inundadas e expostas regularmente pelas marés.
+Is "Tidal flats" a part or a subcategory of the category "ecossistemas costeiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-15 21:24:40,848 INFO Task-240 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Mangrove forests: Florestas de mangue que crescem em áreas costeiras de água salgada.
+Is "Mangrove forests" a part or a subcategory of the category "ecossistemas costeiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-15 21:24:40,877 INFO Task-244 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Seagrass beds: Pradarias submarinas de plantas aquáticas.
+Is "Seagrass beds" a part or a subcategory of the category "ecossistemas costeiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-15 21:24:40,999 INFO Task-237 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Marismas: Áreas úmidas costeiras com vegetação herbácea.
+Is "Marismas" a part or a subcategory of the category "ecossistemas costeiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-15 21:24:41,368 INFO Task-235 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Etc: Etc is a subcategory of Estuários. Áreas onde rios encontram o mar, formando um ambiente de transição entre água doce e salgada.
+Can "Etc" be considered a subcategory of "ecossistemas costeiros"? Answer only with yes or no.
+No
+2024-05-15 21:24:41,648 INFO Task-241 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Estuários: Áreas onde rios encontram o mar, formando um ambiente de transição entre água doce e salgada.
+Mudflats: Planícies de lama expostas durante a maré baixa.
+"Estuários" is a subcategory of "ecossistemas costeiros". Is "Mudflats" typically understood as a subcategory of "Estuários"? Answer only with yes or no.
+No
+2024-05-15 21:24:41,693 INFO Task-242 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Estuários: Áreas onde rios encontram o mar, formando um ambiente de transição entre água doce e salgada.
+Salt marshes: Áreas úmidas costeiras dominadas por vegetação tolerante ao sal.
+"Estuários" is a subcategory of "ecossistemas costeiros". Is "Salt marshes" typically understood as a subcategory of "Estuários"? Answer only with yes or no.
+No
+2024-05-15 21:24:41,805 INFO Task-235 Info:
+Etc renamed to Ambientes de transição
+2024-05-15 21:24:41,994 INFO Task-239 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Estuários: Áreas onde rios encontram o mar, formando um ambiente de transição entre água doce e salgada.
+Zonas de transição: Áreas de transição entre ambientes terrestres e aquáticos.
+"Estuários" is a subcategory of "ecossistemas costeiros". Is "Zonas de transição" typically understood as a subcategory of "Estuários"? Answer only with yes or no.
+No
+2024-05-15 21:24:42,015 INFO Task-236 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Estuários: Áreas onde rios encontram o mar, formando um ambiente de transição entre água doce e salgada.
+Manguezais: Ecossistemas costeiros tropicais e subtropicais caracterizados por árvores adaptadas a ambientes salinos.
+"Estuários" is a subcategory of "ecossistemas costeiros". Is "Manguezais" typically understood as a subcategory of "Estuários"? Answer only with yes or no.
+No
+2024-05-15 21:24:42,175 INFO Task-241 Info:
+Mudflats renamed to Lamaçais
+2024-05-15 21:24:42,179 INFO Task-242 Info:
+Salt marshes renamed to Manguezais
+2024-05-15 21:24:42,557 INFO Task-239 Info:
+Zonas de transição renamed to Zonas de transição
+2024-05-15 21:24:42,853 INFO Task-242 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Estuários: Áreas onde rios encontram o mar, formando um ambiente de transição entre água doce e salgada.
+Manguezais: Áreas úmidas costeiras dominadas por vegetação tolerante ao sal.
+"Estuários" is a subcategory of "ecossistemas costeiros". Is "Manguezais" typically understood as a subcategory of "Estuários"? Answer only with yes or no.
+No
+2024-05-15 21:24:43,068 INFO Task-241 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Estuários: Áreas onde rios encontram o mar, formando um ambiente de transição entre água doce e salgada.
+Lamaçais: Planícies de lama expostas durante a maré baixa.
+"Estuários" is a subcategory of "ecossistemas costeiros". Is "Lamaçais" typically understood as a subcategory of "Estuários"? Answer only with yes or no.
+No
+2024-05-15 21:24:44,026 INFO Task-236 Info:
+Manguezais renamed to Manguezais
+2024-05-15 21:24:49,535 INFO Task-1 Prompt:
+"X" is a subcategory of "Y" if every element of "X" is also an element of "Y". In other words, "X" is a subset of "Y". This means the more general term of them is "Y". "Y" is a more general category that includes "X" as a subcategory.
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Ambientes de transição: Etc is a subcategory of Estuários. Áreas onde rios encontram o mar, formando um ambiente de transição entre água doce e salgada.
+Zonas de influência estuarina: Regiões adjacentes aos estuários que são influenciadas por suas características.
+Consider the terms "Ambientes de transição" and "Zonas de influência estuarina". Which of the terms is a subcategory of the other one? Answer in the following scheme: [[X]] is a subcategory of [[Y]].
+[[Ambientes de transição]] is a subcategory of [[Zonas de influência estuarina]].
+2024-05-15 21:24:59,638 INFO Task-318 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Zonas de maré: Áreas costeiras sujeitas a variações de maré.
+Is "Zonas de maré" a specific instance or a subcategory of the category "ecossistemas costeiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-15 21:24:59,654 INFO Task-314 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Lagoas hipersalinas: Lagoas costeiras com altas concentrações de sal.
+Is "Lagoas hipersalinas" a specific instance or a subcategory of the category "ecossistemas costeiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-15 21:24:59,717 INFO Task-311 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Salinas: Áreas onde a água do mar é evaporada para produzir sal.
+Is "Salinas" a specific instance or a subcategory of the category "ecossistemas costeiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-15 21:25:00,840 INFO Task-308 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Lagoas costeiras: Corpos d'água rasos e geralmente conectados ao mar, com influência das marés.
+Lagunas: Corpos d'água costeiros rasos, separados do mar por barreiras de areia ou recifes.
+"Lagoas costeiras" is a subcategory of "ecossistemas costeiros". Is "Lagunas" typically understood as a subcategory of "Lagoas costeiras"? Answer only with yes or no.
+No
+2024-05-15 21:25:00,924 INFO Task-313 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Lagoas costeiras: Corpos d'água rasos e geralmente conectados ao mar, com influência das marés.
+Lagoas de água doce: Lagoas costeiras com água doce.
+"Lagoas costeiras" is a subcategory of "ecossistemas costeiros". Is "Lagoas de água doce" typically understood as a subcategory of "Lagoas costeiras"? Answer only with yes or no.
+No
+2024-05-15 21:25:00,924 INFO Task-309 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Lagoas costeiras: Corpos d'água rasos e geralmente conectados ao mar, com influência das marés.
+Manguezais: Ecossistemas costeiros caracterizados por vegetação adaptada a condições de água salgada.
+"Lagoas costeiras" is a subcategory of "ecossistemas costeiros". Is "Manguezais" typically understood as a subcategory of "Lagoas costeiras"? Answer only with yes or no.
+No
+2024-05-15 21:25:01,350 INFO Task-310 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Lagoas costeiras: Corpos d'água rasos e geralmente conectados ao mar, com influência das marés.
+Marismas: Áreas úmidas costeiras com vegetação adaptada a solos encharcados.
+"Lagoas costeiras" is a subcategory of "ecossistemas costeiros". Is "Marismas" typically understood as a subcategory of "Lagoas costeiras"? Answer only with yes or no.
+No
+2024-05-15 21:25:01,431 INFO Task-309 Info:
+Manguezais renamed to Manguezais
+2024-05-15 21:25:01,447 INFO Task-308 Info:
+Lagunas renamed to Lagoas costeiras barreiras
+2024-05-15 21:25:01,478 INFO Task-313 Info:
+Lagoas de água doce renamed to Lagoas costeiras de água doce
+2024-05-15 21:25:01,830 INFO Task-310 Info:
+Marismas renamed to Manguezais
+2024-05-15 21:25:02,675 INFO Task-310 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Lagoas costeiras: Corpos d'água rasos e geralmente conectados ao mar, com influência das marés.
+Manguezais: Áreas úmidas costeiras com vegetação adaptada a solos encharcados.
+"Lagoas costeiras" is a subcategory of "ecossistemas costeiros". Is "Manguezais" typically understood as a subcategory of "Lagoas costeiras"? Answer only with yes or no.
+No
+2024-05-15 21:25:02,877 INFO Task-307 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Lagoas costeiras: Corpos d'água rasos e geralmente conectados ao mar, com influência das marés.
+Estuários: Ambientes aquáticos onde água doce de rios se mistura com água salgada do mar.
+"Lagoas costeiras" is a subcategory of "ecossistemas costeiros". Is "Estuários" typically understood as a subcategory of "Lagoas costeiras"? Answer only with yes or no.
+No
+2024-05-15 21:25:03,244 INFO Task-307 Info:
+Estuários renamed to Estuários
+2024-05-15 21:25:20,214 INFO Task-501 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Fazonas de manguezal vermelho: Descreve as áreas de manguezal dominadas por espécies de mangue vermelho.
+Is "Fazonas de manguezal vermelho" a specific instance or a subcategory of the category "ecossistemas costeiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-15 21:25:21,254 INFO Task-497 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Manguezais: Ecossistemas de transição entre ambientes terrestres e marinhos, caracterizados por vegetação adaptada à salinidade.
+Avfauna: Refere-se à fauna presente nos manguezais.
+"Manguezais" is a subcategory of "ecossistemas costeiros". Is "Avfauna" typically understood as a subcategory of "Manguezais"? Answer only with yes or no.
+No
+2024-05-15 21:25:21,258 INFO Task-500 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Avsedimentos: Estuda os sedimentos presentes nos manguezais.
+Can "Avsedimentos" be considered a subcategory of "ecossistemas costeiros"? Answer only with yes or no.
+No
+2024-05-15 21:25:21,386 INFO Task-499 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Avhidrodinâmica: Estuda os processos hidrodinâmicos que ocorrem nos manguezais.
+Can "Avhidrodinâmica" be considered a subcategory of "ecossistemas costeiros"? Answer only with yes or no.
+No
+2024-05-15 21:25:21,669 INFO Task-500 Info:
+Avsedimentos renamed to Geoquímica de manguezais
+2024-05-15 21:25:21,689 INFO Task-497 Info:
+Avfauna renamed to Fauna dos manguezais
+2024-05-15 21:25:21,694 INFO Task-498 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Manguezais: Ecossistemas de transição entre ambientes terrestres e marinhos, caracterizados por vegetação adaptada à salinidade.
+Avflora: Refere-se à flora característica dos manguezais.
+"Manguezais" is a subcategory of "ecossistemas costeiros". Is "Avflora" typically understood as a subcategory of "Manguezais"? Answer only with yes or no.
+No
+2024-05-15 21:25:21,962 INFO Task-499 Info:
+Avhidrodinâmica renamed to Hidrodinâmica dos manguezais
+2024-05-15 21:25:22,239 INFO Task-498 Info:
+Avflora renamed to Vegetação de manguezal
+2024-05-15 21:25:44,265 INFO Task-746 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Z manguezais: Zonas específicas de manguezais com características distintas.
+Is "Z manguezais" a specific instance or a subcategory of the category "ecossistemas costeiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-15 21:25:44,287 INFO Task-738 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Salinas: Áreas costeiras onde a água salgada é evaporada para produzir sal.
+Is "Salinas" a specific instance or a subcategory of the category "ecossistemas costeiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-15 21:25:44,342 INFO Task-740 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Função de filtro: Capacidade de remover poluentes da água.
+Is "Função de filtro" a specific instance or a subcategory of the category "ecossistemas costeiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-15 21:25:44,361 INFO Task-743 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Salinidade variável: Flutuações na quantidade de sal na água.
+Is "Salinidade variável" a specific instance or a subcategory of the category "ecossistemas costeiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-15 21:25:44,424 INFO Task-741 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Importância econômica: Valor econômico dos recursos naturais presentes.
+Is "Importância econômica" a specific instance or a subcategory of the category "ecossistemas costeiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-15 21:25:44,675 INFO Task-745 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Lodaçais: Áreas lamacentas com sedimentos orgânicos.
+Is "Lodaçais" a part or a subcategory of the category "ecossistemas costeiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-15 21:25:44,754 INFO Task-739 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Biodiversidade: Variedade de vida vegetal e animal em um ecossistema.
+Is "Biodiversidade" a part or a subcategory of the category "ecossistemas costeiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-15 21:25:44,881 INFO Task-742 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Inundação sazonal: Ocorrência periódica de inundações devido a marés ou chuvas.
+Is "Inundação sazonal" a part or a subcategory of the category "ecossistemas costeiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-15 21:25:45,524 INFO Task-736 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Marismas: Áreas úmidas costeiras com vegetação adaptada a condições de inundação e salinidade variável.
+Manguezais: Ecossistemas costeiros tropicais com vegetação adaptada a condições de salinidade.
+"Marismas" is a subcategory of "ecossistemas costeiros". Is "Manguezais" typically understood as a subcategory of "Marismas"? Answer only with yes or no.
+No
+2024-05-15 21:25:45,634 INFO Task-737 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Marismas: Áreas úmidas costeiras com vegetação adaptada a condições de inundação e salinidade variável.
+Pântanos de água doce: Áreas úmidas costeiras com água doce predominante.
+"Marismas" is a subcategory of "ecossistemas costeiros". Is "Pântanos de água doce" typically understood as a subcategory of "Marismas"? Answer only with yes or no.
+No
+2024-05-15 21:25:45,634 INFO Task-735 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Marismas: Áreas úmidas costeiras com vegetação adaptada a condições de inundação e salinidade variável.
+Estuários: Ambientes de transição entre rios e o mar.
+"Marismas" is a subcategory of "ecossistemas costeiros". Is "Estuários" typically understood as a subcategory of "Marismas"? Answer only with yes or no.
+No
+2024-05-15 21:25:46,009 INFO Task-735 Info:
+Estuários renamed to Estuários
+2024-05-15 21:25:46,024 INFO Task-737 Info:
+Pântanos de água doce renamed to Brejos
+2024-05-15 21:25:46,405 INFO Task-736 Info:
+Manguezais renamed to Manguezais
+2024-05-15 21:25:46,854 INFO Task-737 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Marismas: Áreas úmidas costeiras com vegetação adaptada a condições de inundação e salinidade variável.
+Brejos: Áreas úmidas costeiras com água doce predominante.
+"Marismas" is a subcategory of "ecossistemas costeiros". Is "Brejos" typically understood as a subcategory of "Marismas"? Answer only with yes or no.
+No
+2024-05-15 21:25:53,815 INFO Task-795 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Recifes de coral: Estruturas rochosas formadas por corais marinhos, que abrigam uma grande diversidade de vida marinha.
+Is "Recifes de coral" a specific instance or a subcategory of the category "ecossistemas costeiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-15 21:25:53,850 INFO Task-791 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Costões rochosos: São formações rochosas que se estendem ao longo da costa, muitas vezes com áreas de vegetação e habitats marinhos únicos.
+Is "Costões rochosos" a specific instance or a subcategory of the category "ecossistemas costeiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-15 21:25:55,005 INFO Task-794 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Praias: Faixas de areia ao longo da costa, sujeitas à ação das ondas e marés.
+Manguezais: Ecossistemas costeiros de transição entre ambientes terrestres e marinhos, com árvores adaptadas a condições salinas.
+"Praias" is a subcategory of "ecossistemas costeiros". Is "Manguezais" typically understood as a subcategory of "Praias"? Answer only with yes or no.
+No
+2024-05-15 21:25:55,090 INFO Task-793 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Praias: Faixas de areia ao longo da costa, sujeitas à ação das ondas e marés.
+Estuários: Áreas onde rios encontram o mar, caracterizadas por água salgada e doce, com influência das marés.
+"Praias" is a subcategory of "ecossistemas costeiros". Is "Estuários" typically understood as a subcategory of "Praias"? Answer only with yes or no.
+No
+2024-05-15 21:25:55,492 INFO Task-794 Info:
+Manguezais renamed to Manguezais
+2024-05-15 21:25:55,556 INFO Task-793 Info:
+Estuários renamed to Estuários
+2024-05-15 21:26:00,920 INFO Task-813 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Coral reef algae: Algae play a crucial role in coral reef ecosystems by providing food and oxygen through photosynthesis.
+Is "Coral reef algae" a specific instance or a subcategory of the category "ecossistemas costeiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-15 21:26:00,986 INFO Task-814 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Coral reef fish: Fish species that inhabit coral reefs, contributing to the biodiversity and functioning of the ecosystem.
+Is "Coral reef fish" a specific instance or a subcategory of the category "ecossistemas costeiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-15 21:26:01,004 INFO Task-816 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Coral reef symbiotic relationships: Symbiotic relationships between different organisms on coral reefs that are vital for their health and survival.
+Is "Coral reef symbiotic relationships" a specific instance or a subcategory of the category "ecossistemas costeiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-15 21:26:01,231 INFO Task-815 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Coral reef invertebrates: Invertebrates such as corals, sponges, and sea stars that are essential components of coral reef ecosystems.
+Is "Coral reef invertebrates" a part or a subcategory of the category "ecossistemas costeiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-15 21:26:11,457 INFO Task-837 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Planícies de maré: Áreas planas inundadas pelas marés, com vegetação adaptada às condições de salinidade.
+Is "Planícies de maré" a specific instance or a subcategory of the category "ecossistemas costeiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-15 21:26:11,500 INFO Task-839 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Salinas: Áreas onde a água salgada é evaporada para produzir sal, com impacto na biodiversidade local.
+Is "Salinas" a specific instance or a subcategory of the category "ecossistemas costeiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-15 21:26:11,502 INFO Task-838 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Pântanos de água doce: Zonas úmidas costeiras com água doce estagnada e vegetação adaptada a essas condições.
+Is "Pântanos de água doce" a specific instance or a subcategory of the category "ecossistemas costeiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-15 21:26:11,519 INFO Task-836 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Marismas: Áreas úmidas costeiras com vegetação herbácea e influência das marés.
+Is "Marismas" a specific instance or a subcategory of the category "ecossistemas costeiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-15 21:26:20,852 INFO Task-846 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Algas pardas: Grupo de algas que se caracterizam pela presença de pigmentos marrons.
+Is "Algas pardas" a specific instance or a subcategory of the category "ecossistemas costeiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-15 21:26:21,082 INFO Task-847 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Algas verdes: Algas que possuem clorofila e outros pigmentos verdes.
+Is "Algas verdes" a specific instance or a subcategory of the category "ecossistemas costeiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-15 21:26:21,174 INFO Task-848 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Algas vermelhas: Algas que contêm pigmentos vermelhos, como ficobiliproteínas.
+Is "Algas vermelhas" a specific instance or a subcategory of the category "ecossistemas costeiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-15 21:26:21,238 INFO Task-853 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Espécies de algas: Diversidade de espécies de algas presentes em comunidades.
+Is "Espécies de algas" a specific instance or a subcategory of the category "ecossistemas costeiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-15 21:26:21,369 INFO Task-849 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Macroalgas: Algas multicelulares que podem ser vistas a olho nu.
+Is "Macroalgas" a part or a subcategory of the category "ecossistemas costeiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-15 21:26:21,372 INFO Task-854 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Interações ecológicas: Relações e interações entre as algas e outros organismos em um ecossistema.
+Is "Interações ecológicas" a part or a subcategory of the category "ecossistemas costeiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-15 21:26:21,387 INFO Task-851 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Ciclos de vida: Estágios de desenvolvimento das algas, incluindo reprodução e crescimento.
+Is "Ciclos de vida" a part or a subcategory of the category "ecossistemas costeiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-15 21:26:21,390 INFO Task-850 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Microalgas: Algas unicelulares ou coloniais, geralmente microscópicas.
+Is "Microalgas" a part or a subcategory of the category "ecossistemas costeiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-15 21:26:21,513 INFO Task-852 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Distribuição geográfica: Distribuição das diferentes espécies de algas em diferentes regiões.
+Is "Distribuição geográfica" a part or a subcategory of the category "ecossistemas costeiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-15 21:26:22,076 INFO Task-855 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Comunidades de algas: Agrupamentos de algas que habitam os costões rochosos.
+Faalgas vermelhas: Faalgas vermelhas is a subcategory of Comunidades de algas. Agrupamentos de algas que habitam os costões rochosos.
+"Comunidades de algas" is a subcategory of "ecossistemas costeiros". Is "Faalgas vermelhas" typically understood as a subcategory of "Comunidades de algas"? Answer only with yes or no.
+No
+2024-05-15 21:26:22,546 INFO Task-855 Info:
+Faalgas vermelhas renamed to Faalgas vermelhas
+2024-05-15 21:26:29,163 INFO Task-865 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Anemones: Habitats where invertebrates such as sea anemones thrive.
+Is "Anemones" a specific instance or a subcategory of the category "ecossistemas costeiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-15 21:26:29,267 INFO Task-873 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Recifes de coral: Coral reef ecosystems that support diverse invertebrate populations.
+Is "Recifes de coral" a specific instance or a subcategory of the category "ecossistemas costeiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-15 21:26:29,341 INFO Task-869 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Cavernas marinhas: Underwater caves that serve as habitats for invertebrates.
+Is "Cavernas marinhas" a specific instance or a subcategory of the category "ecossistemas costeiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-15 21:26:29,678 INFO Task-868 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Mollusks: Environments where mollusks, such as clams and snails, can be found.
+Is "Mollusks" a part or a subcategory of the category "ecossistemas costeiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-15 21:26:29,886 INFO Task-867 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Echinoderms: Habitats suitable for echinoderms like sea stars and sea urchins.
+Is "Echinoderms" a part or a subcategory of the category "ecossistemas costeiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-15 21:26:30,084 INFO Task-866 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Crustaceans: Habitats that support various crustacean species.
+Can "Crustaceans" be considered a subcategory of "ecossistemas costeiros"? Answer only with yes or no.
+No
+2024-05-15 21:26:30,566 INFO Task-866 Info:
+Crustaceans renamed to Crustáceos
+2024-05-15 21:26:30,740 INFO Task-872 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Habitats de invertebrados: Ambientes que fornecem condições adequadas para a vida de invertebrados marinhos.
+Manguezais: Coastal habitats characterized by mangrove trees and invertebrate species.
+"Habitats de invertebrados" is a subcategory of "ecossistemas costeiros". Is "Manguezais" typically understood as a subcategory of "Habitats de invertebrados"? Answer only with yes or no.
+No
+2024-05-15 21:26:30,963 INFO Task-870 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Habitats de invertebrados: Ambientes que fornecem condições adequadas para a vida de invertebrados marinhos.
+Estuários: Transitional zones where invertebrates adapt to changing salinity levels.
+"Habitats de invertebrados" is a subcategory of "ecossistemas costeiros". Is "Estuários" typically understood as a subcategory of "Habitats de invertebrados"? Answer only with yes or no.
+No
+2024-05-15 21:26:31,164 INFO Task-872 Info:
+Manguezais renamed to Mangrove habitats
+2024-05-15 21:26:31,386 INFO Task-866 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Habitats de invertebrados: Ambientes que fornecem condições adequadas para a vida de invertebrados marinhos.
+Crustáceos: Habitats that support various crustacean species.
+"Habitats de invertebrados" is a subcategory of "ecossistemas costeiros". Is "Crustáceos" typically understood as a subcategory of "Habitats de invertebrados"? Answer only with yes or no.
+No
+2024-05-15 21:26:31,406 INFO Task-870 Info:
+Estuários renamed to Zonas de estuário
+2024-05-15 21:26:31,929 INFO Task-872 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Habitats de invertebrados: Ambientes que fornecem condições adequadas para a vida de invertebrados marinhos.
+Mangrove habitats: Coastal habitats characterized by mangrove trees and invertebrate species.
+"Habitats de invertebrados" is a subcategory of "ecossistemas costeiros". Is "Mangrove habitats" typically understood as a subcategory of "Habitats de invertebrados"? Answer only with yes or no.
+No
+2024-05-15 21:26:32,178 INFO Task-870 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Habitats de invertebrados: Ambientes que fornecem condições adequadas para a vida de invertebrados marinhos.
+Zonas de estuário: Transitional zones where invertebrates adapt to changing salinity levels.
+"Habitats de invertebrados" is a subcategory of "ecossistemas costeiros". Is "Zonas de estuário" typically understood as a subcategory of "Habitats de invertebrados"? Answer only with yes or no.
+No
+2024-05-15 21:26:43,773 INFO Task-929 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Peixes: Espécies de peixes que habitam os costões rochosos.
+Is "Peixes" a specific instance or a subcategory of the category "ecossistemas costeiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-15 21:26:43,860 INFO Task-920 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Comunidades de peixes costeiros: Agrupamentos de peixes que habitam as áreas costeiras próximas aos costões rochosos.
+Is "Comunidades de peixes costeiros" a specific instance or a subcategory of the category "ecossistemas costeiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-15 21:26:44,072 INFO Task-927 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Invertebrados: Animais sem espinha dorsal que vivem nos costões rochosos.
+Is "Invertebrados" a part or a subcategory of the category "ecossistemas costeiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-15 21:26:44,534 INFO Task-923 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Flora: Conjunto de plantas que crescem nos costões rochosos.
+Is "Flora" a part or a subcategory of the category "ecossistemas costeiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-15 21:26:44,597 INFO Task-926 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Aves marinhas: Espécies de aves que habitam ou visitam os costões rochosos.
+Can "Aves marinhas" be considered a subcategory of "ecossistemas costeiros"? Answer only with yes or no.
+No
+2024-05-15 21:26:44,734 INFO Task-918 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Comunidades de costões rochosos: Ambientes formados por estruturas rochosas que abrigam uma diversidade de organismos marinhos.
+Comunidades de aves marinhas: Conjuntos de aves que utilizam os costões rochosos como habitat.
+"Comunidades de costões rochosos" is a subcategory of "ecossistemas costeiros". Is "Comunidades de aves marinhas" typically understood as a subcategory of "Comunidades de costões rochosos"? Answer only with yes or no.
+No
+2024-05-15 21:26:44,949 INFO Task-924 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Comunidades de costões rochosos: Ambientes formados por estruturas rochosas que abrigam uma diversidade de organismos marinhos.
+Intertidal zone: Intertidal zone is a subcategory of Comunidades de costões rochosos. Ambientes formados por estruturas rochosas que abrigam uma diversidade de organismos marinhos.
+"Comunidades de costões rochosos" is a subcategory of "ecossistemas costeiros". Is "Intertidal zone" typically understood as a subcategory of "Comunidades de costões rochosos"? Answer only with yes or no.
+No
+2024-05-15 21:26:45,047 INFO Task-926 Info:
+Aves marinhas renamed to Aves costeiras
+2024-05-15 21:26:45,051 INFO Task-919 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Comunidades de costões rochosos: Ambientes formados por estruturas rochosas que abrigam uma diversidade de organismos marinhos.
+Comunidades de invertebrados marinhos: Diversidade de invertebrados marinhos que vivem nos costões rochosos.
+"Comunidades de costões rochosos" is a subcategory of "ecossistemas costeiros". Is "Comunidades de invertebrados marinhos" typically understood as a subcategory of "Comunidades de costões rochosos"? Answer only with yes or no.
+No
+2024-05-15 21:26:45,202 INFO Task-928 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Macroalgas: Algas de grande porte que crescem nos costões rochosos.
+Can "Macroalgas" be considered a subcategory of "ecossistemas costeiros"? Answer only with yes or no.
+No
+2024-05-15 21:26:45,212 INFO Task-918 Info:
+Comunidades de aves marinhas renamed to Aves costeiras
+2024-05-15 21:26:45,385 INFO Task-924 Info:
+Intertidal zone renamed to Zona entremarés
+2024-05-15 21:26:45,405 INFO Task-926 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Aves costeiras: Espécies de aves que habitam ou visitam os costões rochosos.
+Can "Aves costeiras" be considered a subcategory of "ecossistemas costeiros"? Answer only with yes or no.
+No
+2024-05-15 21:26:45,573 INFO Task-919 Info:
+Comunidades de invertebrados marinhos renamed to Fauna de invertebrados marinhos
+2024-05-15 21:26:45,914 INFO Task-921 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Comunidades de costões rochosos: Ambientes formados por estruturas rochosas que abrigam uma diversidade de organismos marinhos.
+Biodiversity: Biodiversity is a subcategory of Comunidades de costões rochosos. Ambientes formados por estruturas rochosas que abrigam uma diversidade de organismos marinhos.
+"Comunidades de costões rochosos" is a subcategory of "ecossistemas costeiros". Is "Biodiversity" typically understood as a subcategory of "Comunidades de costões rochosos"? Answer only with yes or no.
+No
+2024-05-15 21:26:45,946 INFO Task-918 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Comunidades de costões rochosos: Ambientes formados por estruturas rochosas que abrigam uma diversidade de organismos marinhos.
+Aves costeiras: Conjuntos de aves que utilizam os costões rochosos como habitat.
+"Comunidades de costões rochosos" is a subcategory of "ecossistemas costeiros". Is "Aves costeiras" typically understood as a subcategory of "Comunidades de costões rochosos"? Answer only with yes or no.
+No
+2024-05-15 21:26:46,216 INFO Task-919 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Comunidades de costões rochosos: Ambientes formados por estruturas rochosas que abrigam uma diversidade de organismos marinhos.
+Fauna de invertebrados marinhos: Diversidade de invertebrados marinhos que vivem nos costões rochosos.
+"Comunidades de costões rochosos" is a subcategory of "ecossistemas costeiros". Is "Fauna de invertebrados marinhos" typically understood as a subcategory of "Comunidades de costões rochosos"? Answer only with yes or no.
+No
+2024-05-15 21:26:46,532 INFO Task-921 Info:
+Biodiversity renamed to Biodiversidade dos costões rochosos
+2024-05-15 21:26:46,640 INFO Task-928 Info:
+Macroalgas renamed to Algas macroscópicas
+2024-05-15 21:26:46,968 INFO Task-928 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Algas macroscópicas: Algas de grande porte que crescem nos costões rochosos.
+Can "Algas macroscópicas" be considered a subcategory of "ecossistemas costeiros"? Answer only with yes or no.
+No
+2024-05-15 21:26:59,793 INFO Task-1041 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Duna parabólica: Tipo específico de duna móvel com forma de "U" invertido.
+Is "Duna parabólica" a specific instance or a subcategory of the category "ecossistemas costeiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-15 21:26:59,810 INFO Task-1040 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Duna móvel: Dunas que se deslocam devido à ação do vento.
+Is "Duna móvel" a specific instance or a subcategory of the category "ecossistemas costeiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-15 21:27:00,327 INFO Task-1043 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Processos de formação de dunas: Mecanismos que contribuem para a formação e evolução das dunas.
+Is "Processos de formação de dunas" a part or a subcategory of the category "ecossistemas costeiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-15 21:27:00,329 INFO Task-1039 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Duna fixa: Dunas que possuem vegetação que impede sua movimentação.
+Is "Duna fixa" a part or a subcategory of the category "ecossistemas costeiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-15 21:27:00,389 INFO Task-1038 Prompt:
+ecossistemas costeiros: Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.
+Duna embrionária: Estágio inicial de formação de dunas.
+Is "Duna embrionária" a part or a subcategory of the category "ecossistemas costeiros"? Answer only with "Part" or "Subcategory".
+Part

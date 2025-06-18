@@ -1,0 +1,300 @@
+2024-05-16 02:14:21,721 INFO Task-6 Prompt:
+Ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados próximos ao litoral do Brasil, que incluem manguezais, praias, costões rochosos, entre outros.
+Praias: Áreas de transição entre o ambiente terrestre e o mar, com características específicas de areia e vegetação.
+Is "Praias" a specific instance or a subcategory of the category "Ecossistemas costeiros brasileiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-16 02:14:21,752 INFO Task-4 Prompt:
+Ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados próximos ao litoral do Brasil, que incluem manguezais, praias, costões rochosos, entre outros.
+Ilhas costeiras: Ilhas localizadas próximas à costa, que possuem ecossistemas específicos.
+Is "Ilhas costeiras" a specific instance or a subcategory of the category "Ecossistemas costeiros brasileiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-16 02:14:22,142 INFO Task-3 Prompt:
+Ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados próximos ao litoral do Brasil, que incluem manguezais, praias, costões rochosos, entre outros.
+Costões rochosos: Ambientes costeiros caracterizados por formações rochosas que se estendem até o mar.
+Is "Costões rochosos" a part or a subcategory of the category "Ecossistemas costeiros brasileiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-16 02:14:28,704 INFO Task-25 Prompt:
+Ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados próximos ao litoral do Brasil, que incluem manguezais, praias, costões rochosos, entre outros.
+Importância econômica: Relaciona-se com os benefícios econômicos que os manguezais proporcionam, como pesca e turismo.
+Is "Importância econômica" a part or a subcategory of the category "Ecossistemas costeiros brasileiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-16 02:14:28,704 INFO Task-22 Prompt:
+Ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados próximos ao litoral do Brasil, que incluem manguezais, praias, costões rochosos, entre outros.
+Conservação: Refere-se às ações e medidas para proteger e preservar os manguezais.
+Is "Conservação" a part or a subcategory of the category "Ecossistemas costeiros brasileiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-16 02:14:28,806 INFO Task-23 Prompt:
+Ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados próximos ao litoral do Brasil, que incluem manguezais, praias, costões rochosos, entre outros.
+Fauna: Diz respeito aos animais que habitam os manguezais e sua importância para o ecossistema.
+Is "Fauna" a part or a subcategory of the category "Ecossistemas costeiros brasileiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-16 02:14:38,195 INFO Task-37 Prompt:
+Ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados próximos ao litoral do Brasil, que incluem manguezais, praias, costões rochosos, entre outros.
+Dunas: Acúmulo de areia formado pela ação do vento.
+Is "Dunas" a specific instance or a subcategory of the category "Ecossistemas costeiros brasileiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-16 02:14:38,493 INFO Task-42 Prompt:
+Ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados próximos ao litoral do Brasil, que incluem manguezais, praias, costões rochosos, entre outros.
+Hidrografia: Conjunto de corpos d'água presentes no ecossistema de restinga.
+Is "Hidrografia" a part or a subcategory of the category "Ecossistemas costeiros brasileiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-16 02:14:38,525 INFO Task-38 Prompt:
+Ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados próximos ao litoral do Brasil, que incluem manguezais, praias, costões rochosos, entre outros.
+Fauna associada: Conjunto de animais que habitam o ecossistema de restinga.
+Is "Fauna associada" a part or a subcategory of the category "Ecossistemas costeiros brasileiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-16 02:14:38,634 INFO Task-40 Prompt:
+Ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados próximos ao litoral do Brasil, que incluem manguezais, praias, costões rochosos, entre outros.
+Fauna: Conjunto de animais que habitam o ecossistema de restinga.
+Is "Fauna" a part or a subcategory of the category "Ecossistemas costeiros brasileiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-16 02:14:38,650 INFO Task-43 Prompt:
+Ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados próximos ao litoral do Brasil, que incluem manguezais, praias, costões rochosos, entre outros.
+Solo: Características e composição do solo encontrado nas restingas.
+Is "Solo" a part or a subcategory of the category "Ecossistemas costeiros brasileiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-16 02:14:39,607 INFO Task-46 Prompt:
+Ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados próximos ao litoral do Brasil, que incluem manguezais, praias, costões rochosos, entre outros.
+Restingas: Ecossistemas costeiros formados por vegetação de restinga, adaptada a condições de solo arenoso e salinidade.
+Processos de formação: Mecanismos que contribuem para a formação e evolução das restingas.
+"Restingas" is a subcategory of "Ecossistemas costeiros brasileiros". Is "Processos de formação" typically understood as a subcategory of "Restingas"? Answer only with yes or no.
+No
+2024-05-16 02:14:40,173 INFO Task-46 Info:
+Processos de formação renamed to Dinâmica costeira
+2024-05-16 02:14:40,646 INFO Task-46 Prompt:
+Ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados próximos ao litoral do Brasil, que incluem manguezais, praias, costões rochosos, entre outros.
+Dinâmica costeira: Mecanismos que contribuem para a formação e evolução das restingas.
+Can "Dinâmica costeira" be considered a subcategory of "Ecossistemas costeiros brasileiros"? Answer only with yes or no.
+No
+2024-05-16 02:15:00,540 INFO Task-93 Prompt:
+Ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados próximos ao litoral do Brasil, que incluem manguezais, praias, costões rochosos, entre outros.
+Algas: Organismos fotossintetizantes que podem ser unicelulares ou multicelulares.
+Is "Algas" a specific instance or a subcategory of the category "Ecossistemas costeiros brasileiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-16 02:15:00,681 INFO Task-103 Prompt:
+Ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados próximos ao litoral do Brasil, que incluem manguezais, praias, costões rochosos, entre outros.
+Espécies endêmicas: Plantas que são exclusivas de uma determinada região.
+Is "Espécies endêmicas" a specific instance or a subcategory of the category "Ecossistemas costeiros brasileiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-16 02:15:00,697 INFO Task-96 Prompt:
+Ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados próximos ao litoral do Brasil, que incluem manguezais, praias, costões rochosos, entre outros.
+Fungos: Organismos que se alimentam de matéria orgânica em decomposição.
+Is "Fungos" a specific instance or a subcategory of the category "Ecossistemas costeiros brasileiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-16 02:15:00,886 INFO Task-95 Prompt:
+Ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados próximos ao litoral do Brasil, que incluem manguezais, praias, costões rochosos, entre outros.
+Briófitas: Plantas pequenas que não possuem vasos condutores de seiva.
+Is "Briófitas" a specific instance or a subcategory of the category "Ecossistemas costeiros brasileiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-16 02:15:00,981 INFO Task-104 Prompt:
+Ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados próximos ao litoral do Brasil, que incluem manguezais, praias, costões rochosos, entre outros.
+Fauna: Conjunto de animais de uma determinada região.
+Is "Fauna" a part or a subcategory of the category "Ecossistemas costeiros brasileiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-16 02:15:00,996 INFO Task-97 Prompt:
+Ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados próximos ao litoral do Brasil, que incluem manguezais, praias, costões rochosos, entre outros.
+Pteridófitas: Plantas vasculares que se reproduzem por esporos.
+Is "Pteridófitas" a part or a subcategory of the category "Ecossistemas costeiros brasileiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-16 02:15:01,027 INFO Task-106 Prompt:
+Ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados próximos ao litoral do Brasil, que incluem manguezais, praias, costões rochosos, entre outros.
+Interações ecológicas: Relações entre as plantas e outros organismos em um ecossistema.
+Is "Interações ecológicas" a part or a subcategory of the category "Ecossistemas costeiros brasileiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-16 02:15:01,058 INFO Task-100 Prompt:
+Ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados próximos ao litoral do Brasil, que incluem manguezais, praias, costões rochosos, entre outros.
+Espécies halófitas: Plantas adaptadas para viver em ambientes salinos.
+Is "Espécies halófitas" a part or a subcategory of the category "Ecossistemas costeiros brasileiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-16 02:15:01,090 INFO Task-101 Prompt:
+Ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados próximos ao litoral do Brasil, que incluem manguezais, praias, costões rochosos, entre outros.
+Espécies herbáceas: Plantas sem caule lenhoso e que geralmente morrem no final da estação de crescimento.
+Is "Espécies herbáceas" a part or a subcategory of the category "Ecossistemas costeiros brasileiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-16 02:15:01,137 INFO Task-94 Prompt:
+Ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados próximos ao litoral do Brasil, que incluem manguezais, praias, costões rochosos, entre outros.
+Angiospermas: Plantas com flores e sementes protegidas por frutos.
+Is "Angiospermas" a part or a subcategory of the category "Ecossistemas costeiros brasileiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-16 02:15:01,325 INFO Task-105 Prompt:
+Ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados próximos ao litoral do Brasil, que incluem manguezais, praias, costões rochosos, entre outros.
+Importância ecológica: Papel das plantas na manutenção do equilíbrio dos ecossistemas.
+Is "Importância ecológica" a part or a subcategory of the category "Ecossistemas costeiros brasileiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-16 02:15:01,340 INFO Task-102 Prompt:
+Ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados próximos ao litoral do Brasil, que incluem manguezais, praias, costões rochosos, entre outros.
+Biodiversidade: Variedade de espécies de plantas em um determinado ambiente.
+Is "Biodiversidade" a part or a subcategory of the category "Ecossistemas costeiros brasileiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-16 02:15:01,498 INFO Task-99 Prompt:
+Ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados próximos ao litoral do Brasil, que incluem manguezais, praias, costões rochosos, entre outros.
+Espécies arbóreas: Plantas que possuem caule lenhoso e se ramificam.
+Can "Espécies arbóreas" be considered a subcategory of "Ecossistemas costeiros brasileiros"? Answer only with yes or no.
+No
+2024-05-16 02:15:01,953 INFO Task-98 Prompt:
+Ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados próximos ao litoral do Brasil, que incluem manguezais, praias, costões rochosos, entre outros.
+Flora: Engloba as plantas e vegetação característica dos manguezais.
+Espécies aquáticas: Plantas adaptadas para viver em ambientes aquáticos.
+"Flora" is a subcategory of "Ecossistemas costeiros brasileiros". Is "Espécies aquáticas" typically understood as a subcategory of "Flora"? Answer only with yes or no.
+No
+2024-05-16 02:15:02,000 INFO Task-99 Info:
+Espécies arbóreas renamed to Arbustos
+2024-05-16 02:15:02,376 INFO Task-99 Prompt:
+Ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados próximos ao litoral do Brasil, que incluem manguezais, praias, costões rochosos, entre outros.
+Arbustos: Plantas que possuem caule lenhoso e se ramificam.
+Can "Arbustos" be considered a subcategory of "Ecossistemas costeiros brasileiros"? Answer only with yes or no.
+No
+2024-05-16 02:15:02,407 INFO Task-98 Info:
+Espécies aquáticas renamed to Vegetação aquática
+2024-05-16 02:15:17,868 INFO Task-148 Prompt:
+Ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados próximos ao litoral do Brasil, que incluem manguezais, praias, costões rochosos, entre outros.
+Campos de restinga: Vegetação rasteira característica de áreas de restinga.
+Is "Campos de restinga" a specific instance or a subcategory of the category "Ecossistemas costeiros brasileiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-16 02:15:18,040 INFO Task-143 Prompt:
+Ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados próximos ao litoral do Brasil, que incluem manguezais, praias, costões rochosos, entre outros.
+Epífitas: Plantas que crescem sobre outras plantas, sem parasitá-las.
+Is "Epífitas" a part or a subcategory of the category "Ecossistemas costeiros brasileiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-16 02:15:18,181 INFO Task-146 Prompt:
+Ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados próximos ao litoral do Brasil, que incluem manguezais, praias, costões rochosos, entre outros.
+Vegetação arbustiva: Plantas lenhosas de pequeno porte.
+Is "Vegetação arbustiva" a part or a subcategory of the category "Ecossistemas costeiros brasileiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-16 02:15:18,228 INFO Task-153 Prompt:
+Ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados próximos ao litoral do Brasil, que incluem manguezais, praias, costões rochosos, entre outros.
+Vegetação de campos de restinga: Vegetação rasteira típica de campos de restinga.
+Is "Vegetação de campos de restinga" a part or a subcategory of the category "Ecossistemas costeiros brasileiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-16 02:15:18,322 INFO Task-149 Prompt:
+Ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados próximos ao litoral do Brasil, que incluem manguezais, praias, costões rochosos, entre outros.
+Dunas: Acúmulo de areia que pode abrigar vegetação adaptada.
+Is "Dunas" a part or a subcategory of the category "Ecossistemas costeiros brasileiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-16 02:15:18,416 INFO Task-155 Prompt:
+Ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados próximos ao litoral do Brasil, que incluem manguezais, praias, costões rochosos, entre outros.
+Vegetação herbácea: Plantas com caules não lenhosos.
+Is "Vegetação herbácea" a part or a subcategory of the category "Ecossistemas costeiros brasileiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-16 02:15:19,014 INFO Task-147 Prompt:
+Ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados próximos ao litoral do Brasil, que incluem manguezais, praias, costões rochosos, entre outros.
+Vegetação de restinga: Conjunto de plantas adaptadas às condições de solo arenoso e salinidade.
+Vegetação arbórea: Plantas lenhosas de grande porte.
+"Vegetação de restinga" is a subcategory of "Ecossistemas costeiros brasileiros". Is "Vegetação arbórea" typically understood as a subcategory of "Vegetação de restinga"? Answer only with yes or no.
+No
+2024-05-16 02:15:19,030 INFO Task-154 Prompt:
+Ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados próximos ao litoral do Brasil, que incluem manguezais, praias, costões rochosos, entre outros.
+Vegetação de restinga: Conjunto de plantas adaptadas às condições de solo arenoso e salinidade.
+Vegetação de dunas: Plantas adaptadas a condições de dunas.
+"Vegetação de restinga" is a subcategory of "Ecossistemas costeiros brasileiros". Is "Vegetação de dunas" typically understood as a subcategory of "Vegetação de restinga"? Answer only with yes or no.
+No
+2024-05-16 02:15:19,062 INFO Task-145 Prompt:
+Ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados próximos ao litoral do Brasil, que incluem manguezais, praias, costões rochosos, entre outros.
+Herbáceas: Plantas com caules não lenhosos.
+Can "Herbáceas" be considered a subcategory of "Ecossistemas costeiros brasileiros"? Answer only with yes or no.
+No
+2024-05-16 02:15:19,109 INFO Task-152 Prompt:
+Ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados próximos ao litoral do Brasil, que incluem manguezais, praias, costões rochosos, entre outros.
+Vegetação de restinga: Conjunto de plantas adaptadas às condições de solo arenoso e salinidade.
+Vegetação halófita: Plantas adaptadas a solos salinos.
+"Vegetação de restinga" is a subcategory of "Ecossistemas costeiros brasileiros". Is "Vegetação halófita" typically understood as a subcategory of "Vegetação de restinga"? Answer only with yes or no.
+No
+2024-05-16 02:15:19,250 INFO Task-144 Prompt:
+Ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados próximos ao litoral do Brasil, que incluem manguezais, praias, costões rochosos, entre outros.
+Vegetação de restinga: Conjunto de plantas adaptadas às condições de solo arenoso e salinidade.
+Formações pioneiras: Plantas que colonizam áreas degradadas ou recém-formadas.
+"Vegetação de restinga" is a subcategory of "Ecossistemas costeiros brasileiros". Is "Formações pioneiras" typically understood as a subcategory of "Vegetação de restinga"? Answer only with yes or no.
+No
+2024-05-16 02:15:19,454 INFO Task-147 Info:
+Vegetação arbórea renamed to Arbustos de restinga
+2024-05-16 02:15:19,582 INFO Task-152 Info:
+Vegetação halófita renamed to Vegetação halófila
+2024-05-16 02:15:19,610 INFO Task-154 Info:
+Vegetação de dunas renamed to Vegetação de dunas
+2024-05-16 02:15:19,611 INFO Task-145 Info:
+Herbáceas renamed to Vegetação herbácea
+2024-05-16 02:15:19,624 INFO Task-151 Prompt:
+Ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados próximos ao litoral do Brasil, que incluem manguezais, praias, costões rochosos, entre outros.
+Vegetação de restinga: Conjunto de plantas adaptadas às condições de solo arenoso e salinidade.
+Manguezais: Ecossistema costeiro de transição entre ambientes terrestres e aquáticos.
+"Vegetação de restinga" is a subcategory of "Ecossistemas costeiros brasileiros". Is "Manguezais" typically understood as a subcategory of "Vegetação de restinga"? Answer only with yes or no.
+No
+2024-05-16 02:15:19,717 INFO Task-144 Info:
+Formações pioneiras renamed to Pioneiras
+2024-05-16 02:15:20,016 INFO Task-151 Info:
+Manguezais renamed to Manguezal
+2024-05-16 02:15:20,404 INFO Task-145 Prompt:
+Ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados próximos ao litoral do Brasil, que incluem manguezais, praias, costões rochosos, entre outros.
+Vegetação de restinga: Conjunto de plantas adaptadas às condições de solo arenoso e salinidade.
+Vegetação herbácea: Plantas com caules não lenhosos.
+"Vegetação de restinga" is a subcategory of "Ecossistemas costeiros brasileiros". Is "Vegetação herbácea" typically understood as a subcategory of "Vegetação de restinga"? Answer only with yes or no.
+No
+2024-05-16 02:15:20,566 INFO Task-144 Prompt:
+Ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados próximos ao litoral do Brasil, que incluem manguezais, praias, costões rochosos, entre outros.
+Vegetação de restinga: Conjunto de plantas adaptadas às condições de solo arenoso e salinidade.
+Pioneiras: Plantas que colonizam áreas degradadas ou recém-formadas.
+"Vegetação de restinga" is a subcategory of "Ecossistemas costeiros brasileiros". Is "Pioneiras" typically understood as a subcategory of "Vegetação de restinga"? Answer only with yes or no.
+No
+2024-05-16 02:15:20,707 INFO Task-152 Prompt:
+Ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados próximos ao litoral do Brasil, que incluem manguezais, praias, costões rochosos, entre outros.
+Vegetação de restinga: Conjunto de plantas adaptadas às condições de solo arenoso e salinidade.
+Vegetação halófila: Plantas adaptadas a solos salinos.
+"Vegetação de restinga" is a subcategory of "Ecossistemas costeiros brasileiros". Is "Vegetação halófila" typically understood as a subcategory of "Vegetação de restinga"? Answer only with yes or no.
+No
+2024-05-16 02:15:20,723 INFO Task-151 Prompt:
+Ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados próximos ao litoral do Brasil, que incluem manguezais, praias, costões rochosos, entre outros.
+Vegetação de restinga: Conjunto de plantas adaptadas às condições de solo arenoso e salinidade.
+Manguezal: Ecossistema costeiro de transição entre ambientes terrestres e aquáticos.
+"Vegetação de restinga" is a subcategory of "Ecossistemas costeiros brasileiros". Is "Manguezal" typically understood as a subcategory of "Vegetação de restinga"? Answer only with yes or no.
+No
+2024-05-16 02:15:36,140 INFO Task-212 Prompt:
+Ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados próximos ao litoral do Brasil, que incluem manguezais, praias, costões rochosos, entre outros.
+Turismo desordenado: O turismo desordenado pode causar danos ambientais, como a degradação de ecossistemas costeiros sensíveis.
+Is "Turismo desordenado" a specific instance or a subcategory of the category "Ecossistemas costeiros brasileiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-16 02:15:36,167 INFO Task-209 Prompt:
+Ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados próximos ao litoral do Brasil, que incluem manguezais, praias, costões rochosos, entre outros.
+Poluição: A poluição, seja por resíduos sólidos, líquidos ou gasosos, pode causar danos significativos aos ecossistemas costeiros.
+Is "Poluição" a specific instance or a subcategory of the category "Ecossistemas costeiros brasileiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-16 02:15:36,187 INFO Task-207 Prompt:
+Ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados próximos ao litoral do Brasil, que incluem manguezais, praias, costões rochosos, entre outros.
+Turismo descontrolado: O turismo descontrolado pode causar impactos negativos nos ecossistemas costeiros, como a degradação de áreas naturais.
+Is "Turismo descontrolado" a specific instance or a subcategory of the category "Ecossistemas costeiros brasileiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-16 02:15:36,219 INFO Task-210 Prompt:
+Ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados próximos ao litoral do Brasil, que incluem manguezais, praias, costões rochosos, entre outros.
+Desmatamento: O desmatamento de áreas próximas aos ecossistemas costeiros pode levar à perda de biodiversidade e à degradação do solo.
+Is "Desmatamento" a specific instance or a subcategory of the category "Ecossistemas costeiros brasileiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-16 02:15:36,250 INFO Task-206 Prompt:
+Ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados próximos ao litoral do Brasil, que incluem manguezais, praias, costões rochosos, entre outros.
+Pesca predatória: A pesca predatória pode levar à diminuição da população de espécies marinhas, afetando o equilíbrio dos ecossistemas costeiros.
+Is "Pesca predatória" a specific instance or a subcategory of the category "Ecossistemas costeiros brasileiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-16 02:15:36,266 INFO Task-208 Prompt:
+Ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados próximos ao litoral do Brasil, que incluem manguezais, praias, costões rochosos, entre outros.
+Urbanização desordenada: A urbanização desordenada pode resultar na destruição de habitats naturais e na poluição dos ecossistemas costeiros.
+Is "Urbanização desordenada" a specific instance or a subcategory of the category "Ecossistemas costeiros brasileiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-16 02:15:36,282 INFO Task-205 Prompt:
+Ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados próximos ao litoral do Brasil, que incluem manguezais, praias, costões rochosos, entre outros.
+Mudanças climáticas: As mudanças climáticas podem afetar a biodiversidade e a estabilidade dos ecossistemas costeiros.
+Is "Mudanças climáticas" a specific instance or a subcategory of the category "Ecossistemas costeiros brasileiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-16 02:15:36,297 INFO Task-211 Prompt:
+Ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados próximos ao litoral do Brasil, que incluem manguezais, praias, costões rochosos, entre outros.
+Pressão urbana: A pressão urbana, decorrente do crescimento populacional, pode resultar em impactos negativos nos ecossistemas costeiros.
+Is "Pressão urbana" a specific instance or a subcategory of the category "Ecossistemas costeiros brasileiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-16 02:15:36,737 INFO Task-204 Prompt:
+Ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados próximos ao litoral do Brasil, que incluem manguezais, praias, costões rochosos, entre outros.
+Descarte inadequado de resíduos sólidos: A forma inadequada de descarte de resíduos sólidos pode impactar negativamente os ecossistemas costeiros.
+Is "Descarte inadequado de resíduos sólidos" a part or a subcategory of the category "Ecossistemas costeiros brasileiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-16 02:15:37,160 INFO Task-1 Prompt:
+Ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados próximos ao litoral do Brasil, que incluem manguezais, praias, costões rochosos, entre outros.
+Restingas: Ecossistemas costeiros formados por vegetação de restinga, adaptada a condições de solo arenoso e salinidade.
+Importância ecológica: Papel fundamental das restingas na manutenção da biodiversidade e equilíbrio ambiental.
+"Restingas" is a subcategory of "Ecossistemas costeiros brasileiros". "Importância ecológica" is a subcategory of "Restingas". Are there any generally accepted subcategories of "Importância ecológica"? Answer only with yes or no.
+No

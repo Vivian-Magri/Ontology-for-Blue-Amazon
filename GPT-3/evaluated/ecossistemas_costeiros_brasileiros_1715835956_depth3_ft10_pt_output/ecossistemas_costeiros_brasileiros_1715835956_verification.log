@@ -1,0 +1,576 @@
+2024-05-16 02:06:06,196 INFO Task-6 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Praias arenosas: Faixas de areia ao longo da costa, influenciadas pela ação das ondas e da maré.
+Is "Praias arenosas" a specific instance or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-16 02:06:06,196 INFO Task-7 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Recifes de coral: Estruturas formadas por organismos marinhos que abrigam uma grande diversidade de vida.
+Is "Recifes de coral" a specific instance or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-16 02:06:18,110 INFO Task-51 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Zonas de splash: Áreas dos costões atingidas pela água do mar durante a maré alta.
+Is "Zonas de splash" a specific instance or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-16 02:06:18,157 INFO Task-50 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Recifes: Estruturas rochosas que se formam nos costões devido à ação das ondas.
+Is "Recifes" a specific instance or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-16 02:06:18,189 INFO Task-49 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Piscinas naturais: Pequenas poças de água formadas nos costões rochosos.
+Is "Piscinas naturais" a specific instance or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-16 02:06:18,456 INFO Task-55 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Zonas de influência das marés: Áreas dos costões afetadas pelo movimento das marés.
+Is "Zonas de influência das marés" a specific instance or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-16 02:06:18,692 INFO Task-48 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Fauna associada: Conjunto de animais que habitam os costões rochosos.
+Is "Fauna associada" a part or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-16 02:06:19,290 INFO Task-47 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Costões rochosos: Ambientes costeiros caracterizados pela presença de rochas expostas à ação das ondas e da maré.
+Costões com presença de manguezais: Costões rochosos onde há a presença de manguezais.
+"Costões rochosos" is a subcategory of "ecossistemas costeiros brasileiros". Is "Costões com presença de manguezais" typically understood as a subcategory of "Costões rochosos"? Answer only with yes or no.
+No
+2024-05-16 02:06:19,401 INFO Task-54 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Costões rochosos: Ambientes costeiros caracterizados pela presença de rochas expostas à ação das ondas e da maré.
+Interações tróficas: Relações alimentares entre os seres vivos dos costões rochosos.
+"Costões rochosos" is a subcategory of "ecossistemas costeiros brasileiros". Is "Interações tróficas" typically understood as a subcategory of "Costões rochosos"? Answer only with yes or no.
+No
+2024-05-16 02:06:19,795 INFO Task-54 Info:
+Interações tróficas renamed to Cadeia alimentar
+2024-05-16 02:06:19,826 INFO Task-47 Info:
+Costões com presença de manguezais renamed to Costões rochosos manguezais
+2024-05-16 02:06:20,159 INFO Task-54 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Cadeia alimentar: Relações alimentares entre os seres vivos dos costões rochosos.
+Can "Cadeia alimentar" be considered a subcategory of "ecossistemas costeiros brasileiros"? Answer only with yes or no.
+No
+2024-05-16 02:06:20,614 INFO Task-47 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Costões rochosos: Ambientes costeiros caracterizados pela presença de rochas expostas à ação das ondas e da maré.
+Costões rochosos manguezais: Costões rochosos onde há a presença de manguezais.
+"Costões rochosos" is a subcategory of "ecossistemas costeiros brasileiros". Is "Costões rochosos manguezais" typically understood as a subcategory of "Costões rochosos"? Answer only with yes or no.
+No
+2024-05-16 02:06:31,698 INFO Task-109 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Ilhas barreiras: Ilhas localizadas próximas à costa que protegem áreas costeiras do impacto direto das ondas e correntes marítimas.
+Is "Ilhas barreiras" a specific instance or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-16 02:06:32,892 INFO Task-111 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Estuários: Zonas de transição entre rios e o mar, onde ocorre a mistura de água doce e salgada.
+Restingas: Ecossistemas costeiros formados por vegetação de pequeno porte, adaptada a solos arenosos e sujeitos à influência das marés.
+"Estuários" is a subcategory of "ecossistemas costeiros brasileiros". Is "Restingas" typically understood as a subcategory of "Estuários"? Answer only with yes or no.
+No
+2024-05-16 02:06:33,002 INFO Task-108 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Estuários: Zonas de transição entre rios e o mar, onde ocorre a mistura de água doce e salgada.
+Costões rochosos: Ambientes costeiros caracterizados por formações rochosas que se estendem até o mar.
+"Estuários" is a subcategory of "ecossistemas costeiros brasileiros". Is "Costões rochosos" typically understood as a subcategory of "Estuários"? Answer only with yes or no.
+No
+2024-05-16 02:06:33,159 INFO Task-110 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Estuários: Zonas de transição entre rios e o mar, onde ocorre a mistura de água doce e salgada.
+Manguezais: Ecossistemas de transição entre ambientes terrestres e marinhos, caracterizados por vegetação adaptada à alta salinidade.
+"Estuários" is a subcategory of "ecossistemas costeiros brasileiros". Is "Manguezais" typically understood as a subcategory of "Estuários"? Answer only with yes or no.
+No
+2024-05-16 02:06:33,363 INFO Task-111 Info:
+Restingas renamed to Manguezais
+2024-05-16 02:06:33,490 INFO Task-108 Info:
+Costões rochosos renamed to Costões rochosos
+2024-05-16 02:06:33,585 INFO Task-110 Info:
+Manguezais renamed to Manguezais
+2024-05-16 02:06:34,181 INFO Task-111 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Estuários: Zonas de transição entre rios e o mar, onde ocorre a mistura de água doce e salgada.
+Manguezais: Ecossistemas costeiros formados por vegetação de pequeno porte, adaptada a solos arenosos e sujeitos à influência das marés.
+"Estuários" is a subcategory of "ecossistemas costeiros brasileiros". Is "Manguezais" typically understood as a subcategory of "Estuários"? Answer only with yes or no.
+No
+2024-05-16 02:06:41,286 INFO Task-119 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Ecossistemas associados: Outros ambientes naturais que interagem com os manguezais.
+Is "Ecossistemas associados" a part or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-16 02:06:41,349 INFO Task-120 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Fauna: Conjunto de animais que habitam os manguezais.
+Is "Fauna" a part or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-16 02:06:41,349 INFO Task-122 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Micro-organismos: Organismos microscópicos presentes nos manguezais.
+Is "Micro-organismos" a part or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-16 02:06:41,380 INFO Task-121 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Flora: Conjunto de plantas que compõem a vegetação dos manguezais.
+Is "Flora" a part or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-16 02:06:41,380 INFO Task-118 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Macrofauna bentônica: Organismos de grande porte que habitam o fundo dos manguezais.
+Is "Macrofauna bentônica" a part or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-16 02:06:57,541 INFO Task-184 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Ilhas costeiras: Ilhas localizadas próximas à costa.
+Is "Ilhas costeiras" a specific instance or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-16 02:06:57,541 INFO Task-182 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Campos de altitude: Vegetação de restinga encontrada em áreas mais elevadas.
+Is "Campos de altitude" a specific instance or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-16 02:06:57,683 INFO Task-178 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Dunas: Acúmulos de areia formados pela ação do vento em regiões litorâneas.
+Is "Dunas" a specific instance or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-16 02:06:57,698 INFO Task-185 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Rest: Termo utilizado para se referir a áreas de restinga em geral.
+Is "Rest" a part or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-16 02:06:58,453 INFO Task-177 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Restingas: Ecossistemas costeiros de vegetação rasteira e arbustiva, adaptados a condições de solo arenoso e salinidade.
+Costões rochosos: Ambientes costeiros caracterizados pela presença de rochas expostas à ação das ondas do mar.
+"Restingas" is a subcategory of "ecossistemas costeiros brasileiros". Is "Costões rochosos" typically understood as a subcategory of "Restingas"? Answer only with yes or no.
+No
+2024-05-16 02:06:58,563 INFO Task-180 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Restingas: Ecossistemas costeiros de vegetação rasteira e arbustiva, adaptados a condições de solo arenoso e salinidade.
+Lagoas costeiras: Corpos d'água de água doce próximos ao mar, influenciados pela maré.
+"Restingas" is a subcategory of "ecossistemas costeiros brasileiros". Is "Lagoas costeiras" typically understood as a subcategory of "Restingas"? Answer only with yes or no.
+No
+2024-05-16 02:06:58,595 INFO Task-181 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Restingas: Ecossistemas costeiros de vegetação rasteira e arbustiva, adaptados a condições de solo arenoso e salinidade.
+Manguezais: Ecossistemas de transição entre ambientes terrestres e marinhos, caracterizados por vegetação adaptada à salinidade.
+"Restingas" is a subcategory of "ecossistemas costeiros brasileiros". Is "Manguezais" typically understood as a subcategory of "Restingas"? Answer only with yes or no.
+No
+2024-05-16 02:06:58,893 INFO Task-179 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Restingas: Ecossistemas costeiros de vegetação rasteira e arbustiva, adaptados a condições de solo arenoso e salinidade.
+Ilhas barreiras: Ilhas formadas pela deposição de sedimentos ao longo da costa.
+"Restingas" is a subcategory of "ecossistemas costeiros brasileiros". Is "Ilhas barreiras" typically understood as a subcategory of "Restingas"? Answer only with yes or no.
+No
+2024-05-16 02:06:59,034 INFO Task-181 Info:
+Manguezais renamed to Manguezais
+2024-05-16 02:06:59,097 INFO Task-177 Info:
+Costões rochosos renamed to Costões rochosos
+2024-05-16 02:06:59,160 INFO Task-180 Info:
+Lagoas costeiras renamed to Manguezais
+2024-05-16 02:06:59,583 INFO Task-179 Info:
+Ilhas barreiras renamed to Ilhas barreiras
+2024-05-16 02:06:59,882 INFO Task-180 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Restingas: Ecossistemas costeiros de vegetação rasteira e arbustiva, adaptados a condições de solo arenoso e salinidade.
+Manguezais: Corpos d'água de água doce próximos ao mar, influenciados pela maré.
+"Restingas" is a subcategory of "ecossistemas costeiros brasileiros". Is "Manguezais" typically understood as a subcategory of "Restingas"? Answer only with yes or no.
+No
+2024-05-16 02:07:14,317 INFO Task-277 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Zonas de distribuição: Zonas específicas onde as comunidades de algas se distribuem.
+Is "Zonas de distribuição" a specific instance or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-16 02:07:14,324 INFO Task-268 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Algas vermelhas: Grupo de algas que se caracterizam pela coloração vermelha.
+Is "Algas vermelhas" a specific instance or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-16 02:07:14,333 INFO Task-266 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Algas pardas: Grupo de algas que se caracterizam pela coloração marrom.
+Is "Algas pardas" a specific instance or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-16 02:07:14,348 INFO Task-276 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Flora associada: Outras plantas que estão associadas às comunidades de algas.
+Is "Flora associada" a specific instance or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-16 02:07:14,348 INFO Task-275 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Fauna associada: Organismos animais que estão associados às comunidades de algas.
+Is "Fauna associada" a specific instance or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-16 02:07:14,678 INFO Task-267 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Algas verdes: Grupo de algas que se caracterizam pela coloração verde.
+Is "Algas verdes" a part or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-16 02:07:14,725 INFO Task-269 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Macroalgas: Algas de grande porte.
+Is "Macroalgas" a part or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-16 02:07:14,740 INFO Task-274 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Interações ecológicas: Relações e interações entre as diferentes espécies de algas e outros organismos.
+Is "Interações ecológicas" a part or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-16 02:07:14,850 INFO Task-270 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Microalgas: Algas de pequeno porte.
+Is "Microalgas" a part or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-16 02:07:15,165 INFO Task-272 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Espécies de algas: Diversidade de espécies de algas presentes nas comunidades.
+Can "Espécies de algas" be considered a subcategory of "ecossistemas costeiros brasileiros"? Answer only with yes or no.
+No
+2024-05-16 02:07:15,447 INFO Task-271 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Comunidades de algas: Agrupamentos de algas que se desenvolvem nos costões rochosos.
+Distribuição geográfica: Distribuição das comunidades de algas em diferentes regiões geográficas.
+"Comunidades de algas" is a subcategory of "ecossistemas costeiros brasileiros". Is "Distribuição geográfica" typically understood as a subcategory of "Comunidades de algas"? Answer only with yes or no.
+No
+2024-05-16 02:07:15,463 INFO Task-273 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Comunidades de algas: Agrupamentos de algas que se desenvolvem nos costões rochosos.
+Fatores ambientais: Influência dos fatores ambientais na composição e distribuição das comunidades de algas.
+"Comunidades de algas" is a subcategory of "ecossistemas costeiros brasileiros". Is "Fatores ambientais" typically understood as a subcategory of "Comunidades de algas"? Answer only with yes or no.
+No
+2024-05-16 02:07:15,746 INFO Task-272 Info:
+Espécies de algas renamed to Biodiversidade de algas
+2024-05-16 02:07:15,981 INFO Task-271 Info:
+Distribuição geográfica renamed to Zonamento das algas
+2024-05-16 02:07:16,028 INFO Task-273 Info:
+Fatores ambientais renamed to Dinâmica das comunidades de algas
+2024-05-16 02:07:17,064 INFO Task-271 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Comunidades de algas: Agrupamentos de algas que se desenvolvem nos costões rochosos.
+Zonamento das algas: Distribuição das comunidades de algas em diferentes regiões geográficas.
+"Comunidades de algas" is a subcategory of "ecossistemas costeiros brasileiros". Is "Zonamento das algas" typically understood as a subcategory of "Comunidades de algas"? Answer only with yes or no.
+No
+2024-05-16 02:07:23,712 INFO Task-333 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Micro-organismos bentônicos: Organismos microscópicos que habitam o fundo do mar.
+Is "Micro-organismos bentônicos" a part or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-16 02:07:28,391 INFO Task-1 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Costões rochosos: Ambientes costeiros caracterizados pela presença de rochas expostas à ação das ondas e da maré.
+Flora adaptada: Vegetação que se adapta às condições específicas dos costões rochosos.
+"Costões rochosos" is a subcategory of "ecossistemas costeiros brasileiros". "Flora adaptada" is a subcategory of "Costões rochosos". Are there any generally accepted subcategories of "Flora adaptada"? Answer only with yes or no.
+No
+2024-05-16 02:07:39,225 INFO Task-393 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Espécies de aves de rapina: Aves predadoras que caçam ativamente suas presas.
+Is "Espécies de aves de rapina" a specific instance or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-16 02:07:39,256 INFO Task-398 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Migração: Deslocamentos sazonais das aves entre diferentes regiões.
+Is "Migração" a specific instance or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-16 02:07:39,350 INFO Task-394 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Espécies endêmicas: Aves que são exclusivas de uma determinada região geográfica.
+Is "Espécies endêmicas" a specific instance or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-16 02:07:39,712 INFO Task-387 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Aves de rapina: Aves predadoras que caçam suas presas para se alimentar.
+Is "Aves de rapina" a specific instance or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-16 02:07:39,727 INFO Task-396 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Alimentação: Aspectos relacionados à dieta e hábitos alimentares das aves.
+Is "Alimentação" a part or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-16 02:07:39,727 INFO Task-397 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Comportamento social: Interações sociais entre as aves, como a formação de grupos.
+Is "Comportamento social" a part or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-16 02:07:39,883 INFO Task-399 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Reprodução: Processo de reprodução das aves, incluindo a construção de ninhos e incubação dos ovos.
+Is "Reprodução" a part or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-16 02:07:40,028 INFO Task-395 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Espécies migratórias: Aves que realizam deslocamentos sazonais entre diferentes regiões.
+Is "Espécies migratórias" a part or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-16 02:07:40,068 INFO Task-390 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Aves residentes: Aves que permanecem o ano todo em uma determinada região.
+Can "Aves residentes" be considered a subcategory of "ecossistemas costeiros brasileiros"? Answer only with yes or no.
+No
+2024-05-16 02:07:40,195 INFO Task-391 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Espécies ameaçadas: Aves cuja sobrevivência está em risco devido a diversos fatores.
+Can "Espécies ameaçadas" be considered a subcategory of "ecossistemas costeiros brasileiros"? Answer only with yes or no.
+No
+2024-05-16 02:07:40,197 INFO Task-388 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Aves migratórias: Aves que realizam deslocamentos sazonais entre diferentes regiões.
+Can "Aves migratórias" be considered a subcategory of "ecossistemas costeiros brasileiros"? Answer only with yes or no.
+No
+2024-05-16 02:07:40,205 INFO Task-392 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Espécies de aves aquáticas: Aves adaptadas para viver em ambientes aquáticos.
+Can "Espécies de aves aquáticas" be considered a subcategory of "ecossistemas costeiros brasileiros"? Answer only with yes or no.
+No
+2024-05-16 02:07:40,211 INFO Task-386 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Aves aquáticas: Grupo de aves que têm adaptações para viver em ambientes aquáticos.
+Can "Aves aquáticas" be considered a subcategory of "ecossistemas costeiros brasileiros"? Answer only with yes or no.
+No
+2024-05-16 02:07:40,337 INFO Task-389 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Aves nidificantes: Aves que constroem ninhos para reprodução e incubação dos ovos.
+Can "Aves nidificantes" be considered a subcategory of "ecossistemas costeiros brasileiros"? Answer only with yes or no.
+No
+2024-05-16 02:07:40,509 INFO Task-390 Info:
+Aves residentes renamed to Residentes
+2024-05-16 02:07:40,687 INFO Task-391 Info:
+Espécies ameaçadas renamed to Aves ameaçadas
+2024-05-16 02:07:40,699 INFO Task-388 Info:
+Aves migratórias renamed to Aves migratórias
+2024-05-16 02:07:40,702 INFO Task-386 Info:
+Aves aquáticas renamed to Aves aquáticas
+2024-05-16 02:07:40,854 INFO Task-389 Info:
+Aves nidificantes renamed to Aves nidificantes
+2024-05-16 02:07:40,863 INFO Task-390 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Residentes: Aves que permanecem o ano todo em uma determinada região.
+Can "Residentes" be considered a subcategory of "ecossistemas costeiros brasileiros"? Answer only with yes or no.
+No
+2024-05-16 02:07:40,872 INFO Task-392 Info:
+Espécies de aves aquáticas renamed to Aves aquáticas
+2024-05-16 02:07:40,996 INFO Task-391 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Aves ameaçadas: Aves cuja sobrevivência está em risco devido a diversos fatores.
+Can "Aves ameaçadas" be considered a subcategory of "ecossistemas costeiros brasileiros"? Answer only with yes or no.
+No
+2024-05-16 02:07:41,247 INFO Task-392 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Aves aquáticas: Aves adaptadas para viver em ambientes aquáticos.
+Can "Aves aquáticas" be considered a subcategory of "ecossistemas costeiros brasileiros"? Answer only with yes or no.
+No
+2024-05-16 02:07:46,429 INFO Task-413 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Aves: Grupo de animais vertebrados que possuem penas, asas e bicos.
+Is "Aves" a specific instance or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-16 02:07:46,460 INFO Task-416 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Peixes: Grupo de animais vertebrados que vivem na água e possuem brânquias para respiração.
+Is "Peixes" a specific instance or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-16 02:07:46,511 INFO Task-417 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Répteis: Grupo de animais vertebrados que possuem escamas e geralmente se reproduzem por ovos.
+Is "Répteis" a specific instance or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-16 02:07:46,601 INFO Task-415 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Moluscos: Grupo de animais invertebrados que possuem conchas calcárias ou corpos moles.
+Is "Moluscos" a specific instance or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-16 02:07:46,978 INFO Task-414 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Crustáceos: Grupo de animais invertebrados que possuem um exoesqueleto resistente.
+Is "Crustáceos" a part or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-16 02:07:47,325 INFO Task-1 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Manguezais: Ecossistemas costeiros de transição entre ambientes terrestres e aquáticos, com vegetação adaptada à salinidade.
+Flora manguezal: Vegetação característica dos manguezais, adaptada à salinidade.
+"Manguezais" is a subcategory of "ecossistemas costeiros brasileiros". "Flora manguezal" is a subcategory of "Manguezais". Are there any generally accepted subcategories of "Flora manguezal"? Answer only with yes or no.
+No
+2024-05-16 02:07:59,102 INFO Task-431 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Palmeiras: Plantas da família das palmeiras comuns em ambientes de restinga.
+Is "Palmeiras" a specific instance or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-16 02:07:59,140 INFO Task-428 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Clusias: Gênero de plantas comuns em ambientes de restinga.
+Is "Clusias" a specific instance or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-16 02:07:59,228 INFO Task-432 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Campos de restinga: Vegetação rasteira presente em áreas de restinga.
+Is "Campos de restinga" a specific instance or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-16 02:07:59,228 INFO Task-427 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Bromélias: Plantas adaptadas a ambientes úmidos e com capacidade de reter água.
+Is "Bromélias" a specific instance or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-16 02:07:59,510 INFO Task-434 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Vegetação de brejos: Vegetação adaptada a áreas úmidas e pantanosas.
+Is "Vegetação de brejos" a part or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-16 02:08:00,280 INFO Task-433 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Florestas de restinga: Formações florestais adaptadas a condições de solo arenoso e salinidade.
+Manguezais: Ecossistemas costeiros de transição entre ambientes terrestres e aquáticos.
+"Florestas de restinga" is a subcategory of "ecossistemas costeiros brasileiros". Is "Manguezais" typically understood as a subcategory of "Florestas de restinga"? Answer only with yes or no.
+No
+2024-05-16 02:08:00,280 INFO Task-424 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Florestas de restinga: Formações florestais adaptadas a condições de solo arenoso e salinidade.
+Floresta de restinga de restinga de mangue: Floresta de restinga de restinga de mangue is a subcategory of Florestas de restinga. Formações florestais adaptadas a condições de solo arenoso e salinidade.
+"Florestas de restinga" is a subcategory of "ecossistemas costeiros brasileiros". Is "Floresta de restinga de restinga de mangue" typically understood as a subcategory of "Florestas de restinga"? Answer only with yes or no.
+No
+2024-05-16 02:08:00,358 INFO Task-435 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Florestas de restinga: Formações florestais adaptadas a condições de solo arenoso e salinidade.
+Vegetação de dunas: Vegetação adaptada a condições de solo arenoso e instável.
+"Florestas de restinga" is a subcategory of "ecossistemas costeiros brasileiros". Is "Vegetação de dunas" typically understood as a subcategory of "Florestas de restinga"? Answer only with yes or no.
+No
+2024-05-16 02:08:00,405 INFO Task-430 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Florestas de restinga: Formações florestais adaptadas a condições de solo arenoso e salinidade.
+Formações arbóreas: Vegetação composta principalmente por árvores.
+"Florestas de restinga" is a subcategory of "ecossistemas costeiros brasileiros". Is "Formações arbóreas" typically understood as a subcategory of "Florestas de restinga"? Answer only with yes or no.
+No
+2024-05-16 02:08:00,405 INFO Task-429 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Florestas de restinga: Formações florestais adaptadas a condições de solo arenoso e salinidade.
+Formações arbustivas: Vegetação caracterizada por arbustos.
+"Florestas de restinga" is a subcategory of "ecossistemas costeiros brasileiros". Is "Formações arbustivas" typically understood as a subcategory of "Florestas de restinga"? Answer only with yes or no.
+No
+2024-05-16 02:08:00,469 INFO Task-425 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Florestas de restinga: Formações florestais adaptadas a condições de solo arenoso e salinidade.
+Floresta de restinga de restinga de planície: Floresta de restinga de restinga de planície is a subcategory of Florestas de restinga. Formações florestais adaptadas a condições de solo arenoso e salinidade.
+"Florestas de restinga" is a subcategory of "ecossistemas costeiros brasileiros". Is "Floresta de restinga de restinga de planície" typically understood as a subcategory of "Florestas de restinga"? Answer only with yes or no.
+No
+2024-05-16 02:08:00,516 INFO Task-436 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Florestas de restinga: Formações florestais adaptadas a condições de solo arenoso e salinidade.
+Vegetação de tabuleiros: Vegetação característica de áreas planas e ricas em nutrientes.
+"Florestas de restinga" is a subcategory of "ecossistemas costeiros brasileiros". Is "Vegetação de tabuleiros" typically understood as a subcategory of "Florestas de restinga"? Answer only with yes or no.
+No
+2024-05-16 02:08:00,735 INFO Task-433 Info:
+Manguezais renamed to Manguezais
+2024-05-16 02:08:00,814 INFO Task-435 Info:
+Vegetação de dunas renamed to Mata de restinga
+2024-05-16 02:08:00,829 INFO Task-424 Info:
+Floresta de restinga de restinga de mangue renamed to Manguezal
+2024-05-16 02:08:00,923 INFO Task-425 Info:
+Floresta de restinga de restinga de planície renamed to Restinga de planície
+2024-05-16 02:08:00,923 INFO Task-430 Info:
+Formações arbóreas renamed to Mata de restinga
+2024-05-16 02:08:00,923 INFO Task-423 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Florestas de restinga: Formações florestais adaptadas a condições de solo arenoso e salinidade.
+Floresta de restinga de restinga de dunas: Floresta de restinga de restinga de dunas is a subcategory of Florestas de restinga. Formações florestais adaptadas a condições de solo arenoso e salinidade.
+"Florestas de restinga" is a subcategory of "ecossistemas costeiros brasileiros". Is "Floresta de restinga de restinga de dunas" typically understood as a subcategory of "Florestas de restinga"? Answer only with yes or no.
+No
+2024-05-16 02:08:01,002 INFO Task-429 Info:
+Formações arbustivas renamed to Vegetação arbustiva de restinga
+2024-05-16 02:08:01,017 INFO Task-436 Info:
+Vegetação de tabuleiros renamed to Mata de restinga alta
+2024-05-16 02:08:01,552 INFO Task-424 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Florestas de restinga: Formações florestais adaptadas a condições de solo arenoso e salinidade.
+Manguezal: Floresta de restinga de restinga de mangue is a subcategory of Florestas de restinga. Formações florestais adaptadas a condições de solo arenoso e salinidade.
+"Florestas de restinga" is a subcategory of "ecossistemas costeiros brasileiros". Is "Manguezal" typically understood as a subcategory of "Florestas de restinga"? Answer only with yes or no.
+No
+2024-05-16 02:08:01,599 INFO Task-423 Info:
+Floresta de restinga de restinga de dunas renamed to Floresta de restinga de dunas
+2024-05-16 02:08:01,772 INFO Task-436 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Florestas de restinga: Formações florestais adaptadas a condições de solo arenoso e salinidade.
+Mata de restinga alta: Vegetação característica de áreas planas e ricas em nutrientes.
+"Florestas de restinga" is a subcategory of "ecossistemas costeiros brasileiros". Is "Mata de restinga alta" typically understood as a subcategory of "Florestas de restinga"? Answer only with yes or no.
+No
+2024-05-16 02:08:27,426 INFO Task-643 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Mamíferos: Classe de animais vertebrados que se caracterizam pela presença de glândulas mamárias e pelos corporais.
+Is "Mamíferos" a specific instance or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-16 02:08:27,505 INFO Task-642 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Insetos: Classe de animais invertebrados caracterizados por possuírem três pares de patas e um corpo dividido em três segmentos.
+Is "Insetos" a specific instance or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-16 02:08:27,520 INFO Task-644 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Répteis: Classe de animais vertebrados que possuem pele escamosa e geralmente se reproduzem por meio de ovos.
+Is "Répteis" a specific instance or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-16 02:08:27,917 INFO Task-640 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Anfíbios: Grupo de animais vertebrados que possuem a capacidade de viver tanto na água quanto em terra firme.
+Is "Anfíbios" a part or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-16 02:08:28,055 INFO Task-641 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Aves: Classe de animais vertebrados caracterizados pela presença de penas, bico e capacidade de voar.
+Is "Aves" a part or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-16 02:08:28,086 INFO Task-645 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Ré: aves: Ré: aves is a subcategory of Fauna de restinga. Conjunto de espécies animais que habitam os ecossistemas de restinga.
+Can "Ré: aves" be considered a subcategory of "ecossistemas costeiros brasileiros"? Answer only with yes or no.
+No
+2024-05-16 02:08:28,573 INFO Task-645 Info:
+Ré: aves renamed to Aves
+2024-05-16 02:08:28,901 INFO Task-645 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Aves: Ré: aves is a subcategory of Fauna de restinga. Conjunto de espécies animais que habitam os ecossistemas de restinga.
+Can "Aves" be considered a subcategory of "ecossistemas costeiros brasileiros"? Answer only with yes or no.
+No
+2024-05-16 02:08:29,246 INFO Task-1 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Restingas: Ecossistemas costeiros de vegetação rasteira e arbustiva, adaptados a condições de solo arenoso e salinidade.
+Processos de formação de restinga: Mecanismos naturais responsáveis pela configuração e evolução das áreas de restinga.
+"Restingas" is a subcategory of "ecossistemas costeiros brasileiros". "Processos de formação de restinga" is a subcategory of "Restingas". Are there any generally accepted subcategories of "Processos de formação de restinga"? Answer only with yes or no.
+No
+2024-05-16 02:08:39,621 INFO Task-651 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Campos de altitude: Vegetação presente em áreas de restinga localizadas em regiões mais elevadas.
+Is "Campos de altitude" a specific instance or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-16 02:08:39,645 INFO Task-658 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Vegetação de manguezal: Vegetação adaptada às condições de solo encharcado e salinidade dos manguezais.
+Is "Vegetação de manguezal" a specific instance or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-16 02:08:39,653 INFO Task-657 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Vegetação de dunas: Vegetação específica das dunas, adaptada às condições de solo e vento.
+Is "Vegetação de dunas" a specific instance or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-16 02:08:40,061 INFO Task-652 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Dunas: Vegetação adaptada às condições de solo arenoso e instável das dunas.
+Is "Dunas" a part or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-16 02:08:40,146 INFO Task-655 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Vegetação herbácea: Plantas de porte herbáceo que compõem a vegetação de restinga.
+Is "Vegetação herbácea" a part or a subcategory of the category "ecossistemas costeiros brasileiros"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-16 02:08:40,748 INFO Task-654 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Vegetação de restinga: Conjunto de plantas adaptadas às condições específicas dos ecossistemas de restinga.
+Manguezais: Vegetação adaptada às condições de solo encharcado e salinidade das áreas de manguezal.
+"Vegetação de restinga" is a subcategory of "ecossistemas costeiros brasileiros". Is "Manguezais" typically understood as a subcategory of "Vegetação de restinga"? Answer only with yes or no.
+No
+2024-05-16 02:08:41,148 INFO Task-654 Info:
+Manguezais renamed to Manguezal
+2024-05-16 02:08:41,961 INFO Task-654 Prompt:
+ecossistemas costeiros brasileiros: Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.
+Vegetação de restinga: Conjunto de plantas adaptadas às condições específicas dos ecossistemas de restinga.
+Manguezal: Vegetação adaptada às condições de solo encharcado e salinidade das áreas de manguezal.
+"Vegetação de restinga" is a subcategory of "ecossistemas costeiros brasileiros". Is "Manguezal" typically understood as a subcategory of "Vegetação de restinga"? Answer only with yes or no.
+No

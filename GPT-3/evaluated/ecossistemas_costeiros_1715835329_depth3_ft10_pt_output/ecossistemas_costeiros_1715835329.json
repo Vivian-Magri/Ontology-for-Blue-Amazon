@@ -1,0 +1,330 @@
+{
+    "Thing": {
+        "superconcepts": [],
+        "levels": [
+            -1
+        ],
+        "subconcepts": [
+            "ecossistemas costeiros"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "state": "explored",
+        "definition": "top concept"
+    },
+    "ecossistemas costeiros": {
+        "superconcepts": [
+            "Thing"
+        ],
+        "levels": [
+            0
+        ],
+        "subconcepts": [
+            "Cost\u00f5es rochosos",
+            "Estu\u00e1rios",
+            "Manguezais",
+            "Restingas"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Ecossistemas costeiros s\u00e3o ambientes localizados pr\u00f3ximos ao litoral, onde ocorre a intera\u00e7\u00e3o entre os ecossistemas terrestres e marinhos.",
+        "state": "explored"
+    },
+    "No subconcept": {
+        "superconcepts": [
+            "Cavernas marinhas",
+            "Comunidades de algas",
+            "Comunidades de invertebrados",
+            "Aves aqu\u00e1ticas",
+            "Aves nidificantes",
+            "Vegeta\u00e7\u00e3o arbustiva de restinga"
+        ],
+        "levels": [
+            99
+        ],
+        "subconcepts": [],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "state": "explored",
+        "definition": "bottom concept"
+    },
+    "Cost\u00f5es rochosos": {
+        "superconcepts": [
+            "ecossistemas costeiros"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "Cavernas marinhas",
+            "Comunidades de algas",
+            "Habitats de invertebrados"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Ambientes costeiros caracterizados pela presen\u00e7a de rochas expostas \u00e0 a\u00e7\u00e3o das ondas.",
+        "state": "explored"
+    },
+    "Estu\u00e1rios": {
+        "superconcepts": [
+            "ecossistemas costeiros"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "Avifauna",
+            "Fauna aqu\u00e1tica"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "\u00c1reas de transi\u00e7\u00e3o entre ambientes de \u00e1gua doce e salgada, onde ocorre a mistura de ambos os tipos de \u00e1gua.",
+        "state": "explored_empty"
+    },
+    "Manguezais": {
+        "superconcepts": [
+            "ecossistemas costeiros"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "Manguezal de barreira",
+            "Manguezal de enseada"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Ecossistemas costeiros de \u00e1reas alagadas, com presen\u00e7a de vegeta\u00e7\u00e3o adaptada \u00e0 salinidade.",
+        "state": "explored"
+    },
+    "Restingas": {
+        "superconcepts": [
+            "ecossistemas costeiros"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "Florestas de restinga"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Ecossistemas costeiros de vegeta\u00e7\u00e3o rasteira, adaptados a solos arenosos e salinidade.",
+        "state": "explored"
+    },
+    "Cavernas marinhas": {
+        "superconcepts": [
+            "Cost\u00f5es rochosos"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Forma\u00e7\u00f5es subaqu\u00e1ticas em cost\u00f5es rochosos que oferecem abrigo e habitat para diversas esp\u00e9cies marinhas.",
+        "state": "explored_empty"
+    },
+    "Comunidades de algas": {
+        "superconcepts": [
+            "Cost\u00f5es rochosos"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Agrupamentos de algas que desempenham um papel fundamental na ecologia dos cost\u00f5es rochosos.",
+        "state": "explored_empty"
+    },
+    "Habitats de invertebrados": {
+        "superconcepts": [
+            "Cost\u00f5es rochosos"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "Comunidades de invertebrados"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Ambientes espec\u00edficos que abrigam uma variedade de invertebrados marinhos.",
+        "state": "explored_empty"
+    },
+    "Comunidades de invertebrados": {
+        "superconcepts": [
+            "Habitats de invertebrados"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Conjuntos de invertebrados marinhos que interagem nos cost\u00f5es rochosos.",
+        "state": "explored_empty"
+    },
+    "Avifauna": {
+        "superconcepts": [
+            "Estu\u00e1rios",
+            "Manguezal de barreira",
+            "Manguezal de enseada"
+        ],
+        "levels": [
+            2,
+            3,
+            3
+        ],
+        "subconcepts": [
+            "Aves aqu\u00e1ticas",
+            "Aves nidificantes"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Conjunto de aves que habitam ou utilizam os manguezais.",
+        "state": "explored"
+    },
+    "Fauna aqu\u00e1tica": {
+        "superconcepts": [
+            "Estu\u00e1rios",
+            "Manguezal de barreira",
+            "Manguezal de enseada"
+        ],
+        "levels": [
+            2,
+            3,
+            3
+        ],
+        "subconcepts": [
+            "Aves aqu\u00e1ticas"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Animais aqu\u00e1ticos que habitam os manguezais.",
+        "state": "explored_empty"
+    },
+    "Manguezal de barreira": {
+        "superconcepts": [
+            "Manguezais"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "Avifauna",
+            "Fauna aqu\u00e1tica"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Manguezal localizado em \u00e1reas de barreira costeira.",
+        "state": "explored_empty"
+    },
+    "Manguezal de enseada": {
+        "superconcepts": [
+            "Manguezais"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "Avifauna",
+            "Fauna aqu\u00e1tica"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Manguezal localizado em enseadas ou ba\u00edas.",
+        "state": "explored_empty"
+    },
+    "Florestas de restinga": {
+        "superconcepts": [
+            "Restingas"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "Vegeta\u00e7\u00e3o arbustiva"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Vegeta\u00e7\u00e3o arb\u00f3rea de restinga.",
+        "state": "explored"
+    },
+    "Aves aqu\u00e1ticas": {
+        "superconcepts": [
+            "Avifauna",
+            "Fauna aqu\u00e1tica"
+        ],
+        "levels": [
+            3,
+            3,
+            4,
+            4
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Aves que habitam ambientes aqu\u00e1ticos.",
+        "state": "unexplored"
+    },
+    "Aves nidificantes": {
+        "superconcepts": [
+            "Avifauna"
+        ],
+        "levels": [
+            3,
+            4
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Aves que constroem ninhos para reprodu\u00e7\u00e3o.",
+        "state": "unexplored"
+    },
+    "Vegeta\u00e7\u00e3o arbustiva": {
+        "superconcepts": [
+            "Florestas de restinga"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "Vegeta\u00e7\u00e3o arbustiva de restinga"
+        ],
+        "cycles": [
+            {
+                "Forma\u00e7\u00f5es arbustivas de restinga": "Vegeta\u00e7\u00e3o de restinga caracterizada por arbustos."
+            }
+        ],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Vegeta\u00e7\u00e3o de restinga composta principalmente por arbustos.",
+        "state": "unexplored"
+    },
+    "Vegeta\u00e7\u00e3o arbustiva de restinga": {
+        "superconcepts": [
+            "Vegeta\u00e7\u00e3o arbustiva"
+        ],
+        "levels": [
+            4
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Vegeta\u00e7\u00e3o de restinga composta principalmente por arbustos.",
+        "state": "unexplored"
+    }
+}

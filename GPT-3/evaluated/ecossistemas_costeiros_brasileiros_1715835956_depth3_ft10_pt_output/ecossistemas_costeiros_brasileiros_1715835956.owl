@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <owl:Class rdf:about="#Fauna%20aquática">
+    <rdfs:label>Fauna aquática</rdfs:label>
+    <rdfs:comment>Diversidade de animais aquáticos presentes nos manguezais.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Estuários"/>
+    <rdfs:subClassOf rdf:resource="#Manguezais"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Processos%20de%20formação%20de%20restinga">
+    <rdfs:label>Processos de formação de restinga</rdfs:label>
+    <rdfs:comment>Mecanismos naturais responsáveis pela configuração e evolução das áreas de restinga.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Restingas"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Vegetação%20arbustiva">
+    <rdfs:label>Vegetação arbustiva</rdfs:label>
+    <rdfs:comment>Vegetação composta por arbustos adaptados às condições de restinga.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Restinga%20de%20planície"/>
+    <rdfs:subClassOf rdf:resource="#Floresta%20de%20restinga%20de%20dunas"/>
+    <rdfs:subClassOf rdf:resource="#Floresta%20de%20restinga%20de%20tabuleiro"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Fauna%20de%20restinga">
+    <rdfs:label>Fauna de restinga</rdfs:label>
+    <rdfs:comment>Conjunto de espécies animais que habitam os ecossistemas de restinga.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Florestas%20de%20restinga"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Vegetação%20arbustiva%20de%20restinga">
+    <rdfs:label>Vegetação arbustiva de restinga</rdfs:label>
+    <rdfs:comment>Vegetação caracterizada por arbustos.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Restinga%20de%20planície"/>
+    <rdfs:subClassOf rdf:resource="#Mata%20de%20restinga"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Flora%20manguezal">
+    <rdfs:label>Flora manguezal</rdfs:label>
+    <rdfs:comment>Vegetação característica dos manguezais, adaptada à salinidade.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Estuários"/>
+    <rdfs:subClassOf rdf:resource="#Manguezais"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Biodiversidade%20de%20algas">
+    <rdfs:label>Biodiversidade de algas</rdfs:label>
+    <rdfs:comment>Diversidade de espécies de algas presentes nas comunidades.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Dinâmica%20das%20comunidades%20de%20algas"/>
+    <rdfs:subClassOf rdf:resource="#Flora%20bentônica"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Avifauna">
+    <rdfs:label>Avifauna</rdfs:label>
+    <rdfs:comment>Conjunto de aves que habitam ou utilizam os manguezais.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Manguezais"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Floresta%20de%20restinga%20de%20restinga%20alagada">
+    <rdfs:label>Floresta de restinga de restinga alagada</rdfs:label>
+    <rdfs:comment>Floresta de restinga de restinga alagada is a subcategory of Florestas de restinga. Formações florestais adaptadas a condições de solo arenoso e salinidade.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Florestas%20de%20restinga"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Flora%20adaptada">
+    <rdfs:label>Flora adaptada</rdfs:label>
+    <rdfs:comment>Vegetação que se adapta às condições específicas dos costões rochosos.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Costões%20rochosos"/>
+    <rdfs:subClassOf rdf:resource="#Manguezais"/>
+    <rdfs:subClassOf rdf:resource="#Restingas"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Fauna%20bentônica">
+    <rdfs:label>Fauna bentônica</rdfs:label>
+    <rdfs:comment>Conjunto de organismos que habitam o fundo do mar.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Estuários"/>
+    <rdfs:subClassOf rdf:resource="#Comunidades%20bentônicas"/>
+  </owl:Class>
+  <owl:Ontology rdf:about="file:///ecossistemas_costeiros_brasileiros.owl"/>
+  <owl:Class rdf:about="#Costões%20rochosos">
+    <rdfs:label>Costões rochosos</rdfs:label>
+    <rdfs:comment>Ambientes costeiros caracterizados pela presença de rochas expostas à ação das ondas e da maré.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#ecossistemas%20costeiros%20brasileiros"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Mata%20de%20restinga">
+    <rdfs:label>Mata de restinga</rdfs:label>
+    <rdfs:comment>Vegetação composta principalmente por árvores.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Vegetação%20de%20restinga"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Manguezais">
+    <rdfs:label>Manguezais</rdfs:label>
+    <rdfs:comment>Ecossistemas costeiros de transição entre ambientes terrestres e aquáticos, com vegetação adaptada à salinidade.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#ecossistemas%20costeiros%20brasileiros"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Restinga%20de%20planície">
+    <rdfs:label>Restinga de planície</rdfs:label>
+    <rdfs:comment>Floresta de restinga de restinga de planície is a subcategory of Florestas de restinga. Formações florestais adaptadas a condições de solo arenoso e salinidade.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Vegetação%20de%20restinga"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Estuários">
+    <rdfs:label>Estuários</rdfs:label>
+    <rdfs:comment>Zonas de transição entre rios e o mar, onde ocorre a mistura de água doce e salgada.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#ecossistemas%20costeiros%20brasileiros"/>
+  </owl:Class>
+  <owl:Class rdf:about="#ecossistemas%20costeiros%20brasileiros">
+    <rdfs:label>ecossistemas costeiros brasileiros</rdfs:label>
+    <rdfs:comment>Ecossistemas costeiros brasileiros são os ambientes naturais localizados na faixa de transição entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e influenciados por fatores como a salinidade da água e a ação das marés.</rdfs:comment>
+  </owl:Class>
+  <owl:Class rdf:about="#Flora%20bentônica">
+    <rdfs:label>Flora bentônica</rdfs:label>
+    <rdfs:comment>Agrupamento de plantas que vivem no fundo do mar.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Estuários"/>
+    <rdfs:subClassOf rdf:resource="#Comunidades%20bentônicas"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Restingas">
+    <rdfs:label>Restingas</rdfs:label>
+    <rdfs:comment>Ecossistemas costeiros de vegetação rasteira e arbustiva, adaptados a condições de solo arenoso e salinidade.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#ecossistemas%20costeiros%20brasileiros"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Floresta%20de%20restinga%20de%20tabuleiro">
+    <rdfs:label>Floresta de restinga de tabuleiro</rdfs:label>
+    <rdfs:comment>Floresta adaptada a solos mais ricos e planos.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Mata%20de%20restinga"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Vegetação%20de%20restinga">
+    <rdfs:label>Vegetação de restinga</rdfs:label>
+    <rdfs:comment>Conjunto de plantas adaptadas às condições específicas dos ecossistemas de restinga.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Florestas%20de%20restinga"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Comunidades%20bentônicas">
+    <rdfs:label>Comunidades bentônicas</rdfs:label>
+    <rdfs:comment>Agrupamentos de organismos que vivem no fundo dos costões rochosos.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Costões%20rochosos"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Comunidades%20de%20algas">
+    <rdfs:label>Comunidades de algas</rdfs:label>
+    <rdfs:comment>Agrupamentos de algas que se desenvolvem nos costões rochosos.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Comunidades%20bentônicas"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Dinâmica%20das%20comunidades%20de%20algas">
+    <rdfs:label>Dinâmica das comunidades de algas</rdfs:label>
+    <rdfs:comment>Influência dos fatores ambientais na composição e distribuição das comunidades de algas.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Comunidades%20de%20algas"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Florestas%20de%20restinga">
+    <rdfs:label>Florestas de restinga</rdfs:label>
+    <rdfs:comment>Formações florestais adaptadas a condições de solo arenoso e salinidade.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Restingas"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Floresta%20de%20restinga%20de%20dunas">
+    <rdfs:label>Floresta de restinga de dunas</rdfs:label>
+    <rdfs:comment>Floresta de restinga de restinga de dunas is a subcategory of Florestas de restinga. Formações florestais adaptadas a condições de solo arenoso e salinidade.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Vegetação%20de%20restinga"/>
+  </owl:Class>
+</rdf:RDF>

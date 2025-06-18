@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <owl:Class rdf:about="#Fauna%20associada">
+    <rdfs:label>Fauna associada</rdfs:label>
+    <rdfs:comment>Refers to the associated animal species that interact with mangrove environments.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Restingas"/>
+    <rdfs:subClassOf rdf:resource="#Costões%20rochosos"/>
+    <rdfs:subClassOf rdf:resource="#Ilhas%20costeiras"/>
+    <rdfs:subClassOf rdf:resource="#Fauna%20dos%20manguezais"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Hidrodinâmica%20dos%20manguezais">
+    <rdfs:label>Hidrodinâmica dos manguezais</rdfs:label>
+    <rdfs:comment>Focuses on the hydrodynamic processes within mangrove environments.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Manguezais"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Zonas%20de%20ondas">
+    <rdfs:label>Zonas de ondas</rdfs:label>
+    <rdfs:comment>Areas where the impact of waves influences the ecology and structure of rocky coastal environments.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Costões%20rochosos"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Serviços%20ecossistêmicos%20dos%20manguezais">
+    <rdfs:label>Serviços ecossistêmicos dos manguezais</rdfs:label>
+    <rdfs:comment>Describes the ecosystem services provided by mangrove ecosystems.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Manguezais"/>
+  </owl:Class>
+  <owl:Ontology rdf:about="file:///Ecossistemas_costeiros_brasileiros.owl"/>
+  <owl:Class rdf:about="#Lagoons">
+    <rdfs:label>Lagoons</rdfs:label>
+    <rdfs:comment>Shallow coastal bodies of water separated from the ocean by barrier islands or reefs.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Ecossistemas%20costeiros%20brasileiros"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Costões%20rochosos">
+    <rdfs:label>Costões rochosos</rdfs:label>
+    <rdfs:comment>Rocky coastal areas with diverse marine life and unique geological features.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Ecossistemas%20costeiros%20brasileiros"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Estuaries">
+    <rdfs:label>Estuaries</rdfs:label>
+    <rdfs:comment>Transitional zones where rivers meet the sea, characterized by brackish water and diverse habitats.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Ecossistemas%20costeiros%20brasileiros"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Manguezais">
+    <rdfs:label>Manguezais</rdfs:label>
+    <rdfs:comment>Áreas úmidas costeiras dominadas por árvores e arbustos tolerantes ao sal que fornecem habitat e serviços ecossistêmicos importantes.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Estuaries"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Fauna%20dos%20manguezais">
+    <rdfs:label>Fauna dos manguezais</rdfs:label>
+    <rdfs:comment>Describes the animal species that inhabit mangrove ecosystems.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Manguezais"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Ecossistemas%20costeiros%20brasileiros">
+    <rdfs:label>Ecossistemas costeiros brasileiros</rdfs:label>
+    <rdfs:comment>"Ecossistemas costeiros brasileiros" refers to the diverse ecosystems found along the Brazilian coast, including beaches, mangroves, and coral reefs.</rdfs:comment>
+  </owl:Class>
+  <owl:Class rdf:about="#Ilhas%20costeiras">
+    <rdfs:label>Ilhas costeiras</rdfs:label>
+    <rdfs:comment>Ilhas próximas à costa que abrigam uma variedade de ecossistemas costeiros.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Ecossistemas%20costeiros%20brasileiros"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Restingas">
+    <rdfs:label>Restingas</rdfs:label>
+    <rdfs:comment>Ecossistemas costeiros únicos encontrados em áreas de transição entre a terra e o mar, caracterizados por vegetação adaptada a condições de solo salino e ventos fortes.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Ecossistemas%20costeiros%20brasileiros"/>
+  </owl:Class>
+</rdf:RDF>

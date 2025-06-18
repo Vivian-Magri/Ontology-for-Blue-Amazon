@@ -1,0 +1,28 @@
+digraph {
+  rankdir=LR;
+ "Ecossistemas costeiros brasileiros" [shape = rect];
+  "Ecossistemas costeiros brasileiros" -> "Manguezais";
+  "Ecossistemas costeiros brasileiros" -> "Restingas";
+ "Manguezais" [shape = rect];
+  "Manguezais" -> "Flora";
+  "Manguezais" -> "Ameaças e conservação";
+ "Restingas" [shape = rect];
+  "Restingas" -> "Vegetação de restinga";
+  "Restingas" -> "Importância ecológica";
+ "Flora" [shape = rect];
+  "Flora" -> "Vegetação aquática";
+ "Vegetação de restinga" [shape = rect];
+  "Vegetação de restinga" -> "Flora";
+  "Vegetação de restinga" -> "Floresta de restinga";
+ "Ameaças e conservação" [shape = rect];
+ "Importância ecológica" [shape = rect];
+  "Importância ecológica" -> "Ameaças e conservação";
+ "Vegetação aquática" [shape = rect];
+ "Floresta de restinga" [shape = rect];
+  "Floresta de restinga" -> "Ameaças e conservação";
+  "Floresta de restinga" -> "Arbustos de restinga";
+ "Arbustos de restinga" [shape = rect];
+subgraph cluster_metadata {
+metadata_node [label="Concepts: 10\l Subsumptions: 12\l Exploration Depth: 3\l Frequency Threshold: 10\l PT-BR Output\l" shape=none];
+}
+}

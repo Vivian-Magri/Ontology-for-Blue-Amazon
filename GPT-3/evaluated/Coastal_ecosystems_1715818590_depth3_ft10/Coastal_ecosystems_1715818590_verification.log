@@ -1,0 +1,305 @@
+2024-05-15 21:16:39,345 INFO Task-3 Prompt:
+Coastal ecosystems: Coastal ecosystems refer to the diverse habitats and communities of plants and animals that exist along the shoreline where land meets the sea.
+Coral reefs: Diverse marine ecosystems formed by the accumulation of calcium carbonate secreted by corals.
+Is "Coral reefs" a specific instance or a subcategory of the category "Coastal ecosystems"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-15 21:16:39,696 INFO Task-9 Prompt:
+Coastal ecosystems: Coastal ecosystems refer to the diverse habitats and communities of plants and animals that exist along the shoreline where land meets the sea.
+Estuaries: Semi-enclosed coastal bodies of water where freshwater from rivers mixes with saltwater from the ocean.
+Is "Estuaries" a part or a subcategory of the category "Coastal ecosystems"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-15 21:16:39,775 INFO Task-8 Prompt:
+Coastal ecosystems: Coastal ecosystems refer to the diverse habitats and communities of plants and animals that exist along the shoreline where land meets the sea.
+Seagrass beds: Underwater meadows of seagrasses that provide important habitats for various marine species.
+Is "Seagrass beds" a part or a subcategory of the category "Coastal ecosystems"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-15 21:16:39,820 INFO Task-11 Prompt:
+Coastal ecosystems: Coastal ecosystems refer to the diverse habitats and communities of plants and animals that exist along the shoreline where land meets the sea.
+Seagrass meadows: Underwater habitats dominated by seagrasses that provide important ecological functions and support diverse marine life.
+Is "Seagrass meadows" a part or a subcategory of the category "Coastal ecosystems"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-15 21:16:40,026 INFO Task-10 Prompt:
+Coastal ecosystems: Coastal ecosystems refer to the diverse habitats and communities of plants and animals that exist along the shoreline where land meets the sea.
+Intertidal zones: Area of the shore that is exposed to air at low tide and submerged at high tide.
+Is "Intertidal zones" a part or a subcategory of the category "Coastal ecosystems"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-15 21:16:50,298 INFO Task-52 Prompt:
+Coastal ecosystems: Coastal ecosystems refer to the diverse habitats and communities of plants and animals that exist along the shoreline where land meets the sea.
+Mangrove biodiversity: Refers to the variety of plant and animal species found within mangrove ecosystems.
+Is "Mangrove biodiversity" a specific instance or a subcategory of the category "Coastal ecosystems"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-15 21:16:50,310 INFO Task-58 Prompt:
+Coastal ecosystems: Coastal ecosystems refer to the diverse habitats and communities of plants and animals that exist along the shoreline where land meets the sea.
+Bruguiera: A genus of mangrove trees that are adapted to thrive in saline environments.
+Is "Bruguiera" a specific instance or a subcategory of the category "Coastal ecosystems"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-15 21:16:50,355 INFO Task-57 Prompt:
+Coastal ecosystems: Coastal ecosystems refer to the diverse habitats and communities of plants and animals that exist along the shoreline where land meets the sea.
+Avicennia: A genus of mangrove trees known for their salt tolerance and aerial roots.
+Is "Avicennia" a specific instance or a subcategory of the category "Coastal ecosystems"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-15 21:16:50,361 INFO Task-59 Prompt:
+Coastal ecosystems: Coastal ecosystems refer to the diverse habitats and communities of plants and animals that exist along the shoreline where land meets the sea.
+Rhizophora: A genus of mangrove trees with distinctive prop roots that help stabilize the trees in muddy substrates.
+Is "Rhizophora" a specific instance or a subcategory of the category "Coastal ecosystems"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-15 21:16:50,371 INFO Task-60 Prompt:
+Coastal ecosystems: Coastal ecosystems refer to the diverse habitats and communities of plants and animals that exist along the shoreline where land meets the sea.
+Sonneratia: A genus of mangrove trees that are commonly found in tropical coastal regions.
+Is "Sonneratia" a specific instance or a subcategory of the category "Coastal ecosystems"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-15 21:16:50,416 INFO Task-56 Prompt:
+Coastal ecosystems: Coastal ecosystems refer to the diverse habitats and communities of plants and animals that exist along the shoreline where land meets the sea.
+Red: mangrove species: mangrove species: A specific group of mangrove species that are characterized by their red-colored bark and roots.
+Is "Red: mangrove species" a specific instance or a subcategory of the category "Coastal ecosystems"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-15 21:16:51,491 INFO Task-55 Prompt:
+Coastal ecosystems: Coastal ecosystems refer to the diverse habitats and communities of plants and animals that exist along the shoreline where land meets the sea.
+Mangrove species: Different types of plant species that make up mangrove forests.
+Is "Mangrove species" a part or a subcategory of the category "Coastal ecosystems"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-15 21:16:51,650 INFO Task-53 Prompt:
+Coastal ecosystems: Coastal ecosystems refer to the diverse habitats and communities of plants and animals that exist along the shoreline where land meets the sea.
+Mangrove forests: Coastal wetlands dominated by salt-tolerant trees and shrubs.
+Mangrove conservation efforts: Activities and initiatives aimed at protecting and preserving mangrove forests and their associated biodiversity.
+"Mangrove forests" is a subcategory of "Coastal ecosystems". Is "Mangrove conservation efforts" typically understood as a subcategory of "Mangrove forests"? Answer only with yes or no.
+No
+2024-05-15 21:16:52,233 INFO Task-53 Info:
+Mangrove conservation efforts renamed to Mangrove conservation
+2024-05-15 21:17:01,801 INFO Task-100 Prompt:
+Coastal ecosystems: Coastal ecosystems refer to the diverse habitats and communities of plants and animals that exist along the shoreline where land meets the sea.
+Rocky cliffs: Vertical or steep rock formations along the shoreline.
+Is "Rocky cliffs" a specific instance or a subcategory of the category "Coastal ecosystems"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-15 21:17:01,887 INFO Task-98 Prompt:
+Coastal ecosystems: Coastal ecosystems refer to the diverse habitats and communities of plants and animals that exist along the shoreline where land meets the sea.
+Caves: Hollow spaces or openings in rocky shore formations.
+Is "Caves" a specific instance or a subcategory of the category "Coastal ecosystems"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-15 21:17:01,899 INFO Task-101 Prompt:
+Coastal ecosystems: Coastal ecosystems refer to the diverse habitats and communities of plants and animals that exist along the shoreline where land meets the sea.
+Tide pools: Depressions in rocky shores that hold seawater during low tide.
+Is "Tide pools" a specific instance or a subcategory of the category "Coastal ecosystems"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-15 21:17:02,254 INFO Task-97 Prompt:
+Coastal ecosystems: Coastal ecosystems refer to the diverse habitats and communities of plants and animals that exist along the shoreline where land meets the sea.
+Boulder fields: Areas of rocky shores covered with large boulders.
+Is "Boulder fields" a specific instance or a subcategory of the category "Coastal ecosystems"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-15 21:17:02,267 INFO Task-99 Prompt:
+Coastal ecosystems: Coastal ecosystems refer to the diverse habitats and communities of plants and animals that exist along the shoreline where land meets the sea.
+Intertidal zone: Area between high and low tide levels on rocky shores.
+Is "Intertidal zone" a part or a subcategory of the category "Coastal ecosystems"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-15 21:17:05,373 INFO Task-1 Prompt:
+"X" is a subcategory of "Y" if every element of "X" is also an element of "Y". In other words, "X" is a subset of "Y". This means the more general term of them is "Y". "Y" is a more general category that includes "X" as a subcategory.
+Coastal ecosystems: Coastal ecosystems refer to the diverse habitats and communities of plants and animals that exist along the shoreline where land meets the sea.
+Intertidal zones: Intertidal zones is a subcategory of Rocky shores. Coastal habitats characterized by solid rock surfaces exposed to the action of waves and tides.
+Rocky shores: Coastal habitats characterized by solid rock surfaces exposed to the action of waves and tides.
+Consider the terms "Intertidal zones" and "Rocky shores". Which of the terms is a subcategory of the other one? Answer in the following scheme: [[X]] is a subcategory of [[Y]].
+[[Intertidal zones]] is a subcategory of [[Rocky shores]].
+2024-05-15 21:17:10,958 INFO Task-124 Prompt:
+Coastal ecosystems: Coastal ecosystems refer to the diverse habitats and communities of plants and animals that exist along the shoreline where land meets the sea.
+Spartina grasses: Tall, salt-tolerant grasses commonly found in salt marshes.
+Is "Spartina grasses" a specific instance or a subcategory of the category "Coastal ecosystems"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-15 21:17:11,013 INFO Task-125 Prompt:
+Coastal ecosystems: Coastal ecosystems refer to the diverse habitats and communities of plants and animals that exist along the shoreline where land meets the sea.
+Tidal creeks: Narrow channels that fill and empty with the tides, providing important habitat.
+Is "Tidal creeks" a specific instance or a subcategory of the category "Coastal ecosystems"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-15 21:17:11,041 INFO Task-123 Prompt:
+Coastal ecosystems: Coastal ecosystems refer to the diverse habitats and communities of plants and animals that exist along the shoreline where land meets the sea.
+Salt pans: Areas where salt accumulates due to evaporation of seawater.
+Is "Salt pans" a specific instance or a subcategory of the category "Coastal ecosystems"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-15 21:17:11,334 INFO Task-128 Prompt:
+Coastal ecosystems: Coastal ecosystems refer to the diverse habitats and communities of plants and animals that exist along the shoreline where land meets the sea.
+Seagrass beds: Underwater meadows of seagrasses that provide habitat and food for marine life.
+Is "Seagrass beds" a part or a subcategory of the category "Coastal ecosystems"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-15 21:17:12,240 INFO Task-127 Prompt:
+Coastal ecosystems: Coastal ecosystems refer to the diverse habitats and communities of plants and animals that exist along the shoreline where land meets the sea.
+Salt marshes: Coastal wetlands with salt-tolerant plants that are flooded and drained by the tides.
+Mangrove forests: Coastal wetlands dominated by salt-tolerant mangrove trees.
+"Salt marshes" is a subcategory of "Coastal ecosystems". Is "Mangrove forests" typically understood as a subcategory of "Salt marshes"? Answer only with yes or no.
+No
+2024-05-15 21:17:12,306 INFO Task-126 Prompt:
+Coastal ecosystems: Coastal ecosystems refer to the diverse habitats and communities of plants and animals that exist along the shoreline where land meets the sea.
+Salt marshes: Coastal wetlands with salt-tolerant plants that are flooded and drained by the tides.
+Estuaries: Coastal areas where freshwater from rivers mixes with saltwater from the sea.
+"Salt marshes" is a subcategory of "Coastal ecosystems". Is "Estuaries" typically understood as a subcategory of "Salt marshes"? Answer only with yes or no.
+No
+2024-05-15 21:17:12,499 INFO Task-122 Prompt:
+Coastal ecosystems: Coastal ecosystems refer to the diverse habitats and communities of plants and animals that exist along the shoreline where land meets the sea.
+Salt marshes: Coastal wetlands with salt-tolerant plants that are flooded and drained by the tides.
+Mudflats: Coastal habitats consisting of soft, muddy sediment exposed at low tide.
+"Salt marshes" is a subcategory of "Coastal ecosystems". Is "Mudflats" typically understood as a subcategory of "Salt marshes"? Answer only with yes or no.
+No
+2024-05-15 21:17:12,716 INFO Task-127 Info:
+Mangrove forests renamed to Mangrove forests
+2024-05-15 21:17:12,812 INFO Task-126 Info:
+Estuaries renamed to Estuarine marshes
+2024-05-15 21:17:12,979 INFO Task-122 Info:
+Mudflats renamed to Intertidal mudflats
+2024-05-15 21:17:13,741 INFO Task-122 Prompt:
+Coastal ecosystems: Coastal ecosystems refer to the diverse habitats and communities of plants and animals that exist along the shoreline where land meets the sea.
+Salt marshes: Coastal wetlands with salt-tolerant plants that are flooded and drained by the tides.
+Intertidal mudflats: Coastal habitats consisting of soft, muddy sediment exposed at low tide.
+"Salt marshes" is a subcategory of "Coastal ecosystems". Is "Intertidal mudflats" typically understood as a subcategory of "Salt marshes"? Answer only with yes or no.
+No
+2024-05-15 21:17:13,757 INFO Task-126 Prompt:
+Coastal ecosystems: Coastal ecosystems refer to the diverse habitats and communities of plants and animals that exist along the shoreline where land meets the sea.
+Salt marshes: Coastal wetlands with salt-tolerant plants that are flooded and drained by the tides.
+Estuarine marshes: Coastal areas where freshwater from rivers mixes with saltwater from the sea.
+"Salt marshes" is a subcategory of "Coastal ecosystems". Is "Estuarine marshes" typically understood as a subcategory of "Salt marshes"? Answer only with yes or no.
+No
+2024-05-15 21:17:22,670 INFO Task-150 Prompt:
+Coastal ecosystems: Coastal ecosystems refer to the diverse habitats and communities of plants and animals that exist along the shoreline where land meets the sea.
+Beach vegetation: The plant species that grow in sandy beach habitats, playing a crucial role in stabilizing the sand and providing habitat for other organisms.
+Is "Beach vegetation" a specific instance or a subcategory of the category "Coastal ecosystems"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-15 21:17:22,734 INFO Task-151 Prompt:
+Coastal ecosystems: Coastal ecosystems refer to the diverse habitats and communities of plants and animals that exist along the shoreline where land meets the sea.
+Beach wrack: Organic material such as seaweed and debris that washes up on sandy beaches, serving as an important food source and habitat for various organisms.
+Is "Beach wrack" a specific instance or a subcategory of the category "Coastal ecosystems"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-15 21:17:22,774 INFO Task-155 Prompt:
+Coastal ecosystems: Coastal ecosystems refer to the diverse habitats and communities of plants and animals that exist along the shoreline where land meets the sea.
+Sand dunes: Coastal landforms composed of wind-blown sand that play a crucial role in protecting coastal areas from erosion and providing habitat for specialized plant and animal species.
+Is "Sand dunes" a specific instance or a subcategory of the category "Coastal ecosystems"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-15 21:17:23,138 INFO Task-152 Prompt:
+Coastal ecosystems: Coastal ecosystems refer to the diverse habitats and communities of plants and animals that exist along the shoreline where land meets the sea.
+Dune systems: Coastal sand dunes that form and evolve due to wind and wave action, providing important habitat and protection for coastal ecosystems.
+Is "Dune systems" a part or a subcategory of the category "Coastal ecosystems"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-15 21:17:23,476 INFO Task-153 Prompt:
+Coastal ecosystems: Coastal ecosystems refer to the diverse habitats and communities of plants and animals that exist along the shoreline where land meets the sea.
+Intertidal zones: The area of the beach that is exposed to air at low tide and submerged at high tide, supporting a unique community of organisms adapted to these changing conditions.
+Is "Intertidal zones" a part or a subcategory of the category "Coastal ecosystems"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-15 21:17:32,110 INFO Task-191 Prompt:
+Coastal ecosystems: Coastal ecosystems refer to the diverse habitats and communities of plants and animals that exist along the shoreline where land meets the sea.
+Carbon sequestration: Mangroves store large amounts of carbon in their biomass and sediment, helping to mitigate climate change by removing carbon dioxide from the atmosphere.
+Is "Carbon sequestration" a specific instance or a subcategory of the category "Coastal ecosystems"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-15 21:17:32,127 INFO Task-192 Prompt:
+Coastal ecosystems: Coastal ecosystems refer to the diverse habitats and communities of plants and animals that exist along the shoreline where land meets the sea.
+Coastal protection: Mangroves act as a natural barrier, reducing the impact of coastal erosion, storm surges, and tsunamis on coastal communities.
+Is "Coastal protection" a specific instance or a subcategory of the category "Coastal ecosystems"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-15 21:17:32,202 INFO Task-195 Prompt:
+Coastal ecosystems: Coastal ecosystems refer to the diverse habitats and communities of plants and animals that exist along the shoreline where land meets the sea.
+Water filtration: Mangroves help improve water quality by filtering pollutants and trapping sediments, contributing to overall ecosystem health.
+Is "Water filtration" a specific instance or a subcategory of the category "Coastal ecosystems"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-15 21:17:32,561 INFO Task-194 Prompt:
+Coastal ecosystems: Coastal ecosystems refer to the diverse habitats and communities of plants and animals that exist along the shoreline where land meets the sea.
+Tourism and recreation: Mangroves attract tourists and provide opportunities for recreational activities such as birdwatching, kayaking, and eco-tourism.
+Is "Tourism and recreation" a part or a subcategory of the category "Coastal ecosystems"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-15 21:17:32,666 INFO Task-190 Prompt:
+Coastal ecosystems: Coastal ecosystems refer to the diverse habitats and communities of plants and animals that exist along the shoreline where land meets the sea.
+Biodiversity conservation: Mangroves provide habitat for a wide variety of plant and animal species, contributing to overall biodiversity.
+Is "Biodiversity conservation" a part or a subcategory of the category "Coastal ecosystems"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-15 21:17:41,533 INFO Task-218 Prompt:
+Coastal ecosystems: Coastal ecosystems refer to the diverse habitats and communities of plants and animals that exist along the shoreline where land meets the sea.
+Community engagement: Involving local communities in mangrove conservation efforts.
+Is "Community engagement" a part or a subcategory of the category "Coastal ecosystems"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-15 21:17:41,617 INFO Task-223 Prompt:
+Coastal ecosystems: Coastal ecosystems refer to the diverse habitats and communities of plants and animals that exist along the shoreline where land meets the sea.
+Habitat restoration: Activities aimed at restoring and enhancing mangrove habitats.
+Is "Habitat restoration" a part or a subcategory of the category "Coastal ecosystems"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-15 21:17:41,633 INFO Task-222 Prompt:
+Coastal ecosystems: Coastal ecosystems refer to the diverse habitats and communities of plants and animals that exist along the shoreline where land meets the sea.
+Sustainable management practices: Implementing strategies to ensure the long-term health and productivity of mangrove ecosystems.
+Is "Sustainable management practices" a part or a subcategory of the category "Coastal ecosystems"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-15 21:17:41,671 INFO Task-225 Prompt:
+Coastal ecosystems: Coastal ecosystems refer to the diverse habitats and communities of plants and animals that exist along the shoreline where land meets the sea.
+Sustainable resource management: Managing mangrove resources in a way that ensures their sustainability.
+Is "Sustainable resource management" a part or a subcategory of the category "Coastal ecosystems"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-15 21:17:41,675 INFO Task-224 Prompt:
+Coastal ecosystems: Coastal ecosystems refer to the diverse habitats and communities of plants and animals that exist along the shoreline where land meets the sea.
+Policy development: Formulating policies and guidelines to support mangrove conservation.
+Is "Policy development" a part or a subcategory of the category "Coastal ecosystems"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-15 21:17:41,719 INFO Task-219 Prompt:
+Coastal ecosystems: Coastal ecosystems refer to the diverse habitats and communities of plants and animals that exist along the shoreline where land meets the sea.
+Policy and legislation: Developing and implementing laws and regulations to protect mangrove ecosystems.
+Is "Policy and legislation" a part or a subcategory of the category "Coastal ecosystems"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-15 21:17:42,177 INFO Task-220 Prompt:
+Coastal ecosystems: Coastal ecosystems refer to the diverse habitats and communities of plants and animals that exist along the shoreline where land meets the sea.
+Research and monitoring: Conducting studies and assessments to understand mangrove ecology and track changes over time.
+Is "Research and monitoring" a part or a subcategory of the category "Coastal ecosystems"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-15 21:17:53,235 INFO Task-248 Prompt:
+Coastal ecosystems: Coastal ecosystems refer to the diverse habitats and communities of plants and animals that exist along the shoreline where land meets the sea.
+High intertidal zone: The area of the intertidal zone that is exposed to air for the longest period of time during low tide.
+Is "High intertidal zone" a specific instance or a subcategory of the category "Coastal ecosystems"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-15 21:17:53,268 INFO Task-249 Prompt:
+Coastal ecosystems: Coastal ecosystems refer to the diverse habitats and communities of plants and animals that exist along the shoreline where land meets the sea.
+Low intertidal zone: The area of the intertidal zone that is submerged under water for the longest period of time during high tide.
+Is "Low intertidal zone" a specific instance or a subcategory of the category "Coastal ecosystems"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-15 21:17:53,290 INFO Task-255 Prompt:
+Coastal ecosystems: Coastal ecosystems refer to the diverse habitats and communities of plants and animals that exist along the shoreline where land meets the sea.
+Splash: The area of the intertidal zone that is intermittently splashed by waves.
+Is "Splash" a specific instance or a subcategory of the category "Coastal ecosystems"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-15 21:17:53,290 INFO Task-256 Prompt:
+Coastal ecosystems: Coastal ecosystems refer to the diverse habitats and communities of plants and animals that exist along the shoreline where land meets the sea.
+Tide pools: Small, rocky depressions in the intertidal zone that retain water at low tide, creating unique habitats.
+Is "Tide pools" a specific instance or a subcategory of the category "Coastal ecosystems"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-15 21:17:53,706 INFO Task-260 Prompt:
+Coastal ecosystems: Coastal ecosystems refer to the diverse habitats and communities of plants and animals that exist along the shoreline where land meets the sea.
+Tide flats: Flat, sandy or muddy areas in the intertidal zone that are exposed at low tide and submerged at high tide.
+Is "Tide flats" a part or a subcategory of the category "Coastal ecosystems"? Answer only with "Part" or "Subcategory".
+Part
+2024-05-15 21:17:53,802 INFO Task-250 Prompt:
+Coastal ecosystems: Coastal ecosystems refer to the diverse habitats and communities of plants and animals that exist along the shoreline where land meets the sea.
+Mid intertidal zone: The area of the intertidal zone that is submerged and exposed to air at regular intervals during the tidal cycle.
+Is "Mid intertidal zone" a specific instance or a subcategory of the category "Coastal ecosystems"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-15 21:17:53,991 INFO Task-259 Prompt:
+Coastal ecosystems: Coastal ecosystems refer to the diverse habitats and communities of plants and animals that exist along the shoreline where land meets the sea.
+Tidal pools: Pools of water that form in rocky intertidal areas and provide habitat for various marine organisms.
+Is "Tidal pools" a specific instance or a subcategory of the category "Coastal ecosystems"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-15 21:18:06,638 INFO Task-370 Prompt:
+Coastal ecosystems: Coastal ecosystems refer to the diverse habitats and communities of plants and animals that exist along the shoreline where land meets the sea.
+Obligate xerohalophytes: Plants that are adapted to survive in both saline and arid environments.
+Is "Obligate xerohalophytes" a specific instance or a subcategory of the category "Coastal ecosystems"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-15 21:18:06,726 INFO Task-368 Prompt:
+Coastal ecosystems: Coastal ecosystems refer to the diverse habitats and communities of plants and animals that exist along the shoreline where land meets the sea.
+Facultative halophytes: Plants that can tolerate saline conditions but do not require them for normal growth.
+Is "Facultative halophytes" a specific instance or a subcategory of the category "Coastal ecosystems"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-15 21:18:16,760 INFO Task-408 Prompt:
+Coastal ecosystems: Coastal ecosystems refer to the diverse habitats and communities of plants and animals that exist along the shoreline where land meets the sea.
+Shorebirds: Birds that inhabit coastal areas, such as beaches, mudflats, and marshes, and are adapted to foraging in these environments.
+Is "Shorebirds" a specific instance or a subcategory of the category "Coastal ecosystems"? Answer only with "Instance" or "Subcategory".
+Instance
+2024-05-15 21:18:17,364 INFO Task-406 Prompt:
+Coastal ecosystems: Coastal ecosystems refer to the diverse habitats and communities of plants and animals that exist along the shoreline where land meets the sea.
+Marine mammals: Mammals that have adapted to life in the ocean, including seals, sea lions, dolphins, and whales.
+Can "Marine mammals" be considered a subcategory of "Coastal ecosystems"? Answer only with yes or no.
+No
+2024-05-15 21:18:17,396 INFO Task-405 Prompt:
+Coastal ecosystems: Coastal ecosystems refer to the diverse habitats and communities of plants and animals that exist along the shoreline where land meets the sea.
+Crustaceans: Invertebrates with hard exoskeletons, jointed limbs, and typically two pairs of antennae.
+Can "Crustaceans" be considered a subcategory of "Coastal ecosystems"? Answer only with yes or no.
+No
+2024-05-15 21:18:17,736 INFO Task-406 Info:
+Marine mammals renamed to Marine mammals
+2024-05-15 21:18:17,882 INFO Task-405 Info:
+Crustaceans renamed to Crustaceans

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <owl:Class rdf:about="#Lagunas%20intermitentes">
+    <rdfs:label>Lagunas intermitentes</rdfs:label>
+    <rdfs:comment>Lagoas que têm períodos de seca e inundação.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Lagunas%20de%20água%20doce"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Lagoas%20de%20água%20doce%20temporárias">
+    <rdfs:label>Lagoas de água doce temporárias</rdfs:label>
+    <rdfs:comment>Lagoas costeiras que apresentam variação sazonal na quantidade de água doce.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Lagoas%20costeiras%20de%20água%20doce"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Manguezais%20de%20delta">
+    <rdfs:label>Manguezais de delta</rdfs:label>
+    <rdfs:comment>Tipo específico de manguezal.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Manguezais"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Lagunas%20permanentes">
+    <rdfs:label>Lagunas permanentes</rdfs:label>
+    <rdfs:comment>Lagoas que mantêm água ao longo do ano.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Lagunas%20de%20água%20doce"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Manguezais%20de%20franja">
+    <rdfs:label>Manguezais de franja</rdfs:label>
+    <rdfs:comment>Tipo específico de manguezal.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Manguezais"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Manguezais%20de%20ilhas">
+    <rdfs:label>Manguezais de ilhas</rdfs:label>
+    <rdfs:comment>Tipo específico de manguezal.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Manguezais"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Impactos%20humanos">
+    <rdfs:label>Impactos humanos</rdfs:label>
+    <rdfs:comment>Ações e influências da atividade humana sobre as lagoas costeiras.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Lagoas%20costeiras"/>
+  </owl:Class>
+  <owl:Ontology rdf:about="file:///Ecossistemas_costeiros.owl"/>
+  <owl:Class rdf:about="#Restingas">
+    <rdfs:label>Restingas</rdfs:label>
+    <rdfs:comment>Ecossistemas costeiros de transição entre a praia e a vegetação de restinga, com características únicas de solo e vegetação.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Ecossistemas%20costeiros"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Lagoas%20de%20água%20doce%20permanentes">
+    <rdfs:label>Lagoas de água doce permanentes</rdfs:label>
+    <rdfs:comment>Lagoas costeiras que mantêm água doce de forma contínua ao longo do tempo.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Lagoas%20costeiras%20de%20água%20doce"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Aves%20aquáticas">
+    <rdfs:label>Aves aquáticas</rdfs:label>
+    <rdfs:comment>Grupo de aves que habitam ambientes aquáticos, como rios, lagos e oceanos.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Fauna%20aquática"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Marismas">
+    <rdfs:label>Marismas</rdfs:label>
+    <rdfs:comment>Áreas úmidas costeiras sujeitas a inundações periódicas.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Ecossistemas%20costeiros"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Influência%20das%20marés">
+    <rdfs:label>Influência das marés</rdfs:label>
+    <rdfs:comment>Efeitos das marés na dinâmica costeira.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Interações%20com%20o%20oceano"/>
+    <rdfs:subClassOf rdf:resource="#Estuários"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Manguezais%20de%20estuários">
+    <rdfs:label>Manguezais de estuários</rdfs:label>
+    <rdfs:comment>Tipo específico de manguezal.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Manguezais"/>
+    <rdfs:subClassOf rdf:resource="#Estuários"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Lagunas">
+    <rdfs:label>Lagunas</rdfs:label>
+    <rdfs:comment>Lagoas costeiras de pequena extensão.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Lagoas%20costeiras"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Lagoas%20perenes">
+    <rdfs:label>Lagoas perenes</rdfs:label>
+    <rdfs:comment>Lagoas costeiras que mantêm sua presença ao longo do tempo.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Lagoas%20costeiras"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Lagunas%20de%20água%20doce">
+    <rdfs:label>Lagunas de água doce</rdfs:label>
+    <rdfs:comment>Lagoas com água doce.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Lagunas"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Ecossistemas%20costeiros">
+    <rdfs:label>Ecossistemas costeiros</rdfs:label>
+    <rdfs:comment>Ecossistemas costeiros são ambientes localizados na interface entre o meio terrestre e o mar, caracterizados por uma grande diversidade de espécies e interações complexas entre os organismos e o ambiente físico.</rdfs:comment>
+  </owl:Class>
+  <owl:Class rdf:about="#Lagoas%20costeiras%20de%20água%20doce">
+    <rdfs:label>Lagoas costeiras de água doce</rdfs:label>
+    <rdfs:comment>Lagoas costeiras com água doce.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Lagoas%20perenes"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Lagoas%20costeiras">
+    <rdfs:label>Lagoas costeiras</rdfs:label>
+    <rdfs:comment>Corpos d'água rasos e próximos ao mar, influenciados pelas marés.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Ecossistemas%20costeiros"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Interações%20com%20o%20oceano">
+    <rdfs:label>Interações com o oceano</rdfs:label>
+    <rdfs:comment>Relações e trocas de materiais e energia entre as lagoas costeiras e o oceano.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Lagoas%20costeiras"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Manguezais">
+    <rdfs:label>Manguezais</rdfs:label>
+    <rdfs:comment>Ecossistemas de transição entre ambientes terrestres e marinhos, caracterizados pela presença de árvores adaptadas à salinidade.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Ecossistemas%20costeiros"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Estuários">
+    <rdfs:label>Estuários</rdfs:label>
+    <rdfs:comment>Zonas de transição entre rios e o mar, onde a água doce se mistura com a água salgada.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Ecossistemas%20costeiros"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Fauna%20aquática">
+    <rdfs:label>Fauna aquática</rdfs:label>
+    <rdfs:comment>Conjunto de organismos aquáticos presentes nas lagoas costeiras.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Lagoas%20costeiras%20de%20água%20doce"/>
+  </owl:Class>
+</rdf:RDF>

@@ -1,0 +1,233 @@
+{
+    "Thing": {
+        "superconcepts": [],
+        "levels": [
+            -1
+        ],
+        "subconcepts": [
+            "Ecossistemas costeiros brasileiros"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "state": "explored",
+        "definition": "top concept"
+    },
+    "Ecossistemas costeiros brasileiros": {
+        "superconcepts": [
+            "Thing"
+        ],
+        "levels": [
+            0
+        ],
+        "subconcepts": [
+            "Estuaries",
+            "Lagoons",
+            "Cost\u00f5es rochosos",
+            "Ilhas costeiras",
+            "Restingas"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "\"Ecossistemas costeiros brasileiros\" refers to the diverse ecosystems found along the Brazilian coast, including beaches, mangroves, and coral reefs.",
+        "state": "explored"
+    },
+    "No subconcept": {
+        "superconcepts": [
+            "Lagoons",
+            "Zonas de ondas",
+            "Fauna associada",
+            "Servi\u00e7os ecossist\u00eamicos dos manguezais",
+            "Hidrodin\u00e2mica dos manguezais"
+        ],
+        "levels": [
+            99
+        ],
+        "subconcepts": [],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "state": "explored",
+        "definition": "bottom concept"
+    },
+    "Estuaries": {
+        "superconcepts": [
+            "Ecossistemas costeiros brasileiros"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "Manguezais"
+        ],
+        "cycles": [
+            {
+                "Estu\u00e1rios": "Zonas de transi\u00e7\u00e3o onde rios encontram o mar, caracterizadas por \u00e1gua salobra e habitats diversos."
+            }
+        ],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Transitional zones where rivers meet the sea, characterized by brackish water and diverse habitats.",
+        "state": "explored_empty"
+    },
+    "Lagoons": {
+        "superconcepts": [
+            "Ecossistemas costeiros brasileiros"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [
+            {
+                "Lagoas costeiras": "Corpos d'\u00e1gua costeiros rasos separados do oceano por ilhas barreira ou recifes."
+            }
+        ],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Shallow coastal bodies of water separated from the ocean by barrier islands or reefs.",
+        "state": "explored_empty"
+    },
+    "Cost\u00f5es rochosos": {
+        "superconcepts": [
+            "Ecossistemas costeiros brasileiros"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "Zonas de ondas",
+            "Fauna associada"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Rocky coastal areas with diverse marine life and unique geological features.",
+        "state": "explored"
+    },
+    "Ilhas costeiras": {
+        "superconcepts": [
+            "Ecossistemas costeiros brasileiros"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "Fauna associada"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Ilhas pr\u00f3ximas \u00e0 costa que abrigam uma variedade de ecossistemas costeiros.",
+        "state": "explored_empty"
+    },
+    "Manguezais": {
+        "superconcepts": [
+            "Estuaries"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "Fauna dos manguezais",
+            "Servi\u00e7os ecossist\u00eamicos dos manguezais",
+            "Hidrodin\u00e2mica dos manguezais"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "\u00c1reas \u00famidas costeiras dominadas por \u00e1rvores e arbustos tolerantes ao sal que fornecem habitat e servi\u00e7os ecossist\u00eamicos importantes.",
+        "state": "explored"
+    },
+    "Restingas": {
+        "superconcepts": [
+            "Ecossistemas costeiros brasileiros"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "Fauna associada"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Ecossistemas costeiros \u00fanicos encontrados em \u00e1reas de transi\u00e7\u00e3o entre a terra e o mar, caracterizados por vegeta\u00e7\u00e3o adaptada a condi\u00e7\u00f5es de solo salino e ventos fortes.",
+        "state": "explored_empty"
+    },
+    "Zonas de ondas": {
+        "superconcepts": [
+            "Cost\u00f5es rochosos"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Areas where the impact of waves influences the ecology and structure of rocky coastal environments.",
+        "state": "explored_empty"
+    },
+    "Fauna associada": {
+        "superconcepts": [
+            "Restingas",
+            "Cost\u00f5es rochosos",
+            "Ilhas costeiras",
+            "Fauna dos manguezais"
+        ],
+        "levels": [
+            2,
+            2,
+            2,
+            4
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Refers to the associated animal species that interact with mangrove environments.",
+        "state": "unexplored"
+    },
+    "Fauna dos manguezais": {
+        "superconcepts": [
+            "Manguezais"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "Fauna associada"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Describes the animal species that inhabit mangrove ecosystems.",
+        "state": "unexplored"
+    },
+    "Servi\u00e7os ecossist\u00eamicos dos manguezais": {
+        "superconcepts": [
+            "Manguezais"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Describes the ecosystem services provided by mangrove ecosystems.",
+        "state": "unexplored"
+    },
+    "Hidrodin\u00e2mica dos manguezais": {
+        "superconcepts": [
+            "Manguezais"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Focuses on the hydrodynamic processes within mangrove environments.",
+        "state": "unexplored"
+    }
+}

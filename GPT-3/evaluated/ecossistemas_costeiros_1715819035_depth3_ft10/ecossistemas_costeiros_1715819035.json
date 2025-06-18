@@ -1,0 +1,643 @@
+{
+    "Thing": {
+        "superconcepts": [],
+        "levels": [
+            -1
+        ],
+        "subconcepts": [
+            "ecossistemas costeiros"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "state": "explored",
+        "definition": "top concept"
+    },
+    "ecossistemas costeiros": {
+        "superconcepts": [
+            "Thing"
+        ],
+        "levels": [
+            0
+        ],
+        "subconcepts": [
+            "Cost\u00f5es rochosos",
+            "Praias",
+            "Recifes de coral",
+            "Zonas \u00famidas costeiras"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.",
+        "state": "explored"
+    },
+    "No subconcept": {
+        "superconcepts": [
+            "Recifes de coral",
+            "Comunidades de algas",
+            "Lagoas intermitentes",
+            "Lagoas de \u00e1gua salgada",
+            "Lagoas costeiras de \u00e1gua doce",
+            "Geoqu\u00edmica de manguezais",
+            "Fauna dos manguezais",
+            "Hidrodin\u00e2mica dos manguezais",
+            "Vegeta\u00e7\u00e3o de manguezal",
+            "Fundos de areia",
+            "Fafauna",
+            "Microhabitats",
+            "Zona entremar\u00e9s",
+            "Fauna de dunas",
+            "Vegeta\u00e7\u00e3o de dunas"
+        ],
+        "levels": [
+            99
+        ],
+        "subconcepts": [],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "state": "explored",
+        "definition": "bottom concept"
+    },
+    "Cost\u00f5es rochosos": {
+        "superconcepts": [
+            "ecossistemas costeiros"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "Comunidades de algas",
+            "Habitats de invertebrados",
+            "Comunidades de cost\u00f5es rochosos"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Ambientes costeiros caracterizados por forma\u00e7\u00f5es rochosas expostas \u00e0 a\u00e7\u00e3o das ondas.",
+        "state": "explored"
+    },
+    "Estu\u00e1rios": {
+        "superconcepts": [
+            "Zonas \u00famidas costeiras"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "Habitats de invertebrados",
+            "Zonas de influ\u00eancia estuarina"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "\u00c1reas onde rios encontram o mar, formando um ambiente de transi\u00e7\u00e3o entre \u00e1gua doce e salgada.",
+        "state": "explored"
+    },
+    "Lagoas costeiras": {
+        "superconcepts": [
+            "Zonas \u00famidas costeiras"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "Lagoas costeiras tropicais",
+            "Lagoas intermitentes",
+            "Lagoas salinas",
+            "Lagoas costeiras barreiras"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Corpos d'\u00e1gua rasos e geralmente conectados ao mar, com influ\u00eancia das mar\u00e9s.",
+        "state": "explored"
+    },
+    "Manguezais": {
+        "superconcepts": [
+            "Zonas \u00famidas costeiras"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "Zonas de manguezal branco",
+            "Zonas de manguezal misto",
+            "Zonas de manguezal preto",
+            "Geoqu\u00edmica de manguezais",
+            "Hidrodin\u00e2mica dos manguezais",
+            "Vegeta\u00e7\u00e3o adaptada"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Ecossistemas de transi\u00e7\u00e3o entre ambientes terrestres e marinhos, caracterizados por vegeta\u00e7\u00e3o adaptada \u00e0 salinidade.",
+        "state": "explored"
+    },
+    "Marismas": {
+        "superconcepts": [
+            "Zonas \u00famidas costeiras"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "Vegeta\u00e7\u00e3o adaptada"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "\u00c1reas \u00famidas costeiras com vegeta\u00e7\u00e3o adaptada a condi\u00e7\u00f5es de inunda\u00e7\u00e3o e salinidade vari\u00e1vel.",
+        "state": "explored"
+    },
+    "Praias": {
+        "superconcepts": [
+            "ecossistemas costeiros"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "Dunas",
+            "Fundos de areia"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Faixas de areia ao longo da costa, sujeitas \u00e0 a\u00e7\u00e3o das ondas e mar\u00e9s.",
+        "state": "explored"
+    },
+    "Recifes de coral": {
+        "superconcepts": [
+            "ecossistemas costeiros"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [
+            {
+                "Rec": "Rec is a subcategory of Recifes de coral. Estruturas formadas por organismos marinhos que se desenvolvem em \u00e1guas rasas e tropicais."
+            }
+        ],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Estruturas formadas por organismos marinhos que se desenvolvem em \u00e1guas rasas e tropicais.",
+        "state": "explored"
+    },
+    "Zonas \u00famidas costeiras": {
+        "superconcepts": [
+            "ecossistemas costeiros"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "Manguezais",
+            "Lagoas costeiras",
+            "Estu\u00e1rios",
+            "Marismas",
+            "Comunidades de algas",
+            "Zona entremar\u00e9s"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "\u00c1reas de transi\u00e7\u00e3o entre ambientes terrestres e aqu\u00e1ticos, com influ\u00eancia das mar\u00e9s e rica biodiversidade.",
+        "state": "explored_empty"
+    },
+    "Comunidades de algas": {
+        "superconcepts": [
+            "Cost\u00f5es rochosos",
+            "Zonas \u00famidas costeiras"
+        ],
+        "levels": [
+            2,
+            2
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Agrupamentos de algas que habitam os cost\u00f5es rochosos.",
+        "state": "explored_empty"
+    },
+    "Habitats de invertebrados": {
+        "superconcepts": [
+            "Estu\u00e1rios",
+            "Cost\u00f5es rochosos"
+        ],
+        "levels": [
+            2,
+            3
+        ],
+        "subconcepts": [
+            "Fundos de areia"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Ambientes que fornecem condi\u00e7\u00f5es adequadas para a vida de invertebrados marinhos.",
+        "state": "explored"
+    },
+    "Comunidades de cost\u00f5es rochosos": {
+        "superconcepts": [
+            "Cost\u00f5es rochosos"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "Fafauna",
+            "Zona entremar\u00e9s",
+            "Biodiversidade dos cost\u00f5es rochosos"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Ambientes formados por estruturas rochosas que abrigam uma diversidade de organismos marinhos.",
+        "state": "explored"
+    },
+    "Zonas de influ\u00eancia estuarina": {
+        "superconcepts": [
+            "Estu\u00e1rios"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "Ambientes de transi\u00e7\u00e3o"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Regi\u00f5es adjacentes aos estu\u00e1rios que s\u00e3o influenciadas por suas caracter\u00edsticas.",
+        "state": "unexplored"
+    },
+    "Ambientes de transi\u00e7\u00e3o": {
+        "superconcepts": [
+            "Zonas de influ\u00eancia estuarina"
+        ],
+        "levels": [
+            4
+        ],
+        "subconcepts": [
+            "Fauna dos manguezais",
+            "Vegeta\u00e7\u00e3o de manguezal"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Etc is a subcategory of Estu\u00e1rios. \u00c1reas onde rios encontram o mar, formando um ambiente de transi\u00e7\u00e3o entre \u00e1gua doce e salgada.",
+        "state": "unexplored"
+    },
+    "Lagoas costeiras tropicais": {
+        "superconcepts": [
+            "Lagoas costeiras"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "Lagoas de \u00e1gua salgada",
+            "Lagoas costeiras de \u00e1gua doce"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Lagoas costeiras localizadas em regi\u00f5es tropicais.",
+        "state": "unexplored"
+    },
+    "Lagoas intermitentes": {
+        "superconcepts": [
+            "Lagoas costeiras"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Lagoas costeiras que se formam temporariamente.",
+        "state": "unexplored"
+    },
+    "Lagoas salinas": {
+        "superconcepts": [
+            "Lagoas costeiras"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "Lagoas de \u00e1gua salgada"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Lagoas costeiras com altas concentra\u00e7\u00f5es de sal.",
+        "state": "unexplored"
+    },
+    "Lagoas de \u00e1gua salgada": {
+        "superconcepts": [
+            "Lagoas costeiras tropicais",
+            "Lagoas salinas",
+            "Lagoas costeiras barreiras"
+        ],
+        "levels": [
+            4,
+            4,
+            4
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Lagoas costeiras com \u00e1gua salgada.",
+        "state": "unexplored"
+    },
+    "Lagoas costeiras barreiras": {
+        "superconcepts": [
+            "Lagoas costeiras"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "Lagoas de \u00e1gua salgada"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Corpos d'\u00e1gua costeiros rasos, separados do mar por barreiras de areia ou recifes.",
+        "state": "unexplored"
+    },
+    "Lagoas costeiras de \u00e1gua doce": {
+        "superconcepts": [
+            "Lagoas costeiras tropicais"
+        ],
+        "levels": [
+            4
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Lagoas costeiras com \u00e1gua doce.",
+        "state": "unexplored"
+    },
+    "Zonas de manguezal branco": {
+        "superconcepts": [
+            "Manguezais"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "Fauna dos manguezais",
+            "Vegeta\u00e7\u00e3o de manguezal"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Descreve as \u00e1reas de manguezal dominadas por esp\u00e9cies de mangue branco.",
+        "state": "unexplored"
+    },
+    "Zonas de manguezal misto": {
+        "superconcepts": [
+            "Manguezais"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "Fauna dos manguezais",
+            "Vegeta\u00e7\u00e3o de manguezal"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Descreve as \u00e1reas de manguezal onde ocorre uma mistura de esp\u00e9cies de mangue.",
+        "state": "unexplored"
+    },
+    "Zonas de manguezal preto": {
+        "superconcepts": [
+            "Manguezais"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "Fauna dos manguezais",
+            "Vegeta\u00e7\u00e3o de manguezal"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Descreve as \u00e1reas de manguezal dominadas por esp\u00e9cies de mangue preto.",
+        "state": "unexplored"
+    },
+    "Geoqu\u00edmica de manguezais": {
+        "superconcepts": [
+            "Manguezais"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Estuda os sedimentos presentes nos manguezais.",
+        "state": "unexplored"
+    },
+    "Fauna dos manguezais": {
+        "superconcepts": [
+            "Zonas de manguezal misto",
+            "Zonas de manguezal preto",
+            "Ambientes de transi\u00e7\u00e3o",
+            "Zonas de manguezal branco"
+        ],
+        "levels": [
+            4,
+            4,
+            4,
+            5
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Refere-se \u00e0 fauna presente nos manguezais.",
+        "state": "unexplored"
+    },
+    "Hidrodin\u00e2mica dos manguezais": {
+        "superconcepts": [
+            "Manguezais"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Estuda os processos hidrodin\u00e2micos que ocorrem nos manguezais.",
+        "state": "unexplored"
+    },
+    "Vegeta\u00e7\u00e3o de manguezal": {
+        "superconcepts": [
+            "Zonas de manguezal misto",
+            "Zonas de manguezal preto",
+            "Ambientes de transi\u00e7\u00e3o",
+            "Zonas de manguezal branco",
+            "Vegeta\u00e7\u00e3o adaptada"
+        ],
+        "levels": [
+            4,
+            4,
+            4,
+            4,
+            5
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Refere-se \u00e0 flora caracter\u00edstica dos manguezais.",
+        "state": "unexplored"
+    },
+    "Vegeta\u00e7\u00e3o adaptada": {
+        "superconcepts": [
+            "Manguezais",
+            "Marismas"
+        ],
+        "levels": [
+            3,
+            3
+        ],
+        "subconcepts": [
+            "Vegeta\u00e7\u00e3o de manguezal"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Plantas que se desenvolvem em condi\u00e7\u00f5es espec\u00edficas.",
+        "state": "unexplored"
+    },
+    "Dunas": {
+        "superconcepts": [
+            "Praias"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "Fauna de dunas",
+            "Vegeta\u00e7\u00e3o de dunas"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Ac\u00famulos de areia formados pela a\u00e7\u00e3o do vento, com vegeta\u00e7\u00e3o adaptada a condi\u00e7\u00f5es de solo inst\u00e1vel.",
+        "state": "explored"
+    },
+    "Fundos de areia": {
+        "superconcepts": [
+            "Habitats de invertebrados",
+            "Praias"
+        ],
+        "levels": [
+            2,
+            3,
+            4
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Sandy bottoms that provide habitats for a variety of invertebrates.",
+        "state": "unexplored"
+    },
+    "Fafauna": {
+        "superconcepts": [
+            "Comunidades de cost\u00f5es rochosos"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Fafauna is a subcategory of Comunidades de cost\u00f5es rochosos. Ambientes formados por estruturas rochosas que abrigam uma diversidade de organismos marinhos.",
+        "state": "unexplored"
+    },
+    "Microhabitats": {
+        "superconcepts": [
+            "Biodiversidade dos cost\u00f5es rochosos"
+        ],
+        "levels": [
+            4
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Microhabitats is a subcategory of Comunidades de cost\u00f5es rochosos. Ambientes formados por estruturas rochosas que abrigam uma diversidade de organismos marinhos.",
+        "state": "unexplored"
+    },
+    "Zona entremar\u00e9s": {
+        "superconcepts": [
+            "Comunidades de cost\u00f5es rochosos",
+            "Zonas \u00famidas costeiras"
+        ],
+        "levels": [
+            2,
+            3
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Intertidal zone is a subcategory of Comunidades de cost\u00f5es rochosos. Ambientes formados por estruturas rochosas que abrigam uma diversidade de organismos marinhos.",
+        "state": "unexplored"
+    },
+    "Biodiversidade dos cost\u00f5es rochosos": {
+        "superconcepts": [
+            "Comunidades de cost\u00f5es rochosos"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "Microhabitats"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Biodiversity is a subcategory of Comunidades de cost\u00f5es rochosos. Ambientes formados por estruturas rochosas que abrigam uma diversidade de organismos marinhos.",
+        "state": "unexplored"
+    },
+    "Fauna de dunas": {
+        "superconcepts": [
+            "Dunas"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Conjunto de animais adaptados a viver em ambientes de dunas.",
+        "state": "unexplored"
+    },
+    "Vegeta\u00e7\u00e3o de dunas": {
+        "superconcepts": [
+            "Dunas"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Plantas adaptadas a condi\u00e7\u00f5es de solo e vento caracter\u00edsticos das dunas.",
+        "state": "unexplored"
+    }
+}

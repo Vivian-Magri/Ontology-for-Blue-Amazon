@@ -1,0 +1,557 @@
+{
+    "Thing": {
+        "superconcepts": [],
+        "levels": [
+            -1
+        ],
+        "subconcepts": [
+            "ecossistemas costeiros brasileiros"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "state": "explored",
+        "definition": "top concept"
+    },
+    "ecossistemas costeiros brasileiros": {
+        "superconcepts": [
+            "Thing"
+        ],
+        "levels": [
+            0
+        ],
+        "subconcepts": [
+            "Lagoons",
+            "Recifes de coral",
+            "Restingas",
+            "Ilhas costeiras",
+            "Zonas de influ\u00eancia fluvial",
+            "Rocky shore communities"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "\"Ecossistemas costeiros brasileiros\" refers to the diverse ecosystems found along the Brazilian coast, including beaches, mangroves, estuaries, and coral reefs.",
+        "state": "explored"
+    },
+    "No subconcept": {
+        "superconcepts": [
+            "Lagoons",
+            "Hidrologia de restinga",
+            "Algae communities",
+            "Invertebrate communities",
+            "Recifal de plataforma",
+            "Esp\u00e9cies amea\u00e7adas nos recifes de coral",
+            "Forma\u00e7\u00f5es pioneiras",
+            "Vegeta\u00e7\u00e3o arbustiva",
+            "Boulder fields",
+            "Campos de dunas",
+            "Manguezal",
+            "Vegeta\u00e7\u00e3o costeira",
+            "Mata atl\u00e2ntica"
+        ],
+        "levels": [
+            99
+        ],
+        "subconcepts": [],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "state": "explored",
+        "definition": "bottom concept"
+    },
+    "Lagoons": {
+        "superconcepts": [
+            "ecossistemas costeiros brasileiros"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Shallow bodies of water separated from the ocean by barrier islands or reefs.",
+        "state": "explored_empty"
+    },
+    "Estu\u00e1rios": {
+        "superconcepts": [
+            "Zonas de influ\u00eancia fluvial"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "Manguezais"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Estu\u00e1rios is a subcategory of ecossistemas costeiros brasileiros. \"Ecossistemas costeiros brasileiros\" refers to the diverse ecosystems found along the Brazilian coast, including beaches, mangroves, estuaries, and coral reefs.",
+        "state": "explored"
+    },
+    "Manguezais": {
+        "superconcepts": [
+            "Estu\u00e1rios"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "Manguezal"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Manguezais is a subcategory of ecossistemas costeiros brasileiros. \"Ecossistemas costeiros brasileiros\" refers to the diverse ecosystems found along the Brazilian coast, including beaches, mangroves, estuaries, and coral reefs.",
+        "state": "explored_empty"
+    },
+    "Praias": {
+        "superconcepts": [
+            "Restingas"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "Floresta de restinga",
+            "Vegeta\u00e7\u00e3o costeira"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Praias is a subcategory of ecossistemas costeiros brasileiros. \"Ecossistemas costeiros brasileiros\" refers to the diverse ecosystems found along the Brazilian coast, including beaches, mangroves, estuaries, and coral reefs.",
+        "state": "explored_empty"
+    },
+    "Recifes de coral": {
+        "superconcepts": [
+            "ecossistemas costeiros brasileiros"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "Coral species diversity",
+            "Rec"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Recifes de coral is a subcategory of ecossistemas costeiros brasileiros. \"Ecossistemas costeiros brasileiros\" refers to the diverse ecosystems found along the Brazilian coast, including beaches, mangroves, estuaries, and coral reefs.",
+        "state": "explored"
+    },
+    "Restingas": {
+        "superconcepts": [
+            "ecossistemas costeiros brasileiros"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "Praias",
+            "Hidrologia de restinga"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Restingas is a subcategory of ecossistemas costeiros brasileiros. \"Ecossistemas costeiros brasileiros\" refers to the diverse ecosystems found along the Brazilian coast, including beaches, mangroves, estuaries, and coral reefs.",
+        "state": "explored"
+    },
+    "Cost\u00f5es rochosos": {
+        "superconcepts": [
+            "Rocky shore communities"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "Algae communities",
+            "Boulder fields",
+            "Tide pools"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Cost\u00f5es rochosos is a subcategory of ecossistemas costeiros brasileiros. \"Ecossistemas costeiros brasileiros\" refers to the diverse ecosystems found along the Brazilian coast, including beaches, mangroves, estuaries, and coral reefs.",
+        "state": "explored"
+    },
+    "Ilhas costeiras": {
+        "superconcepts": [
+            "ecossistemas costeiros brasileiros"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "Vegeta\u00e7\u00e3o"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Ilhas costeiras is a subcategory of ecossistemas costeiros brasileiros. \"Ecossistemas costeiros brasileiros\" refers to the diverse ecosystems found along the Brazilian coast, including beaches, mangroves, estuaries, and coral reefs.",
+        "state": "explored"
+    },
+    "Zonas de influ\u00eancia fluvial": {
+        "superconcepts": [
+            "ecossistemas costeiros brasileiros"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "Estu\u00e1rios"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "\u00c1reas onde a \u00e1gua doce dos rios se mistura com a \u00e1gua salgada do mar.",
+        "state": "explored_empty"
+    },
+    "Coral species diversity": {
+        "superconcepts": [
+            "Recifes de coral"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "Biodiversidade marinha dos recifes de coral"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Estudo da diversidade de esp\u00e9cies de coral nos recifes.",
+        "state": "explored_empty"
+    },
+    "Rec": {
+        "superconcepts": [
+            "Recifes de coral"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "Recifal de barreira",
+            "Recifal de plataforma"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Rec is a subcategory of Recifes de coral. Recifes de coral is a subcategory of ecossistemas costeiros brasileiros. \"Ecossistemas costeiros brasileiros\" refers to the diverse ecosystems found along the Brazilian coast, including beaches, mangroves, estuaries, and coral reefs.",
+        "state": "explored"
+    },
+    "Biodiversidade marinha dos recifes de coral": {
+        "superconcepts": [
+            "Coral species diversity",
+            "Recifal de barreira"
+        ],
+        "levels": [
+            3,
+            4
+        ],
+        "subconcepts": [
+            "Esp\u00e9cies amea\u00e7adas nos recifes de coral"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Refere-se \u00e0 variedade de vida marinha presente nos recifes de coral.",
+        "state": "explored"
+    },
+    "Hidrologia de restinga": {
+        "superconcepts": [
+            "Restingas"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Study of the water dynamics and hydrology of restinga ecosystems.",
+        "state": "explored_empty"
+    },
+    "Vegeta\u00e7\u00e3o de restinga": {
+        "superconcepts": [
+            "Floresta de restinga"
+        ],
+        "levels": [
+            4
+        ],
+        "subconcepts": [
+            "Vegeta\u00e7\u00e3o herb\u00e1cea de restinga",
+            "Forma\u00e7\u00f5es secund\u00e1rias"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Plant communities that are adapted to the unique conditions of restinga ecosystems.",
+        "state": "explored"
+    },
+    "Algae communities": {
+        "superconcepts": [
+            "Cost\u00f5es rochosos"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Diverse assemblages of algae species that inhabit rocky shore environments.",
+        "state": "explored_empty"
+    },
+    "Invertebrate communities": {
+        "superconcepts": [
+            "Tide pools"
+        ],
+        "levels": [
+            4
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Various groups of invertebrate animals that inhabit rocky intertidal areas.",
+        "state": "explored_empty"
+    },
+    "Rocky shore communities": {
+        "superconcepts": [
+            "ecossistemas costeiros brasileiros"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "Cost\u00f5es rochosos"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Complex ecosystems that include a variety of plant and animal species adapted to rocky habitats.",
+        "state": "explored"
+    },
+    "Vegeta\u00e7\u00e3o": {
+        "superconcepts": [
+            "Ilhas costeiras"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "Campos de dunas",
+            "Manguezal",
+            "Vegeta\u00e7\u00e3o costeira",
+            "Mata atl\u00e2ntica"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "The plant life found in coastal island ecosystems, including a variety of species adapted to sandy, rocky, and wetland environments.",
+        "state": "explored"
+    },
+    "Recifal de barreira": {
+        "superconcepts": [
+            "Rec"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "Biodiversidade marinha dos recifes de coral"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Coral reefs that develop parallel to the coastline.",
+        "state": "unexplored"
+    },
+    "Recifal de plataforma": {
+        "superconcepts": [
+            "Rec"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Coral reefs that form on submerged platforms.",
+        "state": "unexplored"
+    },
+    "Esp\u00e9cies amea\u00e7adas nos recifes de coral": {
+        "superconcepts": [
+            "Biodiversidade marinha dos recifes de coral"
+        ],
+        "levels": [
+            4,
+            5
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Species that are at risk of extinction or facing population decline within coral reef ecosystems.",
+        "state": "unexplored"
+    },
+    "Floresta de restinga": {
+        "superconcepts": [
+            "Praias"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "Vegeta\u00e7\u00e3o de restinga"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Forested areas with a variety of tree species in restinga ecosystems.",
+        "state": "unexplored"
+    },
+    "Vegeta\u00e7\u00e3o herb\u00e1cea de restinga": {
+        "superconcepts": [
+            "Vegeta\u00e7\u00e3o de restinga"
+        ],
+        "levels": [
+            5
+        ],
+        "subconcepts": [
+            "Forma\u00e7\u00f5es pioneiras"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Herbaceous plants that thrive in restinga habitats.",
+        "state": "unexplored"
+    },
+    "Forma\u00e7\u00f5es pioneiras": {
+        "superconcepts": [
+            "Vegeta\u00e7\u00e3o herb\u00e1cea de restinga"
+        ],
+        "levels": [
+            6
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Early successional plant communities that establish in restinga areas.",
+        "state": "unexplored"
+    },
+    "Forma\u00e7\u00f5es secund\u00e1rias": {
+        "superconcepts": [
+            "Vegeta\u00e7\u00e3o de restinga"
+        ],
+        "levels": [
+            5
+        ],
+        "subconcepts": [
+            "Vegeta\u00e7\u00e3o arbustiva"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Intermediate plant communities that develop in restinga ecosystems.",
+        "state": "unexplored"
+    },
+    "Vegeta\u00e7\u00e3o arbustiva": {
+        "superconcepts": [
+            "Forma\u00e7\u00f5es secund\u00e1rias"
+        ],
+        "levels": [
+            6
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Shrub-dominated vegetation found in restinga environments.",
+        "state": "unexplored"
+    },
+    "Boulder fields": {
+        "superconcepts": [
+            "Cost\u00f5es rochosos"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Areas with large rocks and boulders that provide habitat for various species.",
+        "state": "explored_empty"
+    },
+    "Tide pools": {
+        "superconcepts": [
+            "Cost\u00f5es rochosos"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "Invertebrate communities"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Small pools of water left behind by the receding tide that support a diverse range of organisms.",
+        "state": "explored_empty"
+    },
+    "Campos de dunas": {
+        "superconcepts": [
+            "Vegeta\u00e7\u00e3o"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Vegetation found in sandy dune environments.",
+        "state": "unexplored"
+    },
+    "Manguezal": {
+        "superconcepts": [
+            "Vegeta\u00e7\u00e3o",
+            "Manguezais"
+        ],
+        "levels": [
+            3,
+            4
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Mangrove vegetation along coastal estuaries.",
+        "state": "unexplored"
+    },
+    "Vegeta\u00e7\u00e3o costeira": {
+        "superconcepts": [
+            "Vegeta\u00e7\u00e3o",
+            "Praias"
+        ],
+        "levels": [
+            3,
+            3
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Plant life along coastal areas.",
+        "state": "unexplored"
+    },
+    "Mata atl\u00e2ntica": {
+        "superconcepts": [
+            "Vegeta\u00e7\u00e3o"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Lush and diverse tropical forest ecosystems.",
+        "state": "unexplored"
+    }
+}

@@ -1,0 +1,407 @@
+{
+    "Thing": {
+        "superconcepts": [],
+        "levels": [
+            -1
+        ],
+        "subconcepts": [
+            "Ecossistemas costeiros"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "state": "explored",
+        "definition": "top concept"
+    },
+    "Ecossistemas costeiros": {
+        "superconcepts": [
+            "Thing"
+        ],
+        "levels": [
+            0
+        ],
+        "subconcepts": [
+            "Estu\u00e1rios",
+            "Lagoas costeiras",
+            "Manguezais",
+            "Marismas",
+            "Restingas"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Ecossistemas costeiros s\u00e3o ambientes localizados na interface entre o meio terrestre e o mar, caracterizados por uma grande diversidade de esp\u00e9cies e intera\u00e7\u00f5es complexas entre os organismos e o ambiente f\u00edsico.",
+        "state": "explored"
+    },
+    "No subconcept": {
+        "superconcepts": [
+            "Marismas",
+            "Restingas",
+            "Impactos humanos",
+            "Manguezais de delta",
+            "Manguezais de estu\u00e1rios",
+            "Manguezais de franja",
+            "Manguezais de ilhas",
+            "Aves aqu\u00e1ticas",
+            "Influ\u00eancia das mar\u00e9s",
+            "Lagunas intermitentes",
+            "Lagunas permanentes",
+            "Lagoas de \u00e1gua doce permanentes",
+            "Lagoas de \u00e1gua doce tempor\u00e1rias"
+        ],
+        "levels": [
+            99
+        ],
+        "subconcepts": [],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "state": "explored",
+        "definition": "bottom concept"
+    },
+    "Estu\u00e1rios": {
+        "superconcepts": [
+            "Ecossistemas costeiros"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "Manguezais de estu\u00e1rios",
+            "Influ\u00eancia das mar\u00e9s"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Zonas de transi\u00e7\u00e3o entre rios e o mar, onde a \u00e1gua doce se mistura com a \u00e1gua salgada.",
+        "state": "explored_empty"
+    },
+    "Lagoas costeiras": {
+        "superconcepts": [
+            "Ecossistemas costeiros"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "Impactos humanos",
+            "Intera\u00e7\u00f5es com o oceano",
+            "Lagunas",
+            "Lagoas perenes"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Corpos d'\u00e1gua rasos e pr\u00f3ximos ao mar, influenciados pelas mar\u00e9s.",
+        "state": "explored"
+    },
+    "Manguezais": {
+        "superconcepts": [
+            "Ecossistemas costeiros"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "Manguezais de delta",
+            "Manguezais de estu\u00e1rios",
+            "Manguezais de franja",
+            "Manguezais de ilhas"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Ecossistemas de transi\u00e7\u00e3o entre ambientes terrestres e marinhos, caracterizados pela presen\u00e7a de \u00e1rvores adaptadas \u00e0 salinidade.",
+        "state": "explored"
+    },
+    "Marismas": {
+        "superconcepts": [
+            "Ecossistemas costeiros"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "\u00c1reas \u00famidas costeiras sujeitas a inunda\u00e7\u00f5es peri\u00f3dicas.",
+        "state": "explored_empty"
+    },
+    "Restingas": {
+        "superconcepts": [
+            "Ecossistemas costeiros"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Ecossistemas costeiros de transi\u00e7\u00e3o entre a praia e a vegeta\u00e7\u00e3o de restinga, com caracter\u00edsticas \u00fanicas de solo e vegeta\u00e7\u00e3o.",
+        "state": "explored_empty"
+    },
+    "Fauna aqu\u00e1tica": {
+        "superconcepts": [
+            "Lagoas costeiras de \u00e1gua doce"
+        ],
+        "levels": [
+            4
+        ],
+        "subconcepts": [
+            "Aves aqu\u00e1ticas"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Conjunto de organismos aqu\u00e1ticos presentes nas lagoas costeiras.",
+        "state": "explored"
+    },
+    "Impactos humanos": {
+        "superconcepts": [
+            "Lagoas costeiras"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "A\u00e7\u00f5es e influ\u00eancias da atividade humana sobre as lagoas costeiras.",
+        "state": "explored_empty"
+    },
+    "Intera\u00e7\u00f5es com o oceano": {
+        "superconcepts": [
+            "Lagoas costeiras"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "Influ\u00eancia das mar\u00e9s"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Rela\u00e7\u00f5es e trocas de materiais e energia entre as lagoas costeiras e o oceano.",
+        "state": "explored"
+    },
+    "Lagunas": {
+        "superconcepts": [
+            "Lagoas costeiras"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "Lagunas de \u00e1gua doce"
+        ],
+        "cycles": [
+            {
+                "Lagunas costeiras": "Lagoas localizadas pr\u00f3ximas ao litoral."
+            }
+        ],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Lagoas costeiras de pequena extens\u00e3o.",
+        "state": "explored"
+    },
+    "Lagoas perenes": {
+        "superconcepts": [
+            "Lagoas costeiras"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "Lagoas costeiras de \u00e1gua doce"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Lagoas costeiras que mant\u00eam sua presen\u00e7a ao longo do tempo.",
+        "state": "explored_empty"
+    },
+    "Lagoas costeiras de \u00e1gua doce": {
+        "superconcepts": [
+            "Lagoas perenes"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "Fauna aqu\u00e1tica",
+            "Lagoas de \u00e1gua doce permanentes",
+            "Lagoas de \u00e1gua doce tempor\u00e1rias"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Lagoas costeiras com \u00e1gua doce.",
+        "state": "explored"
+    },
+    "Manguezais de delta": {
+        "superconcepts": [
+            "Manguezais"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Tipo espec\u00edfico de manguezal.",
+        "state": "explored_empty"
+    },
+    "Manguezais de estu\u00e1rios": {
+        "superconcepts": [
+            "Manguezais",
+            "Estu\u00e1rios"
+        ],
+        "levels": [
+            2,
+            2
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Tipo espec\u00edfico de manguezal.",
+        "state": "explored_empty"
+    },
+    "Manguezais de franja": {
+        "superconcepts": [
+            "Manguezais"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Tipo espec\u00edfico de manguezal.",
+        "state": "explored_empty"
+    },
+    "Manguezais de ilhas": {
+        "superconcepts": [
+            "Manguezais"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Tipo espec\u00edfico de manguezal.",
+        "state": "explored_empty"
+    },
+    "Aves aqu\u00e1ticas": {
+        "superconcepts": [
+            "Fauna aqu\u00e1tica"
+        ],
+        "levels": [
+            5
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Grupo de aves que habitam ambientes aqu\u00e1ticos, como rios, lagos e oceanos.",
+        "state": "unexplored"
+    },
+    "Influ\u00eancia das mar\u00e9s": {
+        "superconcepts": [
+            "Intera\u00e7\u00f5es com o oceano",
+            "Estu\u00e1rios"
+        ],
+        "levels": [
+            2,
+            3
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Efeitos das mar\u00e9s na din\u00e2mica costeira.",
+        "state": "unexplored"
+    },
+    "Lagunas de \u00e1gua doce": {
+        "superconcepts": [
+            "Lagunas"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "Lagunas intermitentes",
+            "Lagunas permanentes"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Lagoas com \u00e1gua doce.",
+        "state": "unexplored"
+    },
+    "Lagunas intermitentes": {
+        "superconcepts": [
+            "Lagunas de \u00e1gua doce"
+        ],
+        "levels": [
+            4
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Lagoas que t\u00eam per\u00edodos de seca e inunda\u00e7\u00e3o.",
+        "state": "unexplored"
+    },
+    "Lagunas permanentes": {
+        "superconcepts": [
+            "Lagunas de \u00e1gua doce"
+        ],
+        "levels": [
+            4
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Lagoas que mant\u00eam \u00e1gua ao longo do ano.",
+        "state": "unexplored"
+    },
+    "Lagoas de \u00e1gua doce permanentes": {
+        "superconcepts": [
+            "Lagoas costeiras de \u00e1gua doce"
+        ],
+        "levels": [
+            4
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Lagoas costeiras que mant\u00eam \u00e1gua doce de forma cont\u00ednua ao longo do tempo.",
+        "state": "unexplored"
+    },
+    "Lagoas de \u00e1gua doce tempor\u00e1rias": {
+        "superconcepts": [
+            "Lagoas costeiras de \u00e1gua doce"
+        ],
+        "levels": [
+            4
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Lagoas costeiras que apresentam varia\u00e7\u00e3o sazonal na quantidade de \u00e1gua doce.",
+        "state": "unexplored"
+    }
+}

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <owl:Class rdf:about="#Lagoas%20de%20água%20salgada">
+    <rdfs:label>Lagoas de água salgada</rdfs:label>
+    <rdfs:comment>Lagoas costeiras com água salgada.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Lagoas%20costeiras%20tropicais"/>
+    <rdfs:subClassOf rdf:resource="#Lagoas%20salinas"/>
+    <rdfs:subClassOf rdf:resource="#Lagoas%20costeiras%20barreiras"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Lagoas%20intermitentes">
+    <rdfs:label>Lagoas intermitentes</rdfs:label>
+    <rdfs:comment>Lagoas costeiras que se formam temporariamente.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Lagoas%20costeiras"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Fundos%20de%20areia">
+    <rdfs:label>Fundos de areia</rdfs:label>
+    <rdfs:comment>Sandy bottoms that provide habitats for a variety of invertebrates.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Habitats%20de%20invertebrados"/>
+    <rdfs:subClassOf rdf:resource="#Praias"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Hidrodinâmica%20dos%20manguezais">
+    <rdfs:label>Hidrodinâmica dos manguezais</rdfs:label>
+    <rdfs:comment>Estuda os processos hidrodinâmicos que ocorrem nos manguezais.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Manguezais"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Fauna%20dos%20manguezais">
+    <rdfs:label>Fauna dos manguezais</rdfs:label>
+    <rdfs:comment>Refere-se à fauna presente nos manguezais.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Zonas%20de%20manguezal%20misto"/>
+    <rdfs:subClassOf rdf:resource="#Zonas%20de%20manguezal%20preto"/>
+    <rdfs:subClassOf rdf:resource="#Ambientes%20de%20transição"/>
+    <rdfs:subClassOf rdf:resource="#Zonas%20de%20manguezal%20branco"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Fafauna">
+    <rdfs:label>Fafauna</rdfs:label>
+    <rdfs:comment>Fafauna is a subcategory of Comunidades de costões rochosos. Ambientes formados por estruturas rochosas que abrigam uma diversidade de organismos marinhos.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Comunidades%20de%20costões%20rochosos"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Lagoas%20costeiras%20de%20água%20doce">
+    <rdfs:label>Lagoas costeiras de água doce</rdfs:label>
+    <rdfs:comment>Lagoas costeiras com água doce.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Lagoas%20costeiras%20tropicais"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Microhabitats">
+    <rdfs:label>Microhabitats</rdfs:label>
+    <rdfs:comment>Microhabitats is a subcategory of Comunidades de costões rochosos. Ambientes formados por estruturas rochosas que abrigam uma diversidade de organismos marinhos.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Biodiversidade%20dos%20costões%20rochosos"/>
+  </owl:Class>
+  <owl:Ontology rdf:about="file:///ecossistemas_costeiros.owl"/>
+  <owl:Class rdf:about="#Recifes%20de%20coral">
+    <rdfs:label>Recifes de coral</rdfs:label>
+    <rdfs:comment>Estruturas formadas por organismos marinhos que se desenvolvem em águas rasas e tropicais.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#ecossistemas%20costeiros"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Vegetação%20de%20dunas">
+    <rdfs:label>Vegetação de dunas</rdfs:label>
+    <rdfs:comment>Plantas adaptadas a condições de solo e vento característicos das dunas.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Dunas"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Geoquímica%20de%20manguezais">
+    <rdfs:label>Geoquímica de manguezais</rdfs:label>
+    <rdfs:comment>Estuda os sedimentos presentes nos manguezais.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Manguezais"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Fauna%20de%20dunas">
+    <rdfs:label>Fauna de dunas</rdfs:label>
+    <rdfs:comment>Conjunto de animais adaptados a viver em ambientes de dunas.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Dunas"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Vegetação%20de%20manguezal">
+    <rdfs:label>Vegetação de manguezal</rdfs:label>
+    <rdfs:comment>Refere-se à flora característica dos manguezais.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Zonas%20de%20manguezal%20misto"/>
+    <rdfs:subClassOf rdf:resource="#Zonas%20de%20manguezal%20preto"/>
+    <rdfs:subClassOf rdf:resource="#Ambientes%20de%20transição"/>
+    <rdfs:subClassOf rdf:resource="#Zonas%20de%20manguezal%20branco"/>
+    <rdfs:subClassOf rdf:resource="#Vegetação%20adaptada"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Comunidades%20de%20algas">
+    <rdfs:label>Comunidades de algas</rdfs:label>
+    <rdfs:comment>Agrupamentos de algas que habitam os costões rochosos.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Costões%20rochosos"/>
+    <rdfs:subClassOf rdf:resource="#Zonas%20úmidas%20costeiras"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Zona%20entremarés">
+    <rdfs:label>Zona entremarés</rdfs:label>
+    <rdfs:comment>Intertidal zone is a subcategory of Comunidades de costões rochosos. Ambientes formados por estruturas rochosas que abrigam uma diversidade de organismos marinhos.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Comunidades%20de%20costões%20rochosos"/>
+    <rdfs:subClassOf rdf:resource="#Zonas%20úmidas%20costeiras"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Marismas">
+    <rdfs:label>Marismas</rdfs:label>
+    <rdfs:comment>Áreas úmidas costeiras com vegetação adaptada a condições de inundação e salinidade variável.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Zonas%20úmidas%20costeiras"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Zonas%20de%20manguezal%20branco">
+    <rdfs:label>Zonas de manguezal branco</rdfs:label>
+    <rdfs:comment>Descreve as áreas de manguezal dominadas por espécies de mangue branco.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Manguezais"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Zonas%20de%20manguezal%20misto">
+    <rdfs:label>Zonas de manguezal misto</rdfs:label>
+    <rdfs:comment>Descreve as áreas de manguezal onde ocorre uma mistura de espécies de mangue.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Manguezais"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Dunas">
+    <rdfs:label>Dunas</rdfs:label>
+    <rdfs:comment>Acúmulos de areia formados pela ação do vento, com vegetação adaptada a condições de solo instável.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Praias"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Ambientes%20de%20transição">
+    <rdfs:label>Ambientes de transição</rdfs:label>
+    <rdfs:comment>Etc is a subcategory of Estuários. Áreas onde rios encontram o mar, formando um ambiente de transição entre água doce e salgada.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Zonas%20de%20influência%20estuarina"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Costões%20rochosos">
+    <rdfs:label>Costões rochosos</rdfs:label>
+    <rdfs:comment>Ambientes costeiros caracterizados por formações rochosas expostas à ação das ondas.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#ecossistemas%20costeiros"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Zonas%20úmidas%20costeiras">
+    <rdfs:label>Zonas úmidas costeiras</rdfs:label>
+    <rdfs:comment>Áreas de transição entre ambientes terrestres e aquáticos, com influência das marés e rica biodiversidade.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#ecossistemas%20costeiros"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Praias">
+    <rdfs:label>Praias</rdfs:label>
+    <rdfs:comment>Faixas de areia ao longo da costa, sujeitas à ação das ondas e marés.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#ecossistemas%20costeiros"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Vegetação%20adaptada">
+    <rdfs:label>Vegetação adaptada</rdfs:label>
+    <rdfs:comment>Plantas que se desenvolvem em condições específicas.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Manguezais"/>
+    <rdfs:subClassOf rdf:resource="#Marismas"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Lagoas%20salinas">
+    <rdfs:label>Lagoas salinas</rdfs:label>
+    <rdfs:comment>Lagoas costeiras com altas concentrações de sal.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Lagoas%20costeiras"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Lagoas%20costeiras%20tropicais">
+    <rdfs:label>Lagoas costeiras tropicais</rdfs:label>
+    <rdfs:comment>Lagoas costeiras localizadas em regiões tropicais.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Lagoas%20costeiras"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Biodiversidade%20dos%20costões%20rochosos">
+    <rdfs:label>Biodiversidade dos costões rochosos</rdfs:label>
+    <rdfs:comment>Biodiversity is a subcategory of Comunidades de costões rochosos. Ambientes formados por estruturas rochosas que abrigam uma diversidade de organismos marinhos.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Comunidades%20de%20costões%20rochosos"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Zonas%20de%20manguezal%20preto">
+    <rdfs:label>Zonas de manguezal preto</rdfs:label>
+    <rdfs:comment>Descreve as áreas de manguezal dominadas por espécies de mangue preto.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Manguezais"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Lagoas%20costeiras">
+    <rdfs:label>Lagoas costeiras</rdfs:label>
+    <rdfs:comment>Corpos d'água rasos e geralmente conectados ao mar, com influência das marés.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Zonas%20úmidas%20costeiras"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Habitats%20de%20invertebrados">
+    <rdfs:label>Habitats de invertebrados</rdfs:label>
+    <rdfs:comment>Ambientes que fornecem condições adequadas para a vida de invertebrados marinhos.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Estuários"/>
+    <rdfs:subClassOf rdf:resource="#Costões%20rochosos"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Comunidades%20de%20costões%20rochosos">
+    <rdfs:label>Comunidades de costões rochosos</rdfs:label>
+    <rdfs:comment>Ambientes formados por estruturas rochosas que abrigam uma diversidade de organismos marinhos.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Costões%20rochosos"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Lagoas%20costeiras%20barreiras">
+    <rdfs:label>Lagoas costeiras barreiras</rdfs:label>
+    <rdfs:comment>Corpos d'água costeiros rasos, separados do mar por barreiras de areia ou recifes.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Lagoas%20costeiras"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Estuários">
+    <rdfs:label>Estuários</rdfs:label>
+    <rdfs:comment>Áreas onde rios encontram o mar, formando um ambiente de transição entre água doce e salgada.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Zonas%20úmidas%20costeiras"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Zonas%20de%20influência%20estuarina">
+    <rdfs:label>Zonas de influência estuarina</rdfs:label>
+    <rdfs:comment>Regiões adjacentes aos estuários que são influenciadas por suas características.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Estuários"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Manguezais">
+    <rdfs:label>Manguezais</rdfs:label>
+    <rdfs:comment>Ecossistemas de transição entre ambientes terrestres e marinhos, caracterizados por vegetação adaptada à salinidade.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Zonas%20úmidas%20costeiras"/>
+  </owl:Class>
+  <owl:Class rdf:about="#ecossistemas%20costeiros">
+    <rdfs:label>ecossistemas costeiros</rdfs:label>
+    <rdfs:comment>Ecossistemas costeiros referem-se aos ambientes naturais localizados na interface entre a terra e o mar.</rdfs:comment>
+  </owl:Class>
+</rdf:RDF>

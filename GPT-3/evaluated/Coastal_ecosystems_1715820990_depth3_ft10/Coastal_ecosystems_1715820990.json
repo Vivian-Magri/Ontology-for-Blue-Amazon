@@ -1,0 +1,353 @@
+{
+    "Thing": {
+        "superconcepts": [],
+        "levels": [
+            -1
+        ],
+        "subconcepts": [
+            "Coastal ecosystems"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "state": "explored",
+        "definition": "top concept"
+    },
+    "Coastal ecosystems": {
+        "superconcepts": [
+            "Thing"
+        ],
+        "levels": [
+            0
+        ],
+        "subconcepts": [
+            "Estuaries",
+            "Mangrove forests",
+            "Rocky shores",
+            "Seagrass meadows"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Coastal ecosystems refer to the diverse habitats and species found along the interface between land and sea.",
+        "state": "explored"
+    },
+    "No subconcept": {
+        "superconcepts": [
+            "Salt marshes",
+            "Threats to mangrove forests",
+            "Avicennia",
+            "Fisheries habitat",
+            "Fisheries support",
+            "Avian species",
+            "Fish species",
+            "Invertebrate species",
+            "Mudflats"
+        ],
+        "levels": [
+            99
+        ],
+        "subconcepts": [],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "state": "explored",
+        "definition": "bottom concept"
+    },
+    "Estuaries": {
+        "superconcepts": [
+            "Coastal ecosystems"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "Salt marshes",
+            "Fisheries habitat",
+            "Fisheries support",
+            "Invertebrate species"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Transitional zones where rivers meet the sea, characterized by fluctuating salinity levels.",
+        "state": "explored_empty"
+    },
+    "Mangrove forests": {
+        "superconcepts": [
+            "Coastal ecosystems"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "Mangrove ecosystem services",
+            "Threats to mangrove forests",
+            "Mangrove biodiversity"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Coastal wetlands dominated by salt-tolerant trees and shrubs that thrive in brackish water.",
+        "state": "explored"
+    },
+    "Rocky shores": {
+        "superconcepts": [
+            "Coastal ecosystems"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "Intertidal zones"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Coastal habitats with solid substrate, exposed to wave action and supporting diverse intertidal communities.",
+        "state": "explored"
+    },
+    "Salt marshes": {
+        "superconcepts": [
+            "Estuaries"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Coastal wetlands flooded and drained by tides, characterized by salt-tolerant grasses and sedges.",
+        "state": "explored_empty"
+    },
+    "Seagrass meadows": {
+        "superconcepts": [
+            "Coastal ecosystems"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "Seagrass ecosystem services"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Coastal habitats dominated by seagrasses, which play a crucial role in stabilizing sediments and providing habitat for various species.",
+        "state": "explored"
+    },
+    "Mangrove ecosystem services": {
+        "superconcepts": [
+            "Mangrove forests"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "Fisheries support"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Describes the benefits and functions that mangrove forests provide to the environment and human communities.",
+        "state": "explored"
+    },
+    "Threats to mangrove forests": {
+        "superconcepts": [
+            "Mangrove forests"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Factors that pose risks to the health and survival of mangrove ecosystems.",
+        "state": "explored_empty"
+    },
+    "Mangrove biodiversity": {
+        "superconcepts": [
+            "Mangrove forests"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "Red: mangrove species",
+            "Avian species",
+            "Fish species",
+            "Invertebrate species"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "The range of different plant and animal species that inhabit mangrove forests.",
+        "state": "explored"
+    },
+    "Red: mangrove species": {
+        "superconcepts": [
+            "Mangrove biodiversity"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "Avicennia"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Red: mangrove species is a subcategory of Mangrove forests. Coastal wetlands dominated by salt-tolerant trees and shrubs that thrive in brackish water.",
+        "state": "explored_empty"
+    },
+    "Avicennia": {
+        "superconcepts": [
+            "Red: mangrove species"
+        ],
+        "levels": [
+            4
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Avmangrove species diversity is a subcategory of Mangrove forests. Coastal wetlands dominated by salt-tolerant trees and shrubs that thrive in brackish water.",
+        "state": "explored_empty"
+    },
+    "Intertidal zones": {
+        "superconcepts": [
+            "Rocky shores"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "Mudflats"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Intertidal zones is a subcategory of Rocky shores. Coastal habitats with solid substrate, exposed to wave action and supporting diverse intertidal communities.",
+        "state": "explored"
+    },
+    "Fisheries habitat": {
+        "superconcepts": [
+            "Estuaries",
+            "Biodiversity support"
+        ],
+        "levels": [
+            2,
+            4
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Seagrass meadows provide important nursery and feeding grounds for various fish species.",
+        "state": "explored_empty"
+    },
+    "Seagrass ecosystem services": {
+        "superconcepts": [
+            "Seagrass meadows"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "Biodiversity support"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "The various benefits and functions provided by seagrass meadows to coastal ecosystems and human communities.",
+        "state": "explored"
+    },
+    "Fisheries support": {
+        "superconcepts": [
+            "Mangrove ecosystem services",
+            "Estuaries"
+        ],
+        "levels": [
+            2,
+            3
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Mangroves serve as nurseries and feeding grounds for many fish and shellfish species, supporting local fisheries and livelihoods.",
+        "state": "unexplored"
+    },
+    "Avian species": {
+        "superconcepts": [
+            "Mangrove biodiversity"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Refers to the various bird species that inhabit or rely on mangrove ecosystems.",
+        "state": "unexplored"
+    },
+    "Fish species": {
+        "superconcepts": [
+            "Mangrove biodiversity"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Denotes the diverse array of fish species that are found in mangrove habitats.",
+        "state": "unexplored"
+    },
+    "Invertebrate species": {
+        "superconcepts": [
+            "Estuaries",
+            "Mangrove biodiversity"
+        ],
+        "levels": [
+            2,
+            3
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Encompasses the wide range of invertebrates, such as crabs and mollusks, that inhabit mangrove environments.",
+        "state": "unexplored"
+    },
+    "Mudflats": {
+        "superconcepts": [
+            "Intertidal zones"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Coastal habitats characterized by soft, muddy substrate that are exposed during low tides.",
+        "state": "unexplored"
+    },
+    "Biodiversity support": {
+        "superconcepts": [
+            "Seagrass ecosystem services"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "Fisheries habitat"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Seagrass meadows provide essential habitats for a wide range of marine species, contributing to overall biodiversity.",
+        "state": "unexplored"
+    }
+}
