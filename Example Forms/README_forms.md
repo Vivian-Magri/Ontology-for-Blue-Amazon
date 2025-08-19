@@ -1,0 +1,3 @@
+These are examples of the two types of forms that were used for the evaluation of the ontologies according to the model that was used to build them. 
+As it can be observed, the questions were tailored according to the ontology under evaluation.
+Since the respondents were all Brazilian, the questions were made using Brazilian Portuguese (maintaining, of course, the referenced concept names and their description in the language and in the exact form that they were outputted by the model).
