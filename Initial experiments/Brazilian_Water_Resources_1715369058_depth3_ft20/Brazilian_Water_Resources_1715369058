@@ -1,0 +1,19 @@
+digraph {
+  rankdir=LR;
+ "Brazilian Water Resources" [shape = rect];
+  "Brazilian Water Resources" -> "Lakes";
+  "Brazilian Water Resources" -> "Reservoirs";
+ "Lakes" [shape = rect];
+  "Lakes" -> "Natural lakes";
+ "Reservoirs" [shape = rect];
+  "Reservoirs" -> "Recreational reservoirs";
+ "Natural lakes" [shape = rect];
+  "Natural lakes" -> "Mesotrophic lakes";
+  "Natural lakes" -> "Oligotrophic lakes";
+ "Recreational reservoirs" [shape = rect];
+ "Mesotrophic lakes" [shape = rect];
+ "Oligotrophic lakes" [shape = rect];
+subgraph cluster_metadata {
+metadata_node [label="Concepts: 7\l Subsumptions: 6\l Exploration Depth: 3\l Frequency Threshold: 20\l" shape=none];
+}
+}

@@ -1,0 +1,105 @@
+{
+    "Thing": {
+        "superconcepts": [],
+        "levels": [
+            -1
+        ],
+        "subconcepts": [
+            "Brazilian Water Resources"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "state": "explored",
+        "definition": "top concept"
+    },
+    "Brazilian Water Resources": {
+        "superconcepts": [
+            "Thing"
+        ],
+        "levels": [
+            0
+        ],
+        "subconcepts": [
+            "Lakes",
+            "Reservoirs"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Brazilian Water Resources refer to the various bodies of water, such as rivers, lakes, and aquifers, that are found within the borders of Brazil and are essential for supporting the country's ecosystems and human populations.",
+        "state": "explored"
+    },
+    "No subconcept": {
+        "superconcepts": [
+            "Natural lakes",
+            "Recreational reservoirs"
+        ],
+        "levels": [
+            99
+        ],
+        "subconcepts": [],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "state": "explored",
+        "definition": "bottom concept"
+    },
+    "Lakes": {
+        "superconcepts": [
+            "Brazilian Water Resources"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "Natural lakes"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Inland bodies of water that vary in size and depth, serving as habitats for aquatic life and important for water storage and recreation.",
+        "state": "explored"
+    },
+    "Reservoirs": {
+        "superconcepts": [
+            "Brazilian Water Resources"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "Recreational reservoirs"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Artificial lakes created by damming rivers, used for water supply, flood control, hydropower generation, and recreational activities.",
+        "state": "explored"
+    },
+    "Natural lakes": {
+        "superconcepts": [
+            "Lakes"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Lakes that form naturally through geological processes, such as glacial, volcanic, or tectonic activity.",
+        "state": "unexplored"
+    },
+    "Recreational reservoirs": {
+        "superconcepts": [
+            "Reservoirs"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Reservoirs that provide opportunities for leisure activities such as boating, fishing, and swimming.",
+        "state": "unexplored"
+    }
+}

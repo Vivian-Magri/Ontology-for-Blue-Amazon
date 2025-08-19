@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+>
+  <owl:Class rdf:about="#Recreational%20reservoirs">
+    <rdfs:label>Recreational reservoirs</rdfs:label>
+    <rdfs:comment>Reservoirs that provide opportunities for leisure activities such as boating, fishing, and swimming.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Reservoirs"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Natural%20lakes">
+    <rdfs:label>Natural lakes</rdfs:label>
+    <rdfs:comment>Lakes that form naturally through geological processes, such as glacial, volcanic, or tectonic activity.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Lakes"/>
+  </owl:Class>
+  <owl:Ontology rdf:about="file:///Brazilian Water Resources.owl"/>
+  <owl:Class rdf:about="#Brazilian%20Water%20Resources">
+    <rdfs:label>Brazilian Water Resources</rdfs:label>
+    <rdfs:comment>Brazilian Water Resources refer to the various bodies of water, such as rivers, lakes, and aquifers, that are found within the borders of Brazil and are essential for supporting the country's ecosystems and human populations.</rdfs:comment>
+  </owl:Class>
+  <owl:Class rdf:about="#Lakes">
+    <rdfs:label>Lakes</rdfs:label>
+    <rdfs:comment>Inland bodies of water that vary in size and depth, serving as habitats for aquatic life and important for water storage and recreation.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Brazilian%20Water%20Resources"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Reservoirs">
+    <rdfs:label>Reservoirs</rdfs:label>
+    <rdfs:comment>Artificial lakes created by damming rivers, used for water supply, flood control, hydropower generation, and recreational activities.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Brazilian%20Water%20Resources"/>
+  </owl:Class>
+</rdf:RDF>

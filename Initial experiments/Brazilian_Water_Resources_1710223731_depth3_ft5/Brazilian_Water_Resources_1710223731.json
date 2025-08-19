@@ -1,0 +1,376 @@
+{
+    "Thing": {
+        "superconcepts": [],
+        "levels": [
+            -1
+        ],
+        "subconcepts": [
+            "Brazilian Water Resources"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "state": "explored",
+        "definition": "top concept"
+    },
+    "Brazilian Water Resources": {
+        "superconcepts": [
+            "Thing"
+        ],
+        "levels": [
+            0
+        ],
+        "subconcepts": [
+            "Lakes",
+            "Reservoirs",
+            "Estuaries"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Brazilian Water Resources refer to the various bodies of water, such as rivers, lakes, and aquifers, that are found within the borders of Brazil and are essential for supporting the country's ecosystems and human populations.",
+        "state": "explored"
+    },
+    "No subconcept": {
+        "superconcepts": [
+            "Estuaries",
+            "Recreation",
+            "Mesotrophic lakes",
+            "Oligotrophic lakes",
+            "Eutrophic lakes",
+            "Lake ecosystem services",
+            "O natural lakes",
+            "Reservoir lakes",
+            "Hydroelectric reservoirs",
+            "Sediment trapping",
+            "Emergency flood reservoirs"
+        ],
+        "levels": [
+            99
+        ],
+        "subconcepts": [],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "state": "explored",
+        "definition": "bottom concept"
+    },
+    "Lakes": {
+        "superconcepts": [
+            "Brazilian Water Resources"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "Natural lakes",
+            "Man-made lakes"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Inland bodies of water that vary in size and depth, serving as habitats for aquatic life and important for water storage and recreation.",
+        "state": "explored"
+    },
+    "Reservoirs": {
+        "superconcepts": [
+            "Brazilian Water Resources"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "Man-made lakes",
+            "Flood control reservoirs",
+            "Recreational reservoirs"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Artificial lakes created by damming rivers, used for water supply, flood control, hydropower generation, and recreational activities.",
+        "state": "explored"
+    },
+    "Estuaries": {
+        "superconcepts": [
+            "Brazilian Water Resources"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Coastal bodies of water where freshwater from rivers mixes with saltwater from the ocean.",
+        "state": "explored_empty"
+    },
+    "Natural lakes": {
+        "superconcepts": [
+            "Lakes"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "Freshwater lakes"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Lakes that form naturally through geological processes, such as glacial, volcanic, or tectonic activity.",
+        "state": "explored"
+    },
+    "Freshwater lakes": {
+        "superconcepts": [
+            "Natural lakes"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "Mesotrophic lakes",
+            "Oligotrophic lakes",
+            "Eutrophic lakes",
+            "Lake ecosystem services",
+            "O natural lakes",
+            "Reservoir lakes"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Lakes with predominantly fresh water.",
+        "state": "explored"
+    },
+    "Man-made lakes": {
+        "superconcepts": [
+            "Reservoirs",
+            "Lakes"
+        ],
+        "levels": [
+            2,
+            2
+        ],
+        "subconcepts": [
+            "Reservoir lakes",
+            "Recreational lakes",
+            "Hydroelectric reservoirs"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Lakes created by human activities, such as damming rivers or excavating land.",
+        "state": "explored"
+    },
+    "Recreation": {
+        "superconcepts": [
+            "Recreational reservoirs",
+            "Recreational lakes"
+        ],
+        "levels": [
+            3,
+            4
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Reservoirs that provide opportunities for leisure activities.",
+        "state": "explored_empty"
+    },
+    "Flood control reservoirs": {
+        "superconcepts": [
+            "Reservoirs"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "Sediment management strategies",
+            "Emergency flood reservoirs"
+        ],
+        "cycles": [
+            {
+                "Flood mitigation reservoirs": "Reservoirs designed to reduce the impact of flooding events."
+            }
+        ],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Reservoirs built primarily to mitigate the impacts of flooding in downstream areas.",
+        "state": "explored"
+    },
+    "Recreational reservoirs": {
+        "superconcepts": [
+            "Reservoirs"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "Recreation"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Reservoirs that provide opportunities for leisure activities such as boating, fishing, and swimming.",
+        "state": "explored_empty"
+    },
+    "Mesotrophic lakes": {
+        "superconcepts": [
+            "Freshwater lakes"
+        ],
+        "levels": [
+            4
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Lakes with moderate nutrient levels and a balance of plant and animal life.",
+        "state": "unexplored"
+    },
+    "Oligotrophic lakes": {
+        "superconcepts": [
+            "Freshwater lakes"
+        ],
+        "levels": [
+            4
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Lakes with low nutrient levels, clear water, and limited plant and algae growth.",
+        "state": "unexplored"
+    },
+    "Eutrophic lakes": {
+        "superconcepts": [
+            "Freshwater lakes"
+        ],
+        "levels": [
+            4
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Lakes with high nutrient levels, often resulting in excessive plant growth and low oxygen levels.",
+        "state": "unexplored"
+    },
+    "Lake ecosystem services": {
+        "superconcepts": [
+            "Freshwater lakes"
+        ],
+        "levels": [
+            4
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "The benefits that freshwater lakes provide to both the environment and human populations.",
+        "state": "unexplored"
+    },
+    "O natural lakes": {
+        "superconcepts": [
+            "Freshwater lakes"
+        ],
+        "levels": [
+            4
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "O natural lakes is a subcategory of Freshwater lakes. Lakes with predominantly fresh water.",
+        "state": "unexplored"
+    },
+    "Reservoir lakes": {
+        "superconcepts": [
+            "Man-made lakes",
+            "Freshwater lakes"
+        ],
+        "levels": [
+            3,
+            4
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Artificial lakes created by constructing dams across rivers to store water for various purposes.",
+        "state": "unexplored"
+    },
+    "Recreational lakes": {
+        "superconcepts": [
+            "Man-made lakes"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "Recreation"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Man-made lakes created primarily for recreational activities such as swimming, boating, and fishing.",
+        "state": "unexplored"
+    },
+    "Hydroelectric reservoirs": {
+        "superconcepts": [
+            "Man-made lakes"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Man-made lakes formed by damming rivers to store water for hydroelectric power generation.",
+        "state": "unexplored"
+    },
+    "Sediment trapping": {
+        "superconcepts": [
+            "Sediment management strategies"
+        ],
+        "levels": [
+            4
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Reservoirs that capture sediment to prevent downstream erosion.",
+        "state": "unexplored"
+    },
+    "Sediment management strategies": {
+        "superconcepts": [
+            "Flood control reservoirs"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "Sediment trapping"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Strategies to control and manage sediment buildup in reservoirs.",
+        "state": "unexplored"
+    },
+    "Emergency flood reservoirs": {
+        "superconcepts": [
+            "Flood control reservoirs"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Additional reservoirs used during emergency flood situations.",
+        "state": "unexplored"
+    }
+}

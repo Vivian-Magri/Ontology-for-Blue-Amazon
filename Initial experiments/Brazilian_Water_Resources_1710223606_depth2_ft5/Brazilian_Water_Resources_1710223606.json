@@ -1,0 +1,190 @@
+{
+    "Thing": {
+        "superconcepts": [],
+        "levels": [
+            -1
+        ],
+        "subconcepts": [
+            "Brazilian Water Resources"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "state": "explored",
+        "definition": "top concept"
+    },
+    "Brazilian Water Resources": {
+        "superconcepts": [
+            "Thing"
+        ],
+        "levels": [
+            0
+        ],
+        "subconcepts": [
+            "Lakes",
+            "Reservoirs",
+            "Estuaries"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Brazilian Water Resources refer to the various bodies of water, such as rivers, lakes, and aquifers, that are found within the borders of Brazil and are essential for supporting the country's ecosystems and human populations.",
+        "state": "explored"
+    },
+    "No subconcept": {
+        "superconcepts": [
+            "Estuaries",
+            "Freshwater lakes",
+            "Recreation",
+            "Flood control reservoirs"
+        ],
+        "levels": [
+            99
+        ],
+        "subconcepts": [],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "state": "explored",
+        "definition": "bottom concept"
+    },
+    "Lakes": {
+        "superconcepts": [
+            "Brazilian Water Resources"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "Natural lakes",
+            "Man-made lakes"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Inland bodies of water that vary in size and depth, serving as habitats for aquatic life and important for water storage and recreation.",
+        "state": "explored"
+    },
+    "Reservoirs": {
+        "superconcepts": [
+            "Brazilian Water Resources"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "Man-made lakes",
+            "Flood control reservoirs",
+            "Recreational reservoirs"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Artificial lakes created by damming rivers, used for water supply, flood control, hydropower generation, and recreational activities.",
+        "state": "explored"
+    },
+    "Estuaries": {
+        "superconcepts": [
+            "Brazilian Water Resources"
+        ],
+        "levels": [
+            1
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Coastal bodies of water where freshwater from rivers mixes with saltwater from the ocean.",
+        "state": "explored_empty"
+    },
+    "Natural lakes": {
+        "superconcepts": [
+            "Lakes"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "Freshwater lakes"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Lakes that form naturally through geological processes, such as glacial, volcanic, or tectonic activity.",
+        "state": "unexplored"
+    },
+    "Freshwater lakes": {
+        "superconcepts": [
+            "Natural lakes"
+        ],
+        "levels": [
+            3
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Lakes with predominantly fresh water.",
+        "state": "unexplored"
+    },
+    "Man-made lakes": {
+        "superconcepts": [
+            "Lakes",
+            "Reservoirs"
+        ],
+        "levels": [
+            2,
+            2
+        ],
+        "subconcepts": [
+            "Recreation"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Lakes created by human activities, such as damming rivers or excavating land.",
+        "state": "unexplored"
+    },
+    "Recreation": {
+        "superconcepts": [
+            "Man-made lakes",
+            "Recreational reservoirs"
+        ],
+        "levels": [
+            3,
+            3
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Reservoirs that provide opportunities for leisure activities.",
+        "state": "unexplored"
+    },
+    "Flood control reservoirs": {
+        "superconcepts": [
+            "Reservoirs"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "No subconcept"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Reservoirs built primarily to mitigate the impacts of flooding in downstream areas.",
+        "state": "unexplored"
+    },
+    "Recreational reservoirs": {
+        "superconcepts": [
+            "Reservoirs"
+        ],
+        "levels": [
+            2
+        ],
+        "subconcepts": [
+            "Recreation"
+        ],
+        "cycles": [],
+        "subconcepts (exceeding outdegree)": [],
+        "definition": "Reservoirs that provide opportunities for leisure activities such as boating, fishing, and swimming.",
+        "state": "unexplored"
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "model": "gpt-3.5-turbo",
+    "start": "2024-03-12 03:06:46",
+    "end": "2024-03-12 03:07:30",
+    "duration (seconds)": 44,
+    "timestamp": 1710223606,
+    "seed concept": "Brazilian Water Resources",
+    "prompts": 181,
+    "duplicates": 2,
+    "tokens (total)": 25885,
+    "tokens (responses)": 2136,
+    "tokens (requests)": 23749,
+    "parameters": {
+        "temperature (sampling)": 2.0,
+        "top_p (sampling)": 0.99,
+        "number of completions (sampling)": 100,
+        "frequency threshold for sampling": 5,
+        "exploration depth": 2
+    },
+    "statistics": {
+        "Concepts in ontology": 10,
+        "Accepted after renaming": 1,
+        "Dismissed terms": 41,
+        "Dismissed as instance": 21,
+        "Dismissed as partOf": 17,
+        "Dismissed as no subconcept of seed": 1,
+        "Dismissed as no subconcept of parent": 2,
+        "Synonyms": 0,
+        "Concepts without subconcept": 4,
+        "Subsumptions (transitive reduction)": 11,
+        "Subsumptions (found by KRIS)": 2,
+        "Cost of ontology in dollar": 0.04,
+        "Cost per concept in cent": 0.4,
+        "Prompts": 181,
+        "Prompts per concept": 18.1,
+        "Tokens": 25885,
+        "Tokens per concept": 2588,
+        "Maximal depth": 3,
+        "Maximal indegree": 2,
+        "Maximal outdegree": 3,
+        "Average degree": 1.1,
+        "Depth 0": {
+            "Concepts": 1,
+            "Concepts without subconcept": 0,
+            "Maximal indegree": 0,
+            "Maximal outdegree": 3,
+            "Average indegree": 0.0,
+            "Average outdegree": 3.0
+        },
+        "Depth 1": {
+            "Concepts": 3,
+            "Concepts without subconcept": 1,
+            "Maximal indegree": 1,
+            "Maximal outdegree": 3,
+            "Average indegree": 1.0,
+            "Average outdegree": 1.67
+        },
+        "Depth 2": {
+            "Concepts": 4,
+            "Concepts without subconcept": 1,
+            "Maximal indegree": 2,
+            "Maximal outdegree": 1,
+            "Average indegree": 1.25,
+            "Average outdegree": 0.75
+        },
+        "Depth 3": {
+            "Concepts": 2,
+            "Concepts without subconcept": 2,
+            "Maximal indegree": 2,
+            "Maximal outdegree": 0,
+            "Average indegree": 1.5,
+            "Average outdegree": 0.0
+        },
+        "Outdegree 0": {
+            "Concepts": 4,
+            "Minimal depth": 1,
+            "Maximal depth": 3,
+            "Average depth": 2,
+            "Median depth": 2.5
+        },
+        "Outdegree 1": {
+            "Concepts": 3,
+            "Minimal depth": 2,
+            "Maximal depth": 2,
+            "Average depth": 2,
+            "Median depth": 2
+        },
+        "Outdegree 2": {
+            "Concepts": 1,
+            "Minimal depth": 1,
+            "Maximal depth": 1,
+            "Average depth": 1,
+            "Median depth": 1
+        },
+        "Outdegree 3": {
+            "Concepts": 2,
+            "Minimal depth": 0,
+            "Maximal depth": 1,
+            "Average depth": 0,
+            "Median depth": 0.5
+        }
+    }
+}

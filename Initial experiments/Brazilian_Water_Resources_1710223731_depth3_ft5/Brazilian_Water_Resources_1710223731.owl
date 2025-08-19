@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <owl:Class rdf:about="#Reservoir%20lakes">
+    <rdfs:label>Reservoir lakes</rdfs:label>
+    <rdfs:comment>Artificial lakes created by constructing dams across rivers to store water for various purposes.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Man-made%20lakes"/>
+    <rdfs:subClassOf rdf:resource="#Freshwater%20lakes"/>
+  </owl:Class>
+  <owl:Ontology rdf:about="file:///Brazilian Water Resources.owl"/>
+  <owl:Class rdf:about="#Recreation">
+    <rdfs:label>Recreation</rdfs:label>
+    <rdfs:comment>Reservoirs that provide opportunities for leisure activities.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Recreational%20reservoirs"/>
+    <rdfs:subClassOf rdf:resource="#Recreational%20lakes"/>
+  </owl:Class>
+  <owl:Class rdf:about="#O%20natural%20lakes">
+    <rdfs:label>O natural lakes</rdfs:label>
+    <rdfs:comment>O natural lakes is a subcategory of Freshwater lakes. Lakes with predominantly fresh water.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Freshwater%20lakes"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Lake%20ecosystem%20services">
+    <rdfs:label>Lake ecosystem services</rdfs:label>
+    <rdfs:comment>The benefits that freshwater lakes provide to both the environment and human populations.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Freshwater%20lakes"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Oligotrophic%20lakes">
+    <rdfs:label>Oligotrophic lakes</rdfs:label>
+    <rdfs:comment>Lakes with low nutrient levels, clear water, and limited plant and algae growth.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Freshwater%20lakes"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Sediment%20trapping">
+    <rdfs:label>Sediment trapping</rdfs:label>
+    <rdfs:comment>Reservoirs that capture sediment to prevent downstream erosion.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Sediment%20management%20strategies"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Hydroelectric%20reservoirs">
+    <rdfs:label>Hydroelectric reservoirs</rdfs:label>
+    <rdfs:comment>Man-made lakes formed by damming rivers to store water for hydroelectric power generation.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Man-made%20lakes"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Eutrophic%20lakes">
+    <rdfs:label>Eutrophic lakes</rdfs:label>
+    <rdfs:comment>Lakes with high nutrient levels, often resulting in excessive plant growth and low oxygen levels.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Freshwater%20lakes"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Emergency%20flood%20reservoirs">
+    <rdfs:label>Emergency flood reservoirs</rdfs:label>
+    <rdfs:comment>Additional reservoirs used during emergency flood situations.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Flood%20control%20reservoirs"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Mesotrophic%20lakes">
+    <rdfs:label>Mesotrophic lakes</rdfs:label>
+    <rdfs:comment>Lakes with moderate nutrient levels and a balance of plant and animal life.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Freshwater%20lakes"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Estuaries">
+    <rdfs:label>Estuaries</rdfs:label>
+    <rdfs:comment>Coastal bodies of water where freshwater from rivers mixes with saltwater from the ocean.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Brazilian%20Water%20Resources"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Freshwater%20lakes">
+    <rdfs:label>Freshwater lakes</rdfs:label>
+    <rdfs:comment>Lakes with predominantly fresh water.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Natural%20lakes"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Flood%20control%20reservoirs">
+    <rdfs:label>Flood control reservoirs</rdfs:label>
+    <rdfs:comment>Reservoirs built primarily to mitigate the impacts of flooding in downstream areas.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Reservoirs"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Lakes">
+    <rdfs:label>Lakes</rdfs:label>
+    <rdfs:comment>Inland bodies of water that vary in size and depth, serving as habitats for aquatic life and important for water storage and recreation.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Brazilian%20Water%20Resources"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Recreational%20reservoirs">
+    <rdfs:label>Recreational reservoirs</rdfs:label>
+    <rdfs:comment>Reservoirs that provide opportunities for leisure activities such as boating, fishing, and swimming.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Reservoirs"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Man-made%20lakes">
+    <rdfs:label>Man-made lakes</rdfs:label>
+    <rdfs:comment>Lakes created by human activities, such as damming rivers or excavating land.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Reservoirs"/>
+    <rdfs:subClassOf rdf:resource="#Lakes"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Brazilian%20Water%20Resources">
+    <rdfs:label>Brazilian Water Resources</rdfs:label>
+    <rdfs:comment>Brazilian Water Resources refer to the various bodies of water, such as rivers, lakes, and aquifers, that are found within the borders of Brazil and are essential for supporting the country's ecosystems and human populations.</rdfs:comment>
+  </owl:Class>
+  <owl:Class rdf:about="#Reservoirs">
+    <rdfs:label>Reservoirs</rdfs:label>
+    <rdfs:comment>Artificial lakes created by damming rivers, used for water supply, flood control, hydropower generation, and recreational activities.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Brazilian%20Water%20Resources"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Natural%20lakes">
+    <rdfs:label>Natural lakes</rdfs:label>
+    <rdfs:comment>Lakes that form naturally through geological processes, such as glacial, volcanic, or tectonic activity.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Lakes"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Recreational%20lakes">
+    <rdfs:label>Recreational lakes</rdfs:label>
+    <rdfs:comment>Man-made lakes created primarily for recreational activities such as swimming, boating, and fishing.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Man-made%20lakes"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Sediment%20management%20strategies">
+    <rdfs:label>Sediment management strategies</rdfs:label>
+    <rdfs:comment>Strategies to control and manage sediment buildup in reservoirs.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="#Flood%20control%20reservoirs"/>
+  </owl:Class>
+</rdf:RDF>
