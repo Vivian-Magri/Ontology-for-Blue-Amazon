@@ -1,1 +1,1 @@
-These codes versions were based on the work described on the publication [Towards Ontology Construction with Language Models](https://www.informatik.uni-leipzig.de/kr/research/papers/2023/onto_llm.pdf) and made available by the authors.
+These code versions were based on the work described on the publication [Towards Ontology Construction with Language Models](https://www.informatik.uni-leipzig.de/kr/research/papers/2023/onto_llm.pdf) and made available by the authors.
